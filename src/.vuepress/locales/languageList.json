@@ -1,0 +1,18 @@
+{
+    "list":{
+        "/":{
+          "lang": "en-US",
+          "lncode": "en",
+          "lnname": "English",
+          "title": "theDataTalks",
+          "description": "Blogs of Politics, economics, education & others"
+        },
+        "/ta/":{
+          "lang": "ta-IN",
+          "lncode": "ta",
+          "lnname": "தமிழ்",
+          "title": "தி டேட்டா டாக்ஸ்",
+          "description": "இந்த தளம் அரசியல், பொருளாதாரம், கல்வி மற்றும் பிற வலைப்பதிவுகளை கொண்டுள்ளது"
+        }
+    }
+}

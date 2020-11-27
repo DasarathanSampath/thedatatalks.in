@@ -1,0 +1,149 @@
+{
+    "list":{
+            "selectText": "Languages",
+            "label": "English",
+            "ariaLabel": "Languages",
+            "serviceWorker": {
+              "updatePopup": {
+                "message": "New content is available.",
+                "buttonText": "Refresh"
+              }
+            },
+            "algolia": {},
+            "repo": "",
+            "editLinks": false,
+            "docsDir": "",
+            "editLinkText": "",
+            "lastUpdated": false,
+            "nav": [
+              {
+                "text": "Politics",
+                "link": "/politics/"
+              },
+              {
+                "text": "Economics",
+                "link": "/economics/"
+              },
+              {
+                "text": "Education",
+                "link": "/education/"
+              },
+              {
+                "text": "Others",
+                "link": "/others/"
+              }
+            ],
+            "sidebar": {
+              "/politics/": [
+                {
+                  "title": "Navigations",
+                  "collapsable": false,
+                  "children": [
+                    "",
+                    "centrism",
+                    "constitution",
+                    "delhi-2008-legislative-election",
+                    "delhi-2013-legislative-election",
+                    "delhi-2015-legislative-election",
+                    "delhi-electors-voters-details",
+                    "delhi-over-view-of-legislative-results",
+                    "delhi-vote-share-and-growth",
+                    "electors-voters-details",
+                    "inc-major-milestone",
+                    "india-1991-parliamentary-election",
+                    "india-1996-parliamentary-election",
+                    "india-1998-parliamentary-election",
+                    "india-1999-parliamentary-election",
+                    "india-2004-parliamentary-election",
+                    "india-2009-parliamentary-election",
+                    "india-2014-parliamentary-election",
+                    "india-2019-parliamentary-election",
+                    "jharkhand-2005-legislative-election",
+                    "jharkhand-2009-legislative-election",
+                    "jharkhand-2014-legislative-election",
+                    "leftism",
+                    "major-milestone-bjp",
+                    "over-view-of-indian-parliamentary-results",
+                    "political-alliances-of-india",
+                    "political-spectrum",
+                    "rightism",
+                    "tamil-nadu-2001-legislative-election",
+                    "tamil-nadu-2006-legislative-election",
+                    "tamil-nadu-2011-legislative-election",
+                    "tamil-nadu-2016-legislative-election",
+                    "tn-electors-voters-details",
+                    "tn-over-view-of-legislative-results",
+                    "tn-vote-share-and-growth",
+                    "vote-share-and-growth"
+                  ]
+                }
+              ],
+              "/economics/": [
+                {
+                  "title": "Navigations",
+                  "collapsable": false,
+                  "children": [
+                    "",
+                    "analysis-on-imports-and-exports-of-india",
+                    "compound-interest",
+                    "exports-of-india",
+                    "imports-of-india",
+                    "nifty50-10year-bond-yield",
+                    "recurring-deposit",
+                    "reinvestment-deposit-scheme"
+                  ]
+                }
+            ],
+            "/education/": [
+              {
+                "title": "Navigations",
+                "collapsable": false,
+                "children": [
+                  "",
+                  "bernouli-distribution-binomial-trials",
+                  "covid19-corona-virus-china-data",
+                  "covid19-corona-virus-india-data",
+                  "covid19-corona-virus-world-data",
+                  "nginx-pm2-nuxtjs",
+                  "pm25-tl-hyderabad-sanathnagar",
+                  "pm25-tn-chennai-alandur",
+                  "p-value",
+                  "standard-deviation-and-error",
+                  "uniform-distribution"
+                ]
+              }
+          ],
+          "/others/": [
+            {
+              "title": "Navigations",
+              "collapsable": false,
+              "children": [
+                "",
+                "garlic-sauteed-vegetables",
+                "murgh-cheese-kebab",
+                "gun-powder-chicken",
+                "sponge-cake"
+              ]
+            }
+          ]        
+        },
+        "foot": [
+            {
+              "text": "About",
+              "link": "/about/"
+            },
+            {
+              "text": "Contact",
+              "link": "/contact/"
+            },
+            {
+              "text": "Disclaimer",
+              "link": "/disclaimer/"
+            },
+            {
+              "text": "Privacy",
+              "link": "/privacy/"
+            }
+        ]
+    }
+}

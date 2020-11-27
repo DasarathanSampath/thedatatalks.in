@@ -1,0 +1,138 @@
+{
+    "list": {
+        "selectText": "மொழிகள்",
+        "label": "தமிழ்",
+        "serviceWorker": {
+          "updatePopup": {
+            "message": "புதிய உள்ளடக்கம் சேர்க்கப்பட்டுள்ளது.",
+            "buttonText": "புதுப்பிக்கவும்"
+          }
+        },
+        "algolia": {},
+        "repo": "",
+        "editLinks": false,
+        "docsDir": "",
+        "editLinkText": "",
+        "lastUpdated": false,
+        "nav": [
+          {
+            "text": "அரசியல்",
+            "link": "/ta/politics/"
+          },
+          {
+            "text": "பொருளாதாரம்",
+            "link": "/ta/economics/"
+          },
+          {
+            "text": "கல்வி",
+            "link": "/ta/education/"
+          },
+          {
+            "text": "மற்றவை",
+            "link": "/ta/others/"
+          }
+        ],
+        "sidebar": {
+          "/ta/politics/": [
+            {
+              "title": "வழிச்செலுத்தல்கள்",
+              "collapsable": false,
+              "children": [
+                "",
+                "delhi-2008-legislative-election",
+                "delhi-2013-legislative-election",
+                "delhi-2015-legislative-election",
+                "delhi-electors-voters-details",
+                "delhi-over-view-of-legislative-results",
+                "india-1991-parliamentary-election",
+                "india-1996-parliamentary-election",
+                "india-1998-parliamentary-election",
+                "india-1999-parliamentary-election",
+                "india-2004-parliamentary-election",
+                "india-2009-parliamentary-election",
+                "india-2014-parliamentary-election",
+                "india-2019-parliamentary-election",
+                "jharkhand-2005-legislative-election",
+                "jharkhand-2009-legislative-election",
+                "jharkhand-2014-legislative-election",
+                "over-view-of-indian-parliamentary-results",
+                "political-spectrum",
+                "tamil-nadu-2001-legislative-election",
+                "tamil-nadu-2006-legislative-election",
+                "tamil-nadu-2011-legislative-election",
+                "tamil-nadu-2016-legislative-election",
+                "tn-electors-voters-details",
+                "tn-over-view-of-legislative-results",
+                "tn-vote-share-and-growth",
+                "vote-share-and-growth"
+              ]
+            }
+          ],
+          "/ta/economics/": [
+            {
+              "title": "வழிச்செலுத்தல்கள்",
+              "collapsable": false,
+              "children": [
+                "",
+                "analysis-on-imports-and-exports-of-india",
+                "compound-interest",
+                "nifty50-10year-bond-yield",
+                "recurring-deposit",
+                "reinvestment-deposit-scheme"
+              ]
+            }
+          ],
+          "/ta/education/": [
+            {
+              "title": "வழிச்செலுத்தல்கள்",
+              "collapsable": false,
+              "children": [
+                "",
+                "covid19-corona-virus-world-data",
+                "covid19-corona-virus-india-data",
+                "covid19-corona-virus-china-data",
+                "nginx-pm2-nuxtjs",
+                "pm25-tn-chennai-alandur"
+              ]
+            }
+          ],
+          "/ta/others/": [
+            {
+              "title": "வழிச்செலுத்தல்கள்",
+              "collapsable": false,
+              "children": [
+                "",
+                "anjirai-tamizh-ezhuthu",
+                "cirupanjamoolam",
+                "garlic-sauteed-vegetables",
+                "gun-powder-chicken",
+                "irattaip-pulavargal",
+                "kaalamega-pulavar",
+                "naaladiyar",
+                "nanmanikadigai",
+                "sponge-cake"
+              ]
+            }
+          ]      
+        },
+        "foot": [
+            {
+              "text": "எங்களை பற்றி",
+              "link": "/ta/about/"
+            },
+            
+            {
+              "text": "தொடர்புக்கு",
+              "link": "/ta/contact/"
+            },
+            {
+              "text": "பொறுப்பாகாமை",
+              "link": "/ta/disclaimer/"
+            },
+            {
+              "text": "தகவல் பாதுகாப்பு",
+              "link": "/ta/privacy/"
+            }
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+  "name": "tdt1",
+  "version": "0.0.1",
+  "description": "the data talks",
+  "main": "index.js",
+  "authors": {
+    "name": "Dasa",
+    "email": "dasarathan.sampath@gmail.com"
+  },
+  "repository": "/tdt1",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/plugin-google-analytics": "^1.7.1",
+    "@vuepress/plugin-nprogress": "^1.7.1",
+    "install": "^0.13.0",
+    "npm": "^6.14.9",
+    "vuepress": "^1.5.3",
+    "vuepress-plugin-autometa": "^0.1.13",
+    "vuepress-plugin-feed": "^0.1.9",
+    "vuepress-plugin-google-adsense": "^0.1.1"
+  },
+  "dependencies": {
+    "@vuepress/shared-utils": "^1.7.1",
+    "firebase": "^8.1.1",
+    "firebase-tools": "^8.16.2",
+    "markdown-it-katex": "^2.0.3",
+    "moment": "^2.29.1",
+    "vue-toasted": "^1.1.28",
+    "vuelidate": "^0.7.6",
+    "vuepress-plugin-clean-urls": "^1.1.2",
+    "vuepress-plugin-sitemap": "^2.3.1",
+    "vuex": "^3.6.0"
+  }
+}
