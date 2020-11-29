@@ -5,43 +5,17 @@
     "feed_url": "https://thedatatalks.in/feed.json",
     "items": [
         {
-            "id": "https://thedatatalks.in/economics/analysis-on-imports-and-exports-of-india/",
-            "url": "https://thedatatalks.in/economics/analysis-on-imports-and-exports-of-india/",
-            "title": "Analysis on Imports and Exports of India",
-            "image": "https://thedatatalks.in/img/economics/import-export-analysis/figure-markdown/img1.png\"",
-            "date_modified": "2019-02-16T18:30:00.000Z"
-        },
-        {
-            "id": "https://thedatatalks.in/economics/compound-interest/",
-            "url": "https://thedatatalks.in/economics/compound-interest/",
-            "title": "Compound interest",
-            "date_modified": "2020-04-21T18:30:00.000Z"
-        },
-        {
             "id": "https://thedatatalks.in/economics/",
             "url": "https://thedatatalks.in/economics/",
             "title": "Economics",
             "date_modified": "2019-02-16T18:30:00.000Z"
         },
         {
-            "id": "https://thedatatalks.in/economics/imports-of-india/",
-            "url": "https://thedatatalks.in/economics/imports-of-india/",
-            "title": "Imports of India",
-            "image": "https://thedatatalks.in/img/economics/imports-of-india/figure-markdown/imports-of-india-1.png",
+            "id": "https://thedatatalks.in/economics/analysis-on-imports-and-exports-of-india/",
+            "url": "https://thedatatalks.in/economics/analysis-on-imports-and-exports-of-india/",
+            "title": "Analysis on Imports and Exports of India",
+            "image": "https://thedatatalks.in/img/economics/import-export-analysis/figure-markdown/img1.png\"",
             "date_modified": "2019-02-16T18:30:00.000Z"
-        },
-        {
-            "id": "https://thedatatalks.in/economics/nifty50-10year-bond-yield/",
-            "url": "https://thedatatalks.in/economics/nifty50-10year-bond-yield/",
-            "title": "Nifty50 yield & 10-Years Bond yield",
-            "image": "https://thedatatalks.in/img/economics/nifty50-10year-bond-yield/figure-markdown/bond_Nifty_yield-1.png",
-            "date_modified": "2020-03-13T18:30:00.000Z"
-        },
-        {
-            "id": "https://thedatatalks.in/economics/recurring-deposit/",
-            "url": "https://thedatatalks.in/economics/recurring-deposit/",
-            "title": "Recurring deposit",
-            "date_modified": "2020-04-21T18:30:00.000Z"
         },
         {
             "id": "https://thedatatalks.in/economics/exports-of-india/",
@@ -51,15 +25,16 @@
             "date_modified": "2019-02-16T18:30:00.000Z"
         },
         {
-            "id": "https://thedatatalks.in/economics/reinvestment-deposit-scheme/",
-            "url": "https://thedatatalks.in/economics/reinvestment-deposit-scheme/",
-            "title": "Reinvestment Deposit Scheme",
-            "date_modified": "2020-04-29T18:30:00.000Z"
+            "id": "https://thedatatalks.in/economics/compound-interest/",
+            "url": "https://thedatatalks.in/economics/compound-interest/",
+            "title": "Compound interest",
+            "date_modified": "2020-04-21T18:30:00.000Z"
         },
         {
-            "id": "https://thedatatalks.in/education/",
-            "url": "https://thedatatalks.in/education/",
-            "title": "Education",
+            "id": "https://thedatatalks.in/economics/imports-of-india/",
+            "url": "https://thedatatalks.in/economics/imports-of-india/",
+            "title": "Imports of India",
+            "image": "https://thedatatalks.in/img/economics/imports-of-india/figure-markdown/imports-of-india-1.png",
             "date_modified": "2019-02-16T18:30:00.000Z"
         },
         {
@@ -70,18 +45,29 @@
             "date_modified": "2020-04-25T18:30:00.000Z"
         },
         {
-            "id": "https://thedatatalks.in/education/covid19-corona-virus-india-data/",
-            "url": "https://thedatatalks.in/education/covid19-corona-virus-india-data/",
-            "title": "India Covid-19 Corona virus data",
-            "image": "https://thedatatalks.in/img/education/covid19-corona-virus-india-data_files/figure-markdown/world%20corona%20plot-1.png",
-            "date_modified": "2020-04-01T18:30:00.000Z"
+            "id": "https://thedatatalks.in/economics/recurring-deposit/",
+            "url": "https://thedatatalks.in/economics/recurring-deposit/",
+            "title": "Recurring deposit",
+            "date_modified": "2020-04-21T18:30:00.000Z"
         },
         {
-            "id": "https://thedatatalks.in/education/covid19-corona-virus-world-data/",
-            "url": "https://thedatatalks.in/education/covid19-corona-virus-world-data/",
-            "title": "World Covid-19 Corona virus data",
-            "image": "https://thedatatalks.in/img/education/covid19-corona-virus-world-data_files/figure-markdown/world%20corona%20plot-1.png",
-            "date_modified": "2020-04-04T18:30:00.000Z"
+            "id": "https://thedatatalks.in/economics/nifty50-10year-bond-yield/",
+            "url": "https://thedatatalks.in/economics/nifty50-10year-bond-yield/",
+            "title": "Nifty50 yield & 10-Years Bond yield",
+            "image": "https://thedatatalks.in/img/economics/nifty50-10year-bond-yield/figure-markdown/bond_Nifty_yield-1.png",
+            "date_modified": "2020-03-13T18:30:00.000Z"
+        },
+        {
+            "id": "https://thedatatalks.in/education/",
+            "url": "https://thedatatalks.in/education/",
+            "title": "Education",
+            "date_modified": "2019-02-16T18:30:00.000Z"
+        },
+        {
+            "id": "https://thedatatalks.in/economics/reinvestment-deposit-scheme/",
+            "url": "https://thedatatalks.in/economics/reinvestment-deposit-scheme/",
+            "title": "Reinvestment Deposit Scheme",
+            "date_modified": "2020-04-29T18:30:00.000Z"
         },
         {
             "id": "https://thedatatalks.in/education/covid19-corona-virus-china-data/",
@@ -89,6 +75,13 @@
             "title": "China Covid-19 Corona virus data",
             "image": "https://thedatatalks.in/img/education/covid19-corona-virus-china-data_files/figure-markdown/world%20corona%20plot-1.png",
             "date_modified": "2020-04-04T18:30:00.000Z"
+        },
+        {
+            "id": "https://thedatatalks.in/education/covid19-corona-virus-india-data/",
+            "url": "https://thedatatalks.in/education/covid19-corona-virus-india-data/",
+            "title": "India Covid-19 Corona virus data",
+            "image": "https://thedatatalks.in/img/education/covid19-corona-virus-india-data_files/figure-markdown/world%20corona%20plot-1.png",
+            "date_modified": "2020-04-01T18:30:00.000Z"
         },
         {
             "id": "https://thedatatalks.in/education/nginx-pm2-nuxtjs/",
@@ -101,6 +94,13 @@
             "url": "https://thedatatalks.in/education/p-value/",
             "title": "p-value",
             "date_modified": "2020-04-25T18:30:00.000Z"
+        },
+        {
+            "id": "https://thedatatalks.in/education/covid19-corona-virus-world-data/",
+            "url": "https://thedatatalks.in/education/covid19-corona-virus-world-data/",
+            "title": "World Covid-19 Corona virus data",
+            "image": "https://thedatatalks.in/img/education/covid19-corona-virus-world-data_files/figure-markdown/world%20corona%20plot-1.png",
+            "date_modified": "2020-04-04T18:30:00.000Z"
         },
         {
             "id": "https://thedatatalks.in/education/pm25-tl-hyderabad-sanathnagar/",
@@ -130,10 +130,11 @@
             "date_modified": "2020-04-25T18:30:00.000Z"
         },
         {
-            "id": "https://thedatatalks.in/others/",
-            "url": "https://thedatatalks.in/others/",
-            "title": "Others",
-            "date_modified": "2019-02-16T18:30:00.000Z"
+            "id": "https://thedatatalks.in/others/garlic-sauteed-vegetables/",
+            "url": "https://thedatatalks.in/others/garlic-sauteed-vegetables/",
+            "title": "Garlic sauteed vegetables",
+            "image": "https://thedatatalks.in/img/others/garlic-sauteed-vegetables/_thumbnail.png",
+            "date_modified": "2020-03-13T18:30:00.000Z"
         }
     ]
 }

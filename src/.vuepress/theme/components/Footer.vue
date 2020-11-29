@@ -5,6 +5,9 @@
                 :item="footerLink"
             />
         </div>
+        <div style="text-align: center;">
+            <i style="font-size: 0.9rem; background: black; font-weight: bold; color: white;"> {{footerSlogan}} </i>
+        </div>
     </footer>
 </template>
 
@@ -18,6 +21,9 @@ export default {
     computed: {
         footerLinks(){
             return this.$themeConfig.locales[this.$localePath].foot
+        },
+        footerSlogan() {
+            return this.$themeConfig.locales[this.$localePath].footSlohan
         }
     }
 }

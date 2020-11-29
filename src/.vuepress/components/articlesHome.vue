@@ -67,7 +67,7 @@ export default {
       const blogsEducation = this.$site.pages.filter(page => page.path.includes('/education/'))
       const blogsOthers = this.$site.pages.filter(page => page.path.includes('/others/'))
       const blogsTotalSorted = blogsPolitics.concat(blogsEconomics, blogsEducation, blogsOthers)
-      const blogsTotal = this.shuffle(blogsTotalSorted)
+      const blogsTotal = blogsTotalSorted
       var iP = blogsTotal.length
       while (iP--) {
           if (blogsTotal[iP].frontmatter.isHome || blogsTotal[iP].frontmatter.articleLang !== this.$lang) { 
@@ -94,7 +94,7 @@ export default {
     imgPath (id, topic) {
       return require(`@assets/thumbnails/${topic}/${id}/_thumbnail.png`)
     },
-    shuffle(array) {
+    /* shuffle(array) {
       var currentIndex = array.length
       var randomIndex, temporaryValue
      // While there remain elements to shuffle...
@@ -108,7 +108,7 @@ export default {
         array[randomIndex] = temporaryValue
       }
     return array
-    }
+    } */
   }
 }
 </script>

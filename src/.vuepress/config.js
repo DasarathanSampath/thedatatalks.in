@@ -43,7 +43,14 @@ module.exports = {
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
     ['link', { rel: 'icon', href: '/favicon.png' }],
-    ['link', { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.5.1/katex.min.css' }]  
+    ['link', { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.5.1/katex.min.css' }],
+    // The core Firebase JS SDK is always required and must be listed first -->
+    // ['script', { src: "/__/firebase/8.1.1/firebase-app.js"}],
+    // TODO: Add SDKs for Firebase products that you want to use
+    // https://firebase.google.com/docs/web/setup#available-libraries -->
+    // ['script', { src: "/__/firebase/8.1.1/firebase-analytics.js"}]
+    // Initialize Firebase
+    // ['script', { src: "/__/firebase/init.js"  }]
   ],
   locales: languagesList.list,
   themeConfig: {
