@@ -9,7 +9,6 @@
     <Content class="theme-default-content" />
     <PageEdit />
     <PageNav v-bind="{ sidebarItems }" />
-
     <slot name="bottom" />
   </main>
 </template>
@@ -38,7 +37,7 @@ export default {
       else {
         return (this.$page.path).substring(3)
       }
-    }
+    },
   }
 }
 </script>

@@ -1,4 +1,9 @@
 import Vuex from 'vuex'
+import Vue from 'vue'
+import store from './store/index'
+import vuelidate from 'vuelidate'
+
+Vue.use(vuelidate)
 
 export default ({
   Vue, // the version of Vue being used in the VuePress app
@@ -8,7 +13,8 @@ export default ({
 }) => {
 
   Vue.use(Vuex),
+  Vue.mixin({store: store}),
   router.addRoutes([
-    
+
   ]);
 }

@@ -11,6 +11,12 @@
             "date_modified": "2019-02-16T18:30:00.000Z"
         },
         {
+            "id": "https://thedatatalks.in/economics/compound-interest/",
+            "url": "https://thedatatalks.in/economics/compound-interest/",
+            "title": "Compound interest",
+            "date_modified": "2020-04-21T18:30:00.000Z"
+        },
+        {
             "id": "https://thedatatalks.in/economics/analysis-on-imports-and-exports-of-india/",
             "url": "https://thedatatalks.in/economics/analysis-on-imports-and-exports-of-india/",
             "title": "Analysis on Imports and Exports of India",
@@ -23,26 +29,6 @@
             "title": "Exports of India",
             "image": "https://thedatatalks.in/img/economics/exports-of-india_files/figure-markdown/exports-of-india-1.png",
             "date_modified": "2019-02-16T18:30:00.000Z"
-        },
-        {
-            "id": "https://thedatatalks.in/economics/compound-interest/",
-            "url": "https://thedatatalks.in/economics/compound-interest/",
-            "title": "Compound interest",
-            "date_modified": "2020-04-21T18:30:00.000Z"
-        },
-        {
-            "id": "https://thedatatalks.in/economics/imports-of-india/",
-            "url": "https://thedatatalks.in/economics/imports-of-india/",
-            "title": "Imports of India",
-            "image": "https://thedatatalks.in/img/economics/imports-of-india/figure-markdown/imports-of-india-1.png",
-            "date_modified": "2019-02-16T18:30:00.000Z"
-        },
-        {
-            "id": "https://thedatatalks.in/education/bernouli-distribution-binomial-trials/",
-            "url": "https://thedatatalks.in/education/bernouli-distribution-binomial-trials/",
-            "title": "Bernouli distribution & binomial trials",
-            "image": "https://thedatatalks.in/img/education/binomial-distribution/coinflip.png",
-            "date_modified": "2020-04-25T18:30:00.000Z"
         },
         {
             "id": "https://thedatatalks.in/economics/recurring-deposit/",
@@ -64,10 +50,11 @@
             "date_modified": "2019-02-16T18:30:00.000Z"
         },
         {
-            "id": "https://thedatatalks.in/economics/reinvestment-deposit-scheme/",
-            "url": "https://thedatatalks.in/economics/reinvestment-deposit-scheme/",
-            "title": "Reinvestment Deposit Scheme",
-            "date_modified": "2020-04-29T18:30:00.000Z"
+            "id": "https://thedatatalks.in/economics/imports-of-india/",
+            "url": "https://thedatatalks.in/economics/imports-of-india/",
+            "title": "Imports of India",
+            "image": "https://thedatatalks.in/img/economics/imports-of-india/figure-markdown/imports-of-india-1.png",
+            "date_modified": "2019-02-16T18:30:00.000Z"
         },
         {
             "id": "https://thedatatalks.in/education/covid19-corona-virus-china-data/",
@@ -84,23 +71,17 @@
             "date_modified": "2020-04-01T18:30:00.000Z"
         },
         {
-            "id": "https://thedatatalks.in/education/nginx-pm2-nuxtjs/",
-            "url": "https://thedatatalks.in/education/nginx-pm2-nuxtjs/",
-            "title": "Nginx with PM2 for NuxtJs",
-            "date_modified": "2020-04-18T18:30:00.000Z"
+            "id": "https://thedatatalks.in/education/covid19-corona-virus-world-data/",
+            "url": "https://thedatatalks.in/education/covid19-corona-virus-world-data/",
+            "title": "World Covid-19 Corona virus data",
+            "image": "https://thedatatalks.in/img/education/covid19-corona-virus-world-data_files/figure-markdown/world%20corona%20plot-1.png",
+            "date_modified": "2020-04-04T18:30:00.000Z"
         },
         {
             "id": "https://thedatatalks.in/education/p-value/",
             "url": "https://thedatatalks.in/education/p-value/",
             "title": "p-value",
             "date_modified": "2020-04-25T18:30:00.000Z"
-        },
-        {
-            "id": "https://thedatatalks.in/education/covid19-corona-virus-world-data/",
-            "url": "https://thedatatalks.in/education/covid19-corona-virus-world-data/",
-            "title": "World Covid-19 Corona virus data",
-            "image": "https://thedatatalks.in/img/education/covid19-corona-virus-world-data_files/figure-markdown/world%20corona%20plot-1.png",
-            "date_modified": "2020-04-04T18:30:00.000Z"
         },
         {
             "id": "https://thedatatalks.in/education/pm25-tl-hyderabad-sanathnagar/",
@@ -117,9 +98,9 @@
             "date_modified": "2020-03-13T18:30:00.000Z"
         },
         {
-            "id": "https://thedatatalks.in/education/standard-deviation-and-error/",
-            "url": "https://thedatatalks.in/education/standard-deviation-and-error/",
-            "title": "Standard deviation and Standard error",
+            "id": "https://thedatatalks.in/education/nginx-pm2-nuxtjs/",
+            "url": "https://thedatatalks.in/education/nginx-pm2-nuxtjs/",
+            "title": "Nginx with PM2 for NuxtJs",
             "date_modified": "2020-04-18T18:30:00.000Z"
         },
         {
@@ -130,11 +111,30 @@
             "date_modified": "2020-04-25T18:30:00.000Z"
         },
         {
-            "id": "https://thedatatalks.in/others/garlic-sauteed-vegetables/",
-            "url": "https://thedatatalks.in/others/garlic-sauteed-vegetables/",
-            "title": "Garlic sauteed vegetables",
-            "image": "https://thedatatalks.in/img/others/garlic-sauteed-vegetables/_thumbnail.png",
-            "date_modified": "2020-03-13T18:30:00.000Z"
+            "id": "https://thedatatalks.in/economics/reinvestment-deposit-scheme/",
+            "url": "https://thedatatalks.in/economics/reinvestment-deposit-scheme/",
+            "title": "Reinvestment Deposit Scheme",
+            "date_modified": "2020-04-29T18:30:00.000Z"
+        },
+        {
+            "id": "https://thedatatalks.in/others/",
+            "url": "https://thedatatalks.in/others/",
+            "title": "Others",
+            "date_modified": "2019-02-16T18:30:00.000Z"
+        },
+        {
+            "id": "https://thedatatalks.in/education/bernouli-distribution-binomial-trials/",
+            "url": "https://thedatatalks.in/education/bernouli-distribution-binomial-trials/",
+            "title": "Bernouli distribution & binomial trials",
+            "image": "https://thedatatalks.in/img/education/binomial-distribution/coinflip.png",
+            "date_modified": "2020-04-25T18:30:00.000Z"
+        },
+        {
+            "id": "https://thedatatalks.in/others/sponge-cake/",
+            "url": "https://thedatatalks.in/others/sponge-cake/",
+            "title": "Sponge Cake",
+            "image": "https://thedatatalks.in/img/others/sponge-cake/_thumbnail.png",
+            "date_modified": "2020-04-23T18:30:00.000Z"
         }
     ]
 }

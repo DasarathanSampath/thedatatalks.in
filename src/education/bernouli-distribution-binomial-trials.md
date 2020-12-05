@@ -84,12 +84,14 @@ Binomial trials are generated from iid bernouli trials.
 Let X<sub>1</sub>, X<sub>2</sub>, X<sub>3</sub> ... X<sub>n</sub> are iid bernouli trials then
 
 $$\begin{array}{c}
-\begin{aligned}
-\text{The} \, \text{binomial} \, \text{random} \, \text{variable} X = \sum_{i=1}^n X_{i} \\  
-\text{ Binomial} \, \text{mass} \, \text{function } = P_{X=x} = \left( \begin{array}{c} n \\\\ x \end{array} \right) p^{x} (1-p)^{n-x} \\\\
+
+\text{The} \, \text{binomial} \, \text{random} \, \text{variable} \\
+    X = \sum_{i=1}^n X_{i} \\  
+\text{ Binomial} \, \text{mass} \, \text{function } \\
+    = P_{X=x} = \left( \begin{array}{c} n \\\\ x \end{array} \right) p^{x} (1-p)^{n-x} \\\\
 \text{ Here} \, \text{read } \left( \begin{array}{c} n \\\\ x \end{array} \right) \text{ as} \, \text{n} \, \text{choose} \, \text{x.} \, \text{i.e., } \\\\
 \left( \begin{array}{c} n \\\\ x \end{array} \right) = {n! \over x!(n-x)!}
-\end{aligned}
+
 \end{array}$$
 
 **Example:**
@@ -98,7 +100,8 @@ Probability of getting atleast 7 girls(none are twins) out of 8 children for a p
 
 $$\begin{array}{c}
 
-\text{Probability} = \left( \begin{array}{c} 8 \\\\ 7 \end{array} \right) * 0.5^{7} * (1-0.5)^{(8-7)} + \left( \begin{array}{c} 8 \\\\ 8 \end{array} \right) * 0.5^{8} * (1-0.5)^{(8-8)} \\\\
+\text{Probability} = \left( \begin{array}{c} 8 \\\\ 7 \end{array} \right) * 0.5^{7} * (1-0.5)^{(8-7)} \\\\
+    + \left( \begin{array}{c} 8 \\\\ 8 \end{array} \right) * 0.5^{8} * (1-0.5)^{(8-8)} \\\\
 = 0.03516
 
 \end{array}$$
@@ -153,7 +156,8 @@ i.e., (consider the coin is not biased)
 
 $$\begin{array}{c}
 
-\text{=} \left( \begin{array}{c} 100 \\\\ 51 \end{array} \right) * 0.5^{51} * (1-0.5)^{(100-51)} + \left( \begin{array}{c} 100 \\\\ 52 \end{array} \right) * 0.5^{52} * (1-0.5)^{(100-52)}
+\text{=} \left( \begin{array}{c} 100 \\\\ 51 \end{array} \right) * 0.5^{51} * (1-0.5)^{(100-51)} \\\\
+    + \left( \begin{array}{c} 100 \\\\ 52 \end{array} \right) * 0.5^{52} * (1-0.5)^{(100-52)}
 
 \end{array}$$
 
