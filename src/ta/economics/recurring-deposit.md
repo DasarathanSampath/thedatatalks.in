@@ -20,6 +20,8 @@ headA8: பெறத்தக்க வட்டி(B)
 headA9: பெறத்தக்க மொத்தத் தொகை(A+B)
 ---
 
+<altLang />
+
 # {{ $frontmatter.title }}
 <i style="font-size: 0.75em;"> {{ $frontmatter.author }} {{ $frontmatter.date }} </i>
 

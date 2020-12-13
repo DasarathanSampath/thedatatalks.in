@@ -10,6 +10,8 @@ altLang: true
 isHome: false
 ---
 
+<altLang />
+
 # {{ $frontmatter.title }}
 
 மேலும் தகவல்களுக்கு எங்கள் மின் அஞ்சல் முகவரி:

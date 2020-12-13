@@ -12,6 +12,8 @@ isHome: false
 topic: politics
 ---
 
+<altLang />
+
 # {{ $frontmatter.title }}
 <i style="font-size: 0.75em;"> {{ $frontmatter.author }} {{ $frontmatter.date }} </i>
 

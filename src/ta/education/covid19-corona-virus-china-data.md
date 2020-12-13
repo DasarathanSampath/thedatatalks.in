@@ -10,6 +10,9 @@ altLang: true
 isHome: false
 topic: education
 ---
+
+<altLang />
+
 # {{ $frontmatter.title }}
 <i style="font-size: 0.75em;"> {{ $frontmatter.author }} {{ $frontmatter.date }} </i>
 

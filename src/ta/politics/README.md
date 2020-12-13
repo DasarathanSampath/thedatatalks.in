@@ -11,4 +11,6 @@ isHome: true
 topic: politics
 ---
 
+<altLang />
+
 <articlesSection/>

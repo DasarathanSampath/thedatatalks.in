@@ -4,10 +4,18 @@
         <title></title>
         <link>https://thedatatalks.in</link>
         <description></description>
-        <lastBuildDate>Fri, 04 Dec 2020 18:26:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Dec 2020 14:34:39 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <atom:link href="https://thedatatalks.in/feed.atom" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Analysis on Imports and Exports of India]]></title>
+            <link>https://thedatatalks.in/economics/analysis-on-imports-and-exports-of-india/</link>
+            <guid>https://thedatatalks.in/economics/analysis-on-imports-and-exports-of-india/</guid>
+            <pubDate>Sat, 16 Feb 2019 18:30:00 GMT</pubDate>
+            <enclosure url="https://thedatatalks.in/img/economics/import-export-analysis/figure-markdown/img1.png">
+            </enclosure>
+        </item>
         <item>
             <title><![CDATA[Economics]]></title>
             <link>https://thedatatalks.in/economics/</link>
@@ -21,11 +29,11 @@
             <pubDate>Tue, 21 Apr 2020 18:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Analysis on Imports and Exports of India]]></title>
-            <link>https://thedatatalks.in/economics/analysis-on-imports-and-exports-of-india/</link>
-            <guid>https://thedatatalks.in/economics/analysis-on-imports-and-exports-of-india/</guid>
+            <title><![CDATA[Imports of India]]></title>
+            <link>https://thedatatalks.in/economics/imports-of-india/</link>
+            <guid>https://thedatatalks.in/economics/imports-of-india/</guid>
             <pubDate>Sat, 16 Feb 2019 18:30:00 GMT</pubDate>
-            <enclosure url="https://thedatatalks.in/img/economics/import-export-analysis/figure-markdown/img1.png&quot;">
+            <enclosure url="https://thedatatalks.in/img/economics/imports-of-india/figure-markdown/imports-of-india-1.png">
             </enclosure>
         </item>
         <item>
@@ -51,17 +59,23 @@
             </enclosure>
         </item>
         <item>
+            <title><![CDATA[Reinvestment Deposit Scheme]]></title>
+            <link>https://thedatatalks.in/economics/reinvestment-deposit-scheme/</link>
+            <guid>https://thedatatalks.in/economics/reinvestment-deposit-scheme/</guid>
+            <pubDate>Wed, 29 Apr 2020 18:30:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Education]]></title>
             <link>https://thedatatalks.in/education/</link>
             <guid>https://thedatatalks.in/education/</guid>
             <pubDate>Sat, 16 Feb 2019 18:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Imports of India]]></title>
-            <link>https://thedatatalks.in/economics/imports-of-india/</link>
-            <guid>https://thedatatalks.in/economics/imports-of-india/</guid>
-            <pubDate>Sat, 16 Feb 2019 18:30:00 GMT</pubDate>
-            <enclosure url="https://thedatatalks.in/img/economics/imports-of-india/figure-markdown/imports-of-india-1.png">
+            <title><![CDATA[Air Handling Unit (AHU) Selection Guide]]></title>
+            <link>https://thedatatalks.in/education/air-handling-unit-selection/</link>
+            <guid>https://thedatatalks.in/education/air-handling-unit-selection/</guid>
+            <pubDate>Mon, 07 Dec 2020 18:30:00 GMT</pubDate>
+            <enclosure url="https://thedatatalks.in/img/education/air-handling-unit-selection/img1.png">
             </enclosure>
         </item>
         <item>
@@ -73,11 +87,33 @@
             </enclosure>
         </item>
         <item>
+            <title><![CDATA[Bernouli distribution & binomial trials]]></title>
+            <link>https://thedatatalks.in/education/bernouli-distribution-binomial-trials/</link>
+            <guid>https://thedatatalks.in/education/bernouli-distribution-binomial-trials/</guid>
+            <pubDate>Sat, 25 Apr 2020 18:30:00 GMT</pubDate>
+            <enclosure url="https://thedatatalks.in/img/education/binomial-distribution/coinflip.png">
+            </enclosure>
+        </item>
+        <item>
             <title><![CDATA[India Covid-19 Corona virus data]]></title>
             <link>https://thedatatalks.in/education/covid19-corona-virus-india-data/</link>
             <guid>https://thedatatalks.in/education/covid19-corona-virus-india-data/</guid>
             <pubDate>Wed, 01 Apr 2020 18:30:00 GMT</pubDate>
             <enclosure url="https://thedatatalks.in/img/education/covid19-corona-virus-india-data_files/figure-markdown/world%20corona%20plot-1.png">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Nginx with PM2 for NuxtJs]]></title>
+            <link>https://thedatatalks.in/education/nginx-pm2-nuxtjs/</link>
+            <guid>https://thedatatalks.in/education/nginx-pm2-nuxtjs/</guid>
+            <pubDate>Sat, 18 Apr 2020 18:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Air Pollution data-Telangana, Sanathnagar, Hyderabad]]></title>
+            <link>https://thedatatalks.in/education/pm25-tl-hyderabad-sanathnagar/</link>
+            <guid>https://thedatatalks.in/education/pm25-tl-hyderabad-sanathnagar/</guid>
+            <pubDate>Fri, 13 Mar 2020 18:30:00 GMT</pubDate>
+            <enclosure url="https://thedatatalks.in/environment/pm25-tl-hyderabad-sanathnagar_files/figure-markdown/outlier-plots-1.png">
             </enclosure>
         </item>
         <item>
@@ -95,14 +131,6 @@
             <pubDate>Sat, 25 Apr 2020 18:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Air Pollution data-Telangana, Sanathnagar, Hyderabad]]></title>
-            <link>https://thedatatalks.in/education/pm25-tl-hyderabad-sanathnagar/</link>
-            <guid>https://thedatatalks.in/education/pm25-tl-hyderabad-sanathnagar/</guid>
-            <pubDate>Fri, 13 Mar 2020 18:30:00 GMT</pubDate>
-            <enclosure url="https://thedatatalks.in/environment/pm25-tl-hyderabad-sanathnagar_files/figure-markdown/outlier-plots-1.png">
-            </enclosure>
-        </item>
-        <item>
             <title><![CDATA[Air Pollution data - Tamil Nadu; Station: Alandur Bus Depot, Chennai - CPCB]]></title>
             <link>https://thedatatalks.in/education/pm25-tn-chennai-alandur/</link>
             <guid>https://thedatatalks.in/education/pm25-tn-chennai-alandur/</guid>
@@ -111,9 +139,9 @@
             </enclosure>
         </item>
         <item>
-            <title><![CDATA[Nginx with PM2 for NuxtJs]]></title>
-            <link>https://thedatatalks.in/education/nginx-pm2-nuxtjs/</link>
-            <guid>https://thedatatalks.in/education/nginx-pm2-nuxtjs/</guid>
+            <title><![CDATA[Standard deviation and Standard error]]></title>
+            <link>https://thedatatalks.in/education/standard-deviation-and-error/</link>
+            <guid>https://thedatatalks.in/education/standard-deviation-and-error/</guid>
             <pubDate>Sat, 18 Apr 2020 18:30:00 GMT</pubDate>
         </item>
         <item>
@@ -122,34 +150,6 @@
             <guid>https://thedatatalks.in/education/uniform-distribution/</guid>
             <pubDate>Sat, 25 Apr 2020 18:30:00 GMT</pubDate>
             <enclosure url="https://thedatatalks.in/img/education/uniform-distribution/single-fair-dice-pmf.png">
-            </enclosure>
-        </item>
-        <item>
-            <title><![CDATA[Reinvestment Deposit Scheme]]></title>
-            <link>https://thedatatalks.in/economics/reinvestment-deposit-scheme/</link>
-            <guid>https://thedatatalks.in/economics/reinvestment-deposit-scheme/</guid>
-            <pubDate>Wed, 29 Apr 2020 18:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Others]]></title>
-            <link>https://thedatatalks.in/others/</link>
-            <guid>https://thedatatalks.in/others/</guid>
-            <pubDate>Sat, 16 Feb 2019 18:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bernouli distribution & binomial trials]]></title>
-            <link>https://thedatatalks.in/education/bernouli-distribution-binomial-trials/</link>
-            <guid>https://thedatatalks.in/education/bernouli-distribution-binomial-trials/</guid>
-            <pubDate>Sat, 25 Apr 2020 18:30:00 GMT</pubDate>
-            <enclosure url="https://thedatatalks.in/img/education/binomial-distribution/coinflip.png">
-            </enclosure>
-        </item>
-        <item>
-            <title><![CDATA[Sponge Cake]]></title>
-            <link>https://thedatatalks.in/others/sponge-cake/</link>
-            <guid>https://thedatatalks.in/others/sponge-cake/</guid>
-            <pubDate>Thu, 23 Apr 2020 18:30:00 GMT</pubDate>
-            <enclosure url="https://thedatatalks.in/img/others/sponge-cake/_thumbnail.png">
             </enclosure>
         </item>
     </channel>

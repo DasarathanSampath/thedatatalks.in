@@ -10,6 +10,8 @@ altLang: true
 isHome: false
 ---
 
+<altLang />
+
 # {{ $frontmatter.title }}
 
 The Data Talks operates the "thedatatalks.in" the website, which provides the service.

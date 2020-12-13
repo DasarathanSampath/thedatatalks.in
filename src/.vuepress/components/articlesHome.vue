@@ -16,6 +16,7 @@
               <a class="card-txt__lnk" :href="post.path"> Read → </a>
             </div>
           </div>
+          <call-ad-sense addType="inline"/>
           <div class="card" v-for="post in blogsSplit.leftBlogs" :key="post.key">          
               <img class="card-img" :src="imgPath(post.frontmatter['id'], post.frontmatter['topic'])" />
               <div class="card-txt">
@@ -30,7 +31,9 @@
             </div>            
           </div>        
         </div>
-        <div class="rightcolumn">          
+        
+        <div class="rightcolumn">
+          <call-ad-sense addType="inline"/>
             <div class="card__first" v-for="post in blogsSplit.rightTopBlogs" :key="post.key">
               <img class="card-img__first" :src="imgPath(post.frontmatter['id'], post.frontmatter['topic'])" />
               <h1 class="card-txt__title"> {{post.title}} </h1>
@@ -41,6 +44,7 @@
               <p class="card-txt__imgDesc">{{post.frontmatter['imgDesc']}}</p>
               <a class="card-txt__lnk" :href="post.path"> Read → </a>
             </div>
+            <call-ad-sense addType="inline"/>
             <div class="card__right" v-for="post in blogsSplit.rightMiddleBlogs" :key="post.key">
               <h1 class="card-txt__title"> {{post.title}} </h1>                 
               <p class="card-txt__desc"> {{post.frontmatter['desc']}} </p>
@@ -58,8 +62,12 @@
 </template>
 
 <script>
-
+import CallAdSense from './callAdSense'
 export default {
+  components:{
+    CallAdSense
+    
+  },
   computed: {
     blogPosts () {
       const blogsPolitics = this.$site.pages.filter(page => page.path.includes('/politics/'))

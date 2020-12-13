@@ -38,6 +38,7 @@
       <template #bottom>
         <slot name="page-bottom" />
         <Footer /> 
+        <Disqus v-if="!isHome" style="padding: 1rem"/>
       </template>
     </Page>
   </div>
@@ -50,6 +51,7 @@ import Page from '@theme/components/Page.vue'
 import Sidebar from '@theme/components/Sidebar.vue'
 import { resolveSidebarItems } from '../util'
 import Footer from '@theme/components/Footer.vue'
+// import Disqus from 'vue-disqus'
 
 export default {
   name: 'Layout',
@@ -69,6 +71,9 @@ export default {
   },
 
   computed: {
+    isHome(){
+      return this.$frontmatter.isHome
+    },
     shouldShowNavbar () {
       const { themeConfig } = this.$site
       const { frontmatter } = this.$page

@@ -12,4 +12,6 @@ topic: education
 pageClass: custom-page-class
 ---
 
+<altLang />
+
 <articlesSection/>

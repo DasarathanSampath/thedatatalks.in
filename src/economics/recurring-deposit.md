@@ -20,10 +20,13 @@ headA8: Interest Receivable(B)
 headA9: Total Receivable(A+B)
 ---
 
+<altLang />
+
 # {{ $frontmatter.title }}
 <i style="font-size: 0.75em;"> {{ $frontmatter.author }} {{ $frontmatter.date }} </i>
 
-<recurringDeposit />
+<RecurringDepositCalculator />
+
 
 For detailed explanation, please refer [Reinvestment Deposit Scheme](http://thedatatalks.in/economics/reinvestment-deposit-scheme)
 

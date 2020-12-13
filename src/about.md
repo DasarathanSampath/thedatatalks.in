@@ -10,6 +10,8 @@ altLang: true
 isHome: false
 ---
 
+<altLang />
+
 # {{ $frontmatter.title }}
 
 This is an educational platform that deals mostly with the Indian political system and the past elections of India. Also, this website contains information about economics, education and others. The information provided on this website is purely based on our understanding and data collected from various sources.

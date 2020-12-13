@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{455:function(n,t,e){"use strict";e.r(t);e(446);var s={mounted:function(){return console.log("From InitUSer"),this.$store.dispatch("fetchUser")}},r=e(42),i=Object(r.a)(s,(function(){var n=this.$createElement;return(this._self._c||n)("div",[this._v("\n    Init User\n")])}),[],!1,null,null,null);t.default=i.exports}}]);

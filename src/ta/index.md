@@ -12,4 +12,6 @@ topic: The data talks home
 pageClass: custom-page-class
 ---
 
+<altLang />
+
 <articlesHome/>

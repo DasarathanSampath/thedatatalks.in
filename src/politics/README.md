@@ -12,4 +12,6 @@ topic: politics
 pageClass: custom-page-class
 ---
 
+<altLang />
+
 <articlesSection/>

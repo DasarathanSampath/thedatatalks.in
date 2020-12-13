@@ -13,6 +13,7 @@ const autometa_options = {
 module.exports = {
   plugins: [
     require('./plugins/firebase'),
+    // ['disqus', { /* options */ }],
     '@vuepress/plugin-back-to-top',
     '@vuepress/plugin-medium-zoom',
     ['clean-urls', {
@@ -25,7 +26,7 @@ module.exports = {
     }],
     '@vuepress/nprogress',
     ['@vuepress/google-analytics', {'ga': 'UA-144761111-2'}],
-    ['vuepress-plugin-google-adsense', {ad_client: "ca-pub-3042269102042405"}],
+    // ['vuepress-plugin-google-adsense', {ad_client: "ca-pub-3042269102042405"}],
     ['autometa', autometa_options],
     ['sitemap', {hostname: 'https://thedatatalks.in'}]
   ],
@@ -37,12 +38,13 @@ module.exports = {
     ['link', { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.5.1/katex.min.css' }],
     ['script', { src: "https://www.gstatic.com/firebasejs/8.1.1/firebase-app.js" }],
     ['script', { src: "https://www.gstatic.com/firebasejs/8.1.1/firebase-analytics.js" }],
-    ['script', { src: "https://www.googletagmanager.com/gtag/js?id=UA-000000000-1",async: true}],
+    ['script', { src: "https://www.googletagmanager.com/gtag/js?id=UA-144761111-2",async: true}],
     ['script', {},
                 "window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-144761111-2');"],    
-     // ['script', { src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js", async: true}],
-     ['script', {},
-                '(adsbygoogle = window.adsbygoogle || []).push({google_ad_client: "ca-pub-3042269102042405", enable_page_level_ads: true});']
+    ['script', { src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js", async: true}],
+    // ['ins', {}, '(class:"adsbygoogle", style:"display:block", data-ad-format:"fluid", data-ad-layout-key:"-5h+c4-1q-6w+t7", data-ad-client: "ca-pub-3042269102042405", data-ad-slot: "1900291914")'],
+    ['script', {},
+                '(adsbygoogle = window.adsbygoogle || []).push({class: "adsbygoogle", style: "display:block", google_ad_client: "ca-pub-3042269102042405", enable_page_level_ads: "true"});']
   ],
   locales: languagesList.list,
   themeConfig: {

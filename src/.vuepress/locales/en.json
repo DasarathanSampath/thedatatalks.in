@@ -100,6 +100,7 @@
                 "collapsable": false,
                 "children": [
                   "",
+                  "air-handling-unit-selection",
                   "bernouli-distribution-binomial-trials",
                   "covid19-corona-virus-china-data",
                   "covid19-corona-virus-india-data",

@@ -2,6 +2,7 @@ import Vuex from 'vuex'
 import Vue from 'vue'
 import store from './store/index'
 import vuelidate from 'vuelidate'
+// import VueDisqus from 'vue-disqus'
 
 Vue.use(vuelidate)
 
@@ -17,4 +18,7 @@ export default ({
   router.addRoutes([
 
   ]);
+  /* Vue.use(VueDisqus, {
+    shortname: 'your_shortname_disqus'
+  }); */
 }

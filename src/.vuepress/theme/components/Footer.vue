@@ -1,7 +1,7 @@
 <template>
     <footer class="nav-links">
         <div class="nav-item" v-for="footerLink in footerLinks" :key="footerLink.key">
-            <NavLink
+            <NavLink style="padding-left: 2rem;"
                 :item="footerLink"
             />
         </div>

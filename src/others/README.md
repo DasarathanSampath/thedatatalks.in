@@ -12,4 +12,6 @@ topic: others
 pageClass: custom-page-class
 ---
 
+<altLang />
+
 <articlesSection/>

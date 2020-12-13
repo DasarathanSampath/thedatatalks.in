@@ -10,6 +10,8 @@ altLang: true
 isHome: false
 ---
 
+<altLang />
+
 # {{ $frontmatter.title }}
 
 தி டேட்டா டாக்ஸ் சேவையை வழங்கும் "thedatatalks.in", இந்த வலைத்தளத்தை இயக்குகிறது.

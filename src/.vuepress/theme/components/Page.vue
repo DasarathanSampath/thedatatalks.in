@@ -1,10 +1,8 @@
 <template>
   <main class="page">
     <slot name="top" />
-    <div v-if="thisLang" class="action-button" style="padding-top: 4em;">
-      <a :href="altPath"> 
-          {{alternateLang}}
-      </a>
+    <div v-if="!isHome">
+      <call-ad-sense addType="horizontal"/>
     </div>
     <Content class="theme-default-content" />
     <PageEdit />
@@ -16,29 +14,17 @@
 <script>
 import PageEdit from '@theme/components/PageEdit.vue'
 import PageNav from '@theme/components/PageNav.vue'
+import CallAdSense from '../../components/callAdSense'
 
 export default {
-  components: { PageEdit, PageNav },
+  components: { PageEdit, PageNav, CallAdSense },
   props: ['sidebarItems'],
   computed:{
     isHome(){
       return this.$frontmatter.isHome
-    },
-    thisLang(){
-      return this.$page.frontmatter.altLang
-    },
-    alternateLang() {
-      return this.$lang =='en-US' ? 'தமிழில்' : 'in English'
-    },
-    altPath() {
-      if(this.$lang == 'en-US') {
-        return `/ta${this.$page.path}`
-      }
-      else {
-        return (this.$page.path).substring(3)
-      }
-    },
+    }    
   }
+  
 }
 </script>
 

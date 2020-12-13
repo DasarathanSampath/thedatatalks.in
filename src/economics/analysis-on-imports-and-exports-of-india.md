@@ -11,6 +11,8 @@ isHome: false
 topic: economics
 ---
 
+<altLang />
+
 # {{ $frontmatter.title }}
 <i style="font-size: 0.75em;"> {{ $frontmatter.author }} {{ $frontmatter.date }} </i>
 
@@ -78,7 +80,7 @@ previous year value.
 -   Also there was a stagnation of import & export from the year 2013
     to 2017.
 
-![](/img/economics/import-export-analysis/figure-markdown/img1.png")
+![](/img/economics/import-export-analysis/figure-markdown/img1.png)
 
 <!-- ![](/economics/import-export-analysis/figure-markdown/img1.png) -->
 
@@ -93,7 +95,7 @@ assumed unchanged. Practically this situation is not feasible.
 -   The linear model line clearly shows that import & export are
     directly proportional to the exchange rate.
 
-![](/img/economics/import-export-analysis/figure-markdown/img2.png")
+![](/img/economics/import-export-analysis/figure-markdown/img2.png)
 
 ## Analysis 3: Import, Export & Foreign Currency Reserve
 
@@ -108,7 +110,7 @@ export was assumed unchanged.
     year 2012 and it started recovering from the year 2017.
 
 <!-- ![](/economics/import-export-analysis/figure-markdown/img3.png) -->
-![](/img/economics/import-export-analysis/figure-markdown/img3.png")
+![](/img/economics/import-export-analysis/figure-markdown/img3.png)
 
 ## Analysis 4: Year on Year (YoY) Percentage growth of Import, Export, Trade deficit & Foreign currency reserve
 
@@ -129,7 +131,7 @@ arrived from the USD chart.
     exception may be due to the huge fall in the succeeding/preceding years 2010, 2013 & 2019.
 
 
-![](/img/economics/import-export-analysis/figure-markdown/img4.png")
+![](/img/economics/import-export-analysis/figure-markdown/img4.png)
 
 <style>   
 
