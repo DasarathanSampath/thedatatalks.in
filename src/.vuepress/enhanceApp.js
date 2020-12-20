@@ -1,10 +1,12 @@
 import Vuex from 'vuex'
 import Vue from 'vue'
-import store from './store/index'
+import store from './store'
 import vuelidate from 'vuelidate'
-// import VueDisqus from 'vue-disqus'
 
 Vue.use(vuelidate)
+
+// cutom outers
+// const PageRegister = () => import("./pages/PageRegister.vue");
 
 export default ({
   Vue, // the version of Vue being used in the VuePress app
@@ -16,9 +18,6 @@ export default ({
   Vue.use(Vuex),
   Vue.mixin({store: store}),
   router.addRoutes([
-
+    // { path: '/register/', component: PageRegister, name: 'Register', meta: {requiresGuest: true} }
   ]);
-  /* Vue.use(VueDisqus, {
-    shortname: 'your_shortname_disqus'
-  }); */
 }

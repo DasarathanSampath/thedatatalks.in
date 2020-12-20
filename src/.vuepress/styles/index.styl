@@ -71,6 +71,7 @@
 .form-group {
     width: 100%;
     display: inline-block;
+    padding-left 2rem
 }
 
 .form-input {
@@ -80,10 +81,17 @@
     font: inherit;
     padding: 5px 10px;
     transition: all 0.3s ease;
-    width: 100%;
+    width: 75%;
     color: #505050;
     background-color: #fdfdfd;
     min-height: 43px;
+}
+
+@media screen and (max-width 640px) {
+  .form-input, .form-group {
+    padding 0 1% 0 1%
+    width 98%
+  }
 }
 
 .flex-grid {
@@ -97,6 +105,7 @@
         max-width 1300px
     }
 }
+
 
 /* .col-2 {
     box-sizing: border-box;

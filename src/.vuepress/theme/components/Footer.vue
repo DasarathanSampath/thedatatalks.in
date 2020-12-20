@@ -1,12 +1,12 @@
 <template>
-    <footer class="nav-links">
+    <footer class="nav-links footer-links">
         <div class="nav-item" v-for="footerLink in footerLinks" :key="footerLink.key">
-            <NavLink style="padding-left: 2rem;"
+            <NavLink class="footer-text"
                 :item="footerLink"
             />
         </div>
         <div style="text-align: center;">
-            <i style="font-size: 0.9rem; background: black; font-weight: bold; color: white;"> {{footerSlogan}} </i>
+            <i class="footer-slogan"> {{footerSlogan}} </i>
         </div>
     </footer>
 </template>
@@ -29,13 +29,25 @@ export default {
 }
 </script>
 
-<style lang="stylus">
+<style lang="stylus" scoped>
 
 .footer-links
-    display flex
-    padding 1em 1em 1em 5em
+     float center
+@media screen and (max-width $MQNarrow) {
+  .footer-links{
+    padding-left 0
+  }
+}
 
 .footer-text
-    padding 1em 1em 1em 2em
+    padding 1em 2em 0 2em
+
+.footer-slogan
+    font-size: 0.9rem; 
+    background: gray; 
+    font-weight: bold; 
+    color: white;
+    border-radius 5px
+    padding 0 1rem 0 1rem
 
 </style>

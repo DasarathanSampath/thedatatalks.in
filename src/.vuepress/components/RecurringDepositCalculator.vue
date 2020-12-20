@@ -1,4 +1,5 @@
 <template>
+<ClientOnly>
   <div class="compoundForm">
     <h3>
         {{ $frontmatter.headA1 }}
@@ -35,6 +36,7 @@
       {{ $frontmatter.headA9 }}: {{ (+recurringDeposit + +inputValues.monthlyDeposit*inputValues.period) }}
     </div>
   </div>
+  </ClientOnly>
 </template>
 
 <script>

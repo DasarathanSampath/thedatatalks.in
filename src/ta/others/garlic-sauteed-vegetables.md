@@ -3,7 +3,7 @@ date: 14 Mar 2020
 id: 'garlic-sauteed-vegetables'
 title: 'கார்லிக் சாடீட் வெஜிட்டபிள்ஸ் '
 desc: சிக்கன் ஸ்டாக்குடன்  கார்லிக் சாடீட் வெஜிட்டபிள்
-imgDesc: படம் செஃப் வேம்புவாள் எடுக்கப்பட்டது
+imgDesc: படம் செஃப் வேம்பு
 author: "வழங்கியவர் செஃப்:  வேம்பு"
 altLang: true
 articleLang: 'ta-IN'

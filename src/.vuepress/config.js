@@ -12,7 +12,7 @@ const autometa_options = {
 
 module.exports = {
   plugins: [
-    require('./plugins/firebase'),
+    // require('./plugins/firebase'),
     // ['disqus', { /* options */ }],
     '@vuepress/plugin-back-to-top',
     '@vuepress/plugin-medium-zoom',
@@ -36,8 +36,11 @@ module.exports = {
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
     ['link', { rel: 'icon', href: '/favicon.png' }],
     ['link', { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.5.1/katex.min.css' }],
-    ['script', { src: "https://www.gstatic.com/firebasejs/8.1.1/firebase-app.js" }],
-    ['script', { src: "https://www.gstatic.com/firebasejs/8.1.1/firebase-analytics.js" }],
+    ['link', { rel: 'stylesheet', href: 'https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css', integrity: 'sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN',  crossorigin: 'anonymous'}],
+    ['script', { src: "https://www.gstatic.com/firebasejs/8.2.0/firebase-app.js" }],
+    ['script', { src: "https://www.gstatic.com/firebasejs/8.2.0/firebase-auth.js" }],
+    ['script', { src: "https://www.gstatic.com/firebasejs/8.2.0/firebase-database.js" }],
+    ['script', { src: "https://www.gstatic.com/firebasejs/8.2.0/firebase-analytics.js" }],
     ['script', { src: "https://www.googletagmanager.com/gtag/js?id=UA-144761111-2",async: true}],
     ['script', {},
                 "window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-144761111-2');"],    

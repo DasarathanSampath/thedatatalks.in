@@ -3,7 +3,7 @@ date: 14 Mar 2020
 id: 'gun-powder-chicken'
 title: 'கன் பவுடர் சிக்கன்'
 desc: கன் பவுடர் சிக்கன்
-imgDesc: படம் செஃப் வேம்புவாள் எடுக்கப்பட்டது
+imgDesc: படம் செஃப் வேம்பு
 author: "வழங்கியவர் செஃப் வேம்பு"
 altLang: true
 articleLang: 'ta-IN'

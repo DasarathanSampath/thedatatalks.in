@@ -25,9 +25,8 @@
       <template #bottom>
         <slot name="sidebar-bottom" />
       </template>
-    </Sidebar>
+    </Sidebar>    
     <Home v-if="$page.frontmatter.home" />
-    
     <Page
       v-else
       :sidebar-items="sidebarItems"
@@ -38,9 +37,10 @@
       <template #bottom>
         <slot name="page-bottom" />
         <Footer /> 
-        <Disqus v-if="!isHome" style="padding: 1rem"/>
+        <!-- <Disqus v-if="!isHome" style="padding: 1rem"/> -->
       </template>
     </Page>
+    <DynamicComponent />
   </div>
 </template>
 
@@ -51,7 +51,7 @@ import Page from '@theme/components/Page.vue'
 import Sidebar from '@theme/components/Sidebar.vue'
 import { resolveSidebarItems } from '../util'
 import Footer from '@theme/components/Footer.vue'
-// import Disqus from 'vue-disqus'
+import DynamicComponent from '@theme/components/DynamicComponent.vue'
 
 export default {
   name: 'Layout',
@@ -61,6 +61,7 @@ export default {
     Page,
     Sidebar,
     Navbar, 
+    DynamicComponent,
     Footer
   },
 
@@ -70,7 +71,7 @@ export default {
     }
   },
 
-  computed: {
+  computed: {    
     isHome(){
       return this.$frontmatter.isHome
     },
@@ -156,3 +157,8 @@ export default {
   }
 }
 </script>
+
+<style lang="stylus" scoped>
+
+
+</style>
