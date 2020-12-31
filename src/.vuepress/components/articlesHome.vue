@@ -13,7 +13,7 @@
               </div>
               <p class="card-txt__imgDesc"> {{post.frontmatter['imgDesc']}}</p>
               <p class="card-txt__desc"> {{post.frontmatter['desc']}} </p>            
-              <a class="card-txt__lnk" :href="post.path"> Read → </a>
+              <a class="card-txt__lnk" :href="post.path"> {{toRead}} → </a>
             </div>
           </div>
           <call-ad-sense addType="inline"/>
@@ -27,7 +27,7 @@
                   <span class="card-txt__dateTime">{{post.frontmatter['date']}}</span> •   
                 </div>                
                 <p class="card-txt__desc"> {{post.frontmatter['desc']}} </p>
-                <a class="card-txt__lnk" :href="post.path"> Read → </a>            
+                <a class="card-txt__lnk" :href="post.path"> {{toRead}} → </a>            
             </div>            
           </div>        
         </div>
@@ -42,18 +42,18 @@
                 <span class="card-txt__dateTime">{{post.frontmatter['date']}}</span> •            
               </div>
               <p class="card-txt__imgDesc">{{post.frontmatter['imgDesc']}}</p>
-              <a class="card-txt__lnk" :href="post.path"> Read → </a>
+              <a class="card-txt__lnk" :href="post.path"> {{toRead}} → </a>
             </div>
             <call-ad-sense addType="inline"/>
             <div class="card__right" v-for="post in blogsSplit.rightMiddleBlogs" :key="post.key">
               <h1 class="card-txt__title"> {{post.title}} </h1>                 
               <p class="card-txt__desc"> {{post.frontmatter['desc']}} </p>
-              <a class="card-txt__lnk" :href="post.path"> Read → </a>
+              <a class="card-txt__lnk" :href="post.path"> {{toRead}} → </a>
             </div>
             <div class="card__right" v-for="post in blogsSplit.rightBottomBlogs" :key="post.key">
               <h1 class="card-txt__title"> {{post.title}} </h1>
               <p class="card-txt__desc"> {{post.frontmatter['desc']}} </p>
-              <a class="card-txt__lnk" :href="post.path"> Read → </a>
+              <a class="card-txt__lnk" :href="post.path"> {{toRead}} → </a>
             </div>
           </div>        
       </div>      
@@ -95,7 +95,10 @@ export default {
       const rightMiddleBlogs = this.blogPosts.slice(rigthTopBlogsLength, rigthMiddleBlogsLength)
       const rightBottomBlogs = this.blogPosts.slice(rigthMiddleBlogsLength, blogsLength)
       return { firstBlog, leftBlogs, rightTopBlogs, rightMiddleBlogs, rightBottomBlogs }
-    }
+    },
+    toRead(){
+            return this.$themeConfig.locales[this.$localePath].read
+        },
   },
 
   methods: {

@@ -1,7 +1,7 @@
 ---
 date: 17 Feb 2019
 title: Contact Us
-name: 'id'
+id: 'contact'
 desc: The Data Talks - Contact us page; The website contains information about politics, economics, environment & others.
 imgDesc: ''
 articleLang: 'en-US'

@@ -19,13 +19,13 @@ topic: economics
 Click here for [Compound Interest Calculator](http://thedatatalks.in/custom/economics/compound-interest)  
 Click here for [Recurring Deposit Calculator](http://thedatatalks.in/custom/economics/recurring-deposit)
 
-## Reinvestment - Explanation of the word:
+## Reinvestment - Explanation of the word
 
 The interest amount is calculated for every quarter and it is reinvested into the initial amount and compounded.
 
 (Note: Since all banks in India calculate compound interest quarterly, this document is created accordingly.)
 
-## The method of calculating compound interest:
+## The method of calculating compound interest
 
 1. First calculate the simple interest for three months.
 
@@ -65,7 +65,7 @@ Maturity amount = 1.015 + 0.015225 = Rs 1.030225
 
 4. Instead of calculating maturity amount for each quarter, we can use the below formulae to get the final maturity amount directly
 
-### Formula for Fixed Deposit Reinvestment:
+### Formula for Fixed Deposit Reinvestment
 
     Mv = [(P *N *R)+1]<sup>Q</sup>
 
@@ -84,13 +84,13 @@ For example, If we have to calculate the maturity amount for the investment amou
 
     Mv = 15000 * [(1 *3/12 *6/100)+1]<sup>12</sup> = 17,934.27 (Rupees)
 
-### Formula for monthly recurring deposit reinvestment plans:
+### Formula for monthly recurring deposit reinvestment plans
 
 In this method, the investment is paid every month. To calculate the maturity amount for this plan, here we are going to follow the Discount factor method.
 
 (Note: When the interest is calculated quarterly, the discount factor is used if the customer wants to receive interest on a monthly basis. We will see about the discount factor in another blog.)
 
-### Formula for Discount Interest Factor:
+### Formula for Discount Interest Factor
 
     x = (P * R) / (1200+R)
 
@@ -99,7 +99,7 @@ x = Discount factor
 P = Investment amount(1 Rupee)  
 R = Rate of interest(yearly)  
 
-### Formula for Maturity amount:
+### Formula for Maturity amount
 
     Mvrd = ((x+1)<sup>(n+1)</sup> - (x+1)) / (x)
 

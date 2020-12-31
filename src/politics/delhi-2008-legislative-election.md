@@ -34,7 +34,7 @@ Out of 1.07 crore electors, the voter turns out was 0.62 crore, which is calcula
 0.25 crore out of 0.62 crore voters has chosen INC, which is 14.6% more compared to the 2003 election.  
 0.22 crore voters have chosen BJP. which is 41.3% more compared to the 2003 election.  
 
-The data file in \*.CSV format can be downloaded from [Delhi 2008 Legislative Election](http://thedatatalks.in/datas/politics/delhi-2008-legislative-election.csv)
+The data file in \*.CSV format can be downloaded from [Delhi 2008 Legislative Election](https://thedatatalks.in/datas/politics/delhi-2008-legislative-election.csv)
 
 The below table shows the won candidate details for each legislative constituency.
 **The values are first sorted by party name & then by constituency name.**

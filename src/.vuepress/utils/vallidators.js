@@ -6,7 +6,7 @@ export const uniqueUsername = (value) => {
         return true
     }
     return new Promise((resolve, reject) => {
-        firebase.database().ref('users').orderByChild('usernameLower').equalTo(value.toLowerCase())
+        firebase.database().ref('users').orderByChild('username').equalTo(value.toLowerCase())
             .once('value', snapshot => {
                 resolve(!snapshot.exists())
             })

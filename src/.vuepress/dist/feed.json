@@ -5,9 +5,10 @@
     "feed_url": "https://thedatatalks.in/feed.json",
     "items": [
         {
-            "id": "https://thedatatalks.in/economics/",
-            "url": "https://thedatatalks.in/economics/",
-            "title": "Economics",
+            "id": "https://thedatatalks.in/economics/analysis-on-imports-and-exports-of-india/",
+            "url": "https://thedatatalks.in/economics/analysis-on-imports-and-exports-of-india/",
+            "title": "Analysis on Imports and Exports of India",
+            "image": "https://thedatatalks.in/img/economics/import-export-analysis/figure-markdown/img1.png",
             "date_modified": "2019-02-16T18:30:00.000Z"
         },
         {
@@ -17,17 +18,16 @@
             "date_modified": "2020-04-21T18:30:00.000Z"
         },
         {
+            "id": "https://thedatatalks.in/economics/",
+            "url": "https://thedatatalks.in/economics/",
+            "title": "Economics",
+            "date_modified": "2019-02-16T18:30:00.000Z"
+        },
+        {
             "id": "https://thedatatalks.in/economics/exports-of-india/",
             "url": "https://thedatatalks.in/economics/exports-of-india/",
             "title": "Exports of India",
             "image": "https://thedatatalks.in/img/economics/exports-of-india_files/figure-markdown/exports-of-india-1.png",
-            "date_modified": "2019-02-16T18:30:00.000Z"
-        },
-        {
-            "id": "https://thedatatalks.in/economics/analysis-on-imports-and-exports-of-india/",
-            "url": "https://thedatatalks.in/economics/analysis-on-imports-and-exports-of-india/",
-            "title": "Analysis on Imports and Exports of India",
-            "image": "https://thedatatalks.in/img/economics/import-export-analysis/figure-markdown/img1.png",
             "date_modified": "2019-02-16T18:30:00.000Z"
         },
         {
@@ -38,17 +38,10 @@
             "date_modified": "2019-02-16T18:30:00.000Z"
         },
         {
-            "id": "https://thedatatalks.in/education/",
-            "url": "https://thedatatalks.in/education/",
-            "title": "Education",
-            "date_modified": "2019-02-16T18:30:00.000Z"
-        },
-        {
-            "id": "https://thedatatalks.in/education/covid19-corona-virus-india-data/",
-            "url": "https://thedatatalks.in/education/covid19-corona-virus-india-data/",
-            "title": "India Covid-19 Corona virus data",
-            "image": "https://thedatatalks.in/img/education/covid19-corona-virus-india-data_files/figure-markdown/world%20corona%20plot-1.png",
-            "date_modified": "2020-04-01T18:30:00.000Z"
+            "id": "https://thedatatalks.in/economics/recurring-deposit/",
+            "url": "https://thedatatalks.in/economics/recurring-deposit/",
+            "title": "Recurring deposit",
+            "date_modified": "2020-04-21T18:30:00.000Z"
         },
         {
             "id": "https://thedatatalks.in/education/air-handling-unit-selection/",
@@ -65,6 +58,18 @@
             "date_modified": "2020-03-13T18:30:00.000Z"
         },
         {
+            "id": "https://thedatatalks.in/economics/reinvestment-deposit-scheme/",
+            "url": "https://thedatatalks.in/economics/reinvestment-deposit-scheme/",
+            "title": "Reinvestment Deposit Scheme",
+            "date_modified": "2020-04-29T18:30:00.000Z"
+        },
+        {
+            "id": "https://thedatatalks.in/education/",
+            "url": "https://thedatatalks.in/education/",
+            "title": "Education",
+            "date_modified": "2019-02-16T18:30:00.000Z"
+        },
+        {
             "id": "https://thedatatalks.in/education/bernouli-distribution-binomial-trials/",
             "url": "https://thedatatalks.in/education/bernouli-distribution-binomial-trials/",
             "title": "Bernouli distribution & binomial trials",
@@ -72,42 +77,11 @@
             "date_modified": "2020-04-25T18:30:00.000Z"
         },
         {
-            "id": "https://thedatatalks.in/economics/recurring-deposit/",
-            "url": "https://thedatatalks.in/economics/recurring-deposit/",
-            "title": "Recurring deposit",
-            "date_modified": "2020-04-21T18:30:00.000Z"
-        },
-        {
-            "id": "https://thedatatalks.in/economics/reinvestment-deposit-scheme/",
-            "url": "https://thedatatalks.in/economics/reinvestment-deposit-scheme/",
-            "title": "Reinvestment Deposit Scheme",
-            "date_modified": "2020-04-29T18:30:00.000Z"
-        },
-        {
-            "id": "https://thedatatalks.in/education/covid19-corona-virus-world-data/",
-            "url": "https://thedatatalks.in/education/covid19-corona-virus-world-data/",
-            "title": "World Covid-19 Corona virus data",
-            "image": "https://thedatatalks.in/img/education/covid19-corona-virus-world-data_files/figure-markdown/world%20corona%20plot-1.png",
-            "date_modified": "2020-04-04T18:30:00.000Z"
-        },
-        {
-            "id": "https://thedatatalks.in/education/pm25-tl-hyderabad-sanathnagar/",
-            "url": "https://thedatatalks.in/education/pm25-tl-hyderabad-sanathnagar/",
-            "title": "Air Pollution data-Telangana, Sanathnagar, Hyderabad",
-            "image": "https://thedatatalks.in/environment/pm25-tl-hyderabad-sanathnagar_files/figure-markdown/outlier-plots-1.png",
-            "date_modified": "2020-03-13T18:30:00.000Z"
-        },
-        {
-            "id": "https://thedatatalks.in/education/nginx-pm2-nuxtjs/",
-            "url": "https://thedatatalks.in/education/nginx-pm2-nuxtjs/",
-            "title": "Nginx with PM2 for NuxtJs",
-            "date_modified": "2020-04-18T18:30:00.000Z"
-        },
-        {
-            "id": "https://thedatatalks.in/education/standard-deviation-and-error/",
-            "url": "https://thedatatalks.in/education/standard-deviation-and-error/",
-            "title": "Standard deviation and Standard error",
-            "date_modified": "2020-04-18T18:30:00.000Z"
+            "id": "https://thedatatalks.in/education/covid19-corona-virus-india-data/",
+            "url": "https://thedatatalks.in/education/covid19-corona-virus-india-data/",
+            "title": "India Covid-19 Corona virus data",
+            "image": "https://thedatatalks.in/img/education/covid19-corona-virus-india-data_files/figure-markdown/world%20corona%20plot-1.png",
+            "date_modified": "2020-04-01T18:30:00.000Z"
         },
         {
             "id": "https://thedatatalks.in/education/covid19-corona-virus-china-data/",
@@ -117,10 +91,30 @@
             "date_modified": "2020-04-04T18:30:00.000Z"
         },
         {
-            "id": "https://thedatatalks.in/others/",
-            "url": "https://thedatatalks.in/others/",
-            "title": "Others",
-            "date_modified": "2019-02-16T18:30:00.000Z"
+            "id": "https://thedatatalks.in/education/nginx-pm2-nuxtjs/",
+            "url": "https://thedatatalks.in/education/nginx-pm2-nuxtjs/",
+            "title": "Nginx with PM2 for NuxtJs",
+            "date_modified": "2020-04-18T18:30:00.000Z"
+        },
+        {
+            "id": "https://thedatatalks.in/education/covid19-corona-virus-world-data/",
+            "url": "https://thedatatalks.in/education/covid19-corona-virus-world-data/",
+            "title": "World Covid-19 Corona virus data",
+            "image": "https://thedatatalks.in/img/education/covid19-corona-virus-world-data_files/figure-markdown/world%20corona%20plot-1.png",
+            "date_modified": "2020-04-04T18:30:00.000Z"
+        },
+        {
+            "id": "https://thedatatalks.in/education/p-value/",
+            "url": "https://thedatatalks.in/education/p-value/",
+            "title": "p-value",
+            "date_modified": "2020-04-25T18:30:00.000Z"
+        },
+        {
+            "id": "https://thedatatalks.in/education/pm25-tl-hyderabad-sanathnagar/",
+            "url": "https://thedatatalks.in/education/pm25-tl-hyderabad-sanathnagar/",
+            "title": "Air Pollution data-Telangana, Sanathnagar, Hyderabad",
+            "image": "https://thedatatalks.in/environment/pm25-tl-hyderabad-sanathnagar_files/figure-markdown/outlier-plots-1.png",
+            "date_modified": "2020-03-13T18:30:00.000Z"
         },
         {
             "id": "https://thedatatalks.in/education/pm25-tn-chennai-alandur/",
@@ -130,11 +124,16 @@
             "date_modified": "2020-03-13T18:30:00.000Z"
         },
         {
-            "id": "https://thedatatalks.in/others/gun-powder-chicken/",
-            "url": "https://thedatatalks.in/others/gun-powder-chicken/",
-            "title": "Gun Powder Chicken",
-            "image": "https://thedatatalks.in/img/others/gun-powder-chicken/_thumbnail.png",
-            "date_modified": "2020-03-13T18:30:00.000Z"
+            "id": "https://thedatatalks.in/education/standard-deviation-and-error/",
+            "url": "https://thedatatalks.in/education/standard-deviation-and-error/",
+            "title": "Standard deviation and Standard error",
+            "date_modified": "2020-04-18T18:30:00.000Z"
+        },
+        {
+            "id": "https://thedatatalks.in/others/",
+            "url": "https://thedatatalks.in/others/",
+            "title": "Others",
+            "date_modified": "2019-02-16T18:30:00.000Z"
         }
     ]
 }

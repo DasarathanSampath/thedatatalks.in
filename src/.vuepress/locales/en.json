@@ -146,6 +146,38 @@
               "link": "/privacy/"
             }
         ],
-        "footSlohan": "Don't be in delusion, understand the reality from historical data | Copyright © 2020 theDataTalks"
+        "footSlohan": "Don't be in delusion, understand the reality from historical data | Copyright © 2020 theDataTalks",
+        "read": "Read",
+        "userDetails": {
+          "text1": "Sign in to post your comments!",
+          "text2": "We welcome relevant, respectful comments from all!",
+          "signIn": "Sign in",          
+          "signOut": "Sign out",
+          "signedInAs": "Signed in as",
+          "password": "Password",
+          "username": "User name",
+          "displayName": "Dsiplay name",
+          "register": "Register",
+          "updateProfile": "Update profile",
+          "updatePassword": "Update password",
+          "updateEmail": "Update email",
+          "linkWithGoogle": "Link with Google",
+          "unlinkWithGoogle": "Unlink from Google",
+          "signInWithGoogle": "Sign in with Google",
+          "newUserName": "New User Name",
+          "errRequired": "This field is required",
+          "errUniqueUser": "Sorry! This name is not available",
+          "newPhotoUrl": "New Photo URL(Optional)",
+          "errUrl": "The url is not valid",
+          "errFileType": "File type not supported (Only jpg, jpeg, png, svg)",
+          "errExistance": "Image not found",
+          "newEmail": "New Email",
+          "errEmail": "Enter a valid email",
+          "errUniqueEmail": "Sorry! This email Id is not available",
+          "newPassword": "New Password",
+          "errPassword": "Password must have 6 character",
+          "email": "Email",
+          "signInEmail": "Sign in email"
+        }
     }
 }

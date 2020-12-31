@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import Vuex from 'vuex'
-import {countObjectProperties} from '../utils'
+import {countObjectProperties, removeEmptyProperties} from '../utils'
 import {makeAppendChildToParent} from './assetHelpers'
 
 Vue.use(Vuex)
@@ -106,7 +106,6 @@ export default new Vuex.Store({
                 .catch(error => alert(error.message))
                 .then(data => {
                     const user = data.user     
-                    console.log('google sign in', data)               
                     firebase.database().ref('users').child(user.uid).once('value', snapshot => {
                         if(!snapshot.exists()){
                             const registeredAt = Math.floor(Date.now() / 1000)
@@ -114,7 +113,7 @@ export default new Vuex.Store({
                             const email = user.email
                             const id = user.uid
                             const photoURL = user.photoURL                    
-                            const userData = {email, username, registeredAt, photoURL}
+                            const userData = {email, username: username.toLowerCase(), registeredAt, photoURL}
                             firebase.database().ref('/users').child(id).set(userData)
                                 .then(() => dispatch('fetchAuthUser'))
                         }
@@ -129,10 +128,39 @@ export default new Vuex.Store({
                     const registeredAt = Math.floor(Date.now() / 1000)
                     const email = user.email
                     const id = user.uid
-                    const userData = {email, username, registeredAt}
+                    const userData = {email, username:username.toLowerCase(), registeredAt}
                     firebase.database().ref('/users').child(id).set(userData)
                         .then(() => dispatch('fetchAuthUser'))
                 })
+        },
+
+        updateProfile({ state, commit }, {username, photoURL}){
+            const updates = {
+                username: username.toLowerCase(),
+                photoURL: photoURL                
+            }
+            return new Promise((resolve, reject) => {
+                firebase.database().ref('users').child(state.authId).update(removeEmptyProperties(updates))
+                    .then(() => {
+                        const user = removeEmptyProperties(updates)
+                        commit('setUser', { id: state.authId, item: user })
+                        resolve(user)
+                    })
+            })
+        },
+
+        updateEmail({ state, commit }, {email}){
+            const updates = {
+                email: email,
+            }
+            return new Promise((resolve, reject) => {
+                firebase.database().ref('users').child(state.authId).update(removeEmptyProperties(updates))
+                    .then(() => {
+                        const user = removeEmptyProperties(updates)
+                        commit('setUser', { id: state.authId, item: user })
+                        resolve(user)
+                    })
+            })
         },
 
 

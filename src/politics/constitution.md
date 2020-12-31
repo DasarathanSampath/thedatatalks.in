@@ -26,7 +26,7 @@ Parliament of India is the supreme legislative body of the Indian Republic. It i
 
 ## Vidhan Sabha/Legislative assembly/State assembly
 
-&nbsp;&nbsp;&nbsp;&nbsp; <span style="font-size:2em;">V</span>**idhan Sabha/Legislative assembly/State assembly** elections are similar to Lok Sabha/Parliamentary elections and it is conducted to elect Members for Legislative assembly (MLA). Number of seats will vary for state to state based on the population. There are 28 states & 9 union territories. The 28 states & 3 union territories (Puducherry & NCT of Delhi) have their own legislatures and the below remaining 5 union territories are governed by union government.
+&nbsp;&nbsp;&nbsp;&nbsp; <span style="font-size:2em;">V</span>**idhan Sabha/Legislative assembly/State assembly** elections are similar to Lok Sabha/Parliamentary elections and it is conducted to elect Members for Legislative assembly (MLA). Number of seats will vary for state to state based on the population. There are 28 states & 9 union territories. The 28 states & 3 union territories (Goa, Puducherry & NCT of Delhi) have their own legislatures and the below remaining 5 union territories are governed by union government.
 
 * Chandigarh
 * Dadra and Nagar Haveli
@@ -41,7 +41,7 @@ Parliament of India is the supreme legislative body of the Indian Republic. It i
 
 ![](/img/politics/constitution-of-india/figure-markdown/img1.png)
 
-The data file in \*.CSV format can be downloaded from [Chief ministers of Delhi](http://thedatatalks.in/datas/politics/rajyasabha-seats.csv)  
+The data file in \*.CSV format can be downloaded from [Rajyasabha Seats](https://thedatatalks.in/datas/politics/rajyasabha-seats.csv)  
 
 Formula to arrive the number of votes (number of MLA support) required to become a member of Rajya sabha is euqal to  
 **Quotient ((total number of votes÷(number of Rajya sabha seats+1))+1)**

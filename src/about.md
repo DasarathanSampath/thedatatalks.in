@@ -14,16 +14,21 @@ isHome: false
 
 # {{ $frontmatter.title }}
 
-This is an educational platform that deals mostly with the Indian political system and the past elections of India. Also, this website contains information about economics, education and others. The information provided on this website is purely based on our understanding and data collected from various sources.
+I am Dasa, mechanical engineer by profession.
 
-The Data Talks website provides descriptive statistical information on the above-mentioned subjects. <!-- And we are trying to touch inferential statistics of some areas. -->
+It is my habit to search for information needed for clarity when conversing with friends. During a conversation like that I started recording my searches under the guidance of a friend.
 
-Our motto is to present the data to the public in an easily readable format with collective information in a single place.
 
-The data available on our website is solely based on various open sources available on the internet, results published by the election
-commission of India on the internet, newspapers & news channels.
+I have created this website for these posts. This website is built on VueJs, VuePress and explores information with the help of R programming
+This website is a compilation of my pursuits in elections, education, economics and other topics. Some titles have been contributed by others. 
+Please post your comments.
 
-We did our best to meet the accuracy of data and we are continuously working to improve.
+Your feedback and comments are highly appreciated.
+
+Your comments will give me inspiration to continue with this journey.
+
+
+<!-- The Data Talks website provides descriptive statistical information on the above-mentioned subjects. And we are trying to touch inferential statistics of some areas. -->
 
 <style>
    

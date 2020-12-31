@@ -33,6 +33,8 @@ export default {
 
 .footer-links
      float center
+     padding-bottom 1rem
+     border-bottom 1px solid gray     
 @media screen and (max-width $MQNarrow) {
   .footer-links{
     padding-left 0
@@ -41,13 +43,23 @@ export default {
 
 .footer-text
     padding 1em 2em 0 2em
+    color #1C205B
+    font-size 1.1rem
+@media screen and (max-width $MQNarrow) {
+  .footer-text{
+    padding 1em 1em 0 1em    
+  }
+}
+.footer-text:hover, .footer-text:active {
+    text-decoration underline
+    text-decoration-style double
+}
 
 .footer-slogan
     font-size: 0.9rem; 
-    background: gray; 
+    background: #f1f5f7; 
     font-weight: bold; 
-    color: white;
-    border-radius 5px
+    border-radius 2px
     padding 0 1rem 0 1rem
 
 </style>
