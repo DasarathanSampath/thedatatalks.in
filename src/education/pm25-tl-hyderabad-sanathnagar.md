@@ -165,7 +165,7 @@ for weekdays & weekends.
 <!-- ![](/environment/pm25-tl-hyderabad-sanathnagar_files/figure-markdown/MeanofWeekdaytype-1.png) -->
 ![](/img/education/pm25-tl-hyderabad-sanathnagar_files/figure-markdown/MeanofWeekdaytype-1.png)
 
-The data file in \*.CSV format can be downloaded from [Sanathnagar-Air Pollution Data](http://thedatatalks.in/datas/environment/TL_Sanathnagar_Hyderabad.csv)
+The data file in \*.CSV format can be downloaded from [Sanathnagar-Air Pollution Data](https://thedatatalks.in/datas/environment/TL_Sanathnagar_Hyderabad.csv)
 
 <style>
 

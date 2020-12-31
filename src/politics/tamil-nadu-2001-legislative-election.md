@@ -24,7 +24,7 @@ The below pie chart shows the number of wons for each political alliance.
 
 ![](/img/politics/tamil-nadu-2001-legislative-election/tn-2001-election-2.png)
 
-The data file in \*.CSV format can be downloaded from [Tamil Nadu 2001 Legislative Election](http://thedatatalks.in/datas/politics/tamil-nadu-2001-legislative-election.csv)
+The data file in \*.CSV format can be downloaded from [Tamil Nadu 2001 Legislative Election](https://thedatatalks.in/datas/politics/tamil-nadu-2001-legislative-election.csv)
 
 The below table shows the won candidate details for each legislative constituency.
 **The values are first sorted by party name & then by constituency name.**

@@ -44,7 +44,7 @@ Out of 5.78 crore electors, the voter turn out was 4.32 crore, which is calculat
 0.12 crore voters have chosen BJP, which is 49.9% more compared to 2011 election.  
 
 
-The data file in \*.CSV format can be downloaded from [Tamil Nadu 2016 Legislative Election](http://thedatatalks.in/datas/politics/tamil-nadu-2016-legislative-election.csv)
+The data file in \*.CSV format can be downloaded from [Tamil Nadu 2016 Legislative Election](https://thedatatalks.in/datas/politics/tamil-nadu-2016-legislative-election.csv)
 
 The below table shows the won candidate details for each legislative constituency.
 **The values are first sorted by party name & then by constituency name.**

@@ -24,7 +24,7 @@ The below pie chart shows the number of wons for each political alliance.
 
 ![](/img/politics/india-2009-parliamentary-election/india-2009-election-2.png)
 
-The data file in \*.CSV format can be downloaded from [India 2009 Parliamentary Election](http://thedatatalks.in/datas/politics/india-2001-parliamentary-election.csv)
+The data file in \*.CSV format can be downloaded from [India 2009 Parliamentary Election](https://thedatatalks.in/datas/politics/india-2001-parliamentary-election.csv)
 
 The below table shows the won candidate details for each parliamentary constituency.
 **The values are first sorted by state name & then by constituency name.**

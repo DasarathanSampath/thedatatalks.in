@@ -36,7 +36,7 @@ Out of 1.19 crore electors, the voter turns out was 0.79 crore, which is calcula
 0.23 crore voters have chosen AAAP and it is the first election for AAAP.  
 0.19 crore voters have chosen INC, which is 22.4% less compared to the 2008 election.  
 
-The data file in \*.CSV format can be downloaded from [Delhi 2013 Legislative Election](http://thedatatalks.in/datas/politics/delhi-2013-legislative-election.csv)
+The data file in \*.CSV format can be downloaded from [Delhi 2013 Legislative Election](https://thedatatalks.in/datas/politics/delhi-2013-legislative-election.csv)
 
 The below table shows the won candidate details for each legislative constituency.
 **The values are first sorted by party name & then by constituency name.**

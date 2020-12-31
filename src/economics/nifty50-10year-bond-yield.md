@@ -90,7 +90,7 @@ Below are the conclusions from the above line chart
 
 </div>
 
-The data file in \*.CSV format can be downloaded from [Nifty50 Yield from 1999 to 2020](http://thedatatalks.in/datas/economics/nifty50_yield.csv) & [10-years Bond Yield](http://thedatatalks.in/datas/economics/bond_10year_yield.csv) 
+The data file in \*.CSV format can be downloaded from [Nifty50 Yield from 1999 to 2020](https://thedatatalks.in/datas/economics/nifty50_yield.csv) & [10-years Bond Yield](https://thedatatalks.in/datas/economics/bond_10year_yield.csv) 
 
 <style>
 

@@ -37,7 +37,7 @@ There were no major alliances formed prior to the election.
 0.14 crore voters have chosen INC, which is 12.66% less compared to the 2009 election.  
 0.28 crore voters have chosen JMM, which is 81.35% more compared to the 2009 election. 
 
-The data file in \*.CSV format can be downloaded from [Jharkhand 2014 Legislative Election](http://thedatatalks.in/datas/politics/jharkhand-2014-legislative-election.csv)
+The data file in \*.CSV format can be downloaded from [Jharkhand 2014 Legislative Election](https://thedatatalks.in/datas/politics/jharkhand-2014-legislative-election.csv)
 
 The below table shows the won candidate details for each legislative constituency.
 **The values are first sorted by party name & then by constituency name.**

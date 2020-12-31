@@ -48,7 +48,7 @@ topic: politics
 
 ![](/img/politics/tn-over-view-of-legislative-results_files/figure-markdown/tn-chief-ministers-1.png)
 
-\*.CSV வடிவத்தில் தகவல்களை [தமிழக முதல்வர்கள்](http://thedatatalks.in/datas/politics/tn-chief-ministers.csv) இலிருந்து பதிவிறக்கம் செய்யலாம்.
+\*.CSV வடிவத்தில் தகவல்களை [தமிழக முதல்வர்கள்](https://thedatatalks.in/datas/politics/tn-chief-ministers.csv) இலிருந்து பதிவிறக்கம் செய்யலாம்.
 
 <style>
 

@@ -49,7 +49,7 @@ If the event is iid (independent identical distribution) then
 
 Variance of sample mean = ν' = σ²/n
 
-(Please read this article for details [standard Error](http://thedatatalks.in/education/standard-deviation-and-error))
+(Please read this article for details [standard Error](https://thedatatalks.in/education/standard-deviation-and-error))
 
 Standard error  = Standard deviation of statistics   
                 = SE = √ν' = σ/√n
@@ -124,7 +124,7 @@ Here q = 6 means > 6 values, which are 7 & 8.
 
 ## Binomial trials & p-value
 
-Please read this page [p-value](http://thedatatalks.in/education/p-value) before starting this section.
+Please read this page [p-value](https://thedatatalks.in/education/p-value) before starting this section.
 
 Consider a coin flip of 100 times.
 

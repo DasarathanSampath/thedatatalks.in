@@ -36,7 +36,7 @@ Out of 59.25 crore electors, the voter turns out was 34.33 crores,which is calcu
 9.65 crore voters have chosen INC, which is 4.7% less compared to 1991 election.  
 2.70 crore voters have chosen JD, which is 16.9% less compared to 1991 election.  
 
-The data file in \*.CSV format can be downloaded from [India 1996 Parliamentary Election](http://thedatatalks.in/datas/politics/india-2001-parliamentary-election.csv)
+The data file in \*.CSV format can be downloaded from [India 1996 Parliamentary Election](https://thedatatalks.in/datas/politics/india-2001-parliamentary-election.csv)
 
 The below table shows the won candidate details for each parliamentary constituency.
 **The values are first sorted by state name & then by constituency name.**

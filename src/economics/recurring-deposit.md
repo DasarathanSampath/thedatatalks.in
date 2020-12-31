@@ -27,7 +27,7 @@ headA9: Total Receivable(A+B)
 
 <DynamicGlobalComponent componentName="RecurringDepositCalculator" />
 
-For detailed explanation, please refer [Reinvestment Deposit Scheme](http://thedatatalks.in/economics/reinvestment-deposit-scheme)
+For detailed explanation, please refer [Reinvestment Deposit Scheme](https://thedatatalks.in/economics/reinvestment-deposit-scheme)
 
 The total interest receivable from a recurring deposit is calculated as below
 

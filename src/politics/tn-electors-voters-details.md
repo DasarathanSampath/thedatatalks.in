@@ -68,7 +68,7 @@ percentage of 60%**.
 
 ![](/img/politics/tn-electors-voters-details_files/figure-markdown/Plot-male-female-1.png)
 
-The data file in \*.CSV format can be downloaded from [Electors & Voters](http://thedatatalks.in/datas/politics/tn-electors.csv) & [Male, Female Voters](http://thedatatalks.in/datas/politics/tn-male-female-electors.csv)
+The data file in \*.CSV format can be downloaded from [Electors & Voters](https://thedatatalks.in/datas/politics/tn-electors.csv) & [Male, Female Voters](https://thedatatalks.in/datas/politics/tn-male-female-electors.csv)
 
 <style>
 

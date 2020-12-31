@@ -60,7 +60,7 @@ starting date, end date, number of days in the post, and party name.
 
 ![](/img/politics/tn-over-view-of-legislative-results_files/figure-markdown/tn-chief-ministers-1.png)
 
-The data file in \*.CSV format can be downloaded from [Chief ministers of Tamil Nadu](http://thedatatalks.in/datas/politics/tn-chief-ministers.csv)
+The data file in \*.CSV format can be downloaded from [Chief ministers of Tamil Nadu](https://thedatatalks.in/datas/politics/tn-chief-ministers.csv)
 
 <style>
 

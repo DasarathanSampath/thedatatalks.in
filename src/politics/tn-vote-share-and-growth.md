@@ -99,7 +99,7 @@ Change in votes for AIADMK is stable compared to all other parties.
 
 ![](/img/politics/tn-vote-share-and-growth_files/figure-markdown/E-yoy%20growth-1.png)
 
-The data file in \*.CSV format can be downloaded from [Party Performance](http://thedatatalks.in/datas/politics/tn-party-performance.csv)
+The data file in \*.CSV format can be downloaded from [Party Performance](https://thedatatalks.in/datas/politics/tn-party-performance.csv)
 
 <style>
 

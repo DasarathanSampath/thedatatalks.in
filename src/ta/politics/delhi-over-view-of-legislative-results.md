@@ -50,7 +50,7 @@ topic: politics
 
 ![](/img/politics/over-view-of-delhi-legislative-results/figure-markdown/img2.png)
 
-\*.CSV வடிவத்தில் தகவல்களை [டெல்லி முதல்வர்கள்](http://thedatatalks.in/datas/politics/delhi-chief-ministers.csv) இலிருந்து பதிவிறக்கம் செய்யலாம்.
+\*.CSV வடிவத்தில் தகவல்களை [டெல்லி முதல்வர்கள்](https://thedatatalks.in/datas/politics/delhi-chief-ministers.csv) இலிருந்து பதிவிறக்கம் செய்யலாம்.
 
 <style>
 

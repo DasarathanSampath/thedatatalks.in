@@ -68,7 +68,7 @@ topic: politics
 
 ![](/img/politics/tn-vote-share-and-growth_files/figure-markdown/E-yoy%20growth-1.png)
 
-\*.CSV வடிவத்தில் தகவல்களை [கட்சிகளின் செயல்திறன்](http://thedatatalks.in/datas/politics/tn-party-performance.csv) இலிருந்து பதிவிறக்கம் செய்யலாம்.
+\*.CSV வடிவத்தில் தகவல்களை [கட்சிகளின் செயல்திறன்](https://thedatatalks.in/datas/politics/tn-party-performance.csv) இலிருந்து பதிவிறக்கம் செய்யலாம்.
 
 
 <style>

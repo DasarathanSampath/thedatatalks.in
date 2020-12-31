@@ -35,7 +35,7 @@ Out of 90.87 crore electors, the voter turns out was 61.08 crores, which is calc
 22.85 crore voters have chosen BJP, which is 33% more compared to 2014 election.
 11.96 crore voters have chosen INC, which is 12% more compared to 2014 election.
 
-The data file in \*.CSV format can be downloaded from [India 2019 Parliamentary Election](http://thedatatalks.in/datas/politics/india-2001-parliamentary-election.csv)
+The data file in \*.CSV format can be downloaded from [India 2019 Parliamentary Election](https://thedatatalks.in/datas/politics/india-2001-parliamentary-election.csv)
 
 The below table shows the won candidate details for each parliamentary constituency.
 **The values are first sorted by state name & then by constituency name.**

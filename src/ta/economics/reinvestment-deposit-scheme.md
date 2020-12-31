@@ -16,8 +16,8 @@ topic: economics
 # {{ $frontmatter.title }}
 <i style="font-size: 0.75em;"> {{ $frontmatter.author }} {{ $frontmatter.date }} </i>
 
-[கூட்டு வட்டி கணக்கிக்கு](http://thedatatalks.in/ta/custom/economics/compound-interest) இங்கே சொடுக்கவும்.  
-[தொடர் வைப்பு நிதி கணக்கிக்கு](http://thedatatalks.in/ta/custom/economics/recurring-deposit) இங்கே சொடுக்கவும்.
+[கூட்டு வட்டி கணக்கிக்கு](https://thedatatalks.in/ta/custom/economics/compound-interest) இங்கே சொடுக்கவும்.  
+[தொடர் வைப்பு நிதி கணக்கிக்கு](https://thedatatalks.in/ta/custom/economics/recurring-deposit) இங்கே சொடுக்கவும்.
 
 **மறு முதலீடு - பதவிளக்கம்:**
 

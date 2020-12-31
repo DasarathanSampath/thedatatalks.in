@@ -164,7 +164,7 @@ for weekdays & weekends.
 <!-- ![](/environment/pm25-tn-chennai-alandaur_files/figure-markdown/MeanofWeekdaytype-1.png) -->
 ![](/img/education/pm25-tn-chennai-alandaur_files/figure-markdown/MeanofWeekdaytype-1.png)
 
-The data file in \*.CSV format can be downloaded from [Alandur-Air Pollution Data](http://thedatatalks.in/datas/environment/TN_Alandur_Bus_Depot_Chennai.csv)
+The data file in \*.CSV format can be downloaded from [Alandur-Air Pollution Data](https://thedatatalks.in/datas/environment/TN_Alandur_Bus_Depot_Chennai.csv)
 
 <style>
 

@@ -52,7 +52,7 @@ topic: politics
 
 ![](/img/politics/tn-electors-voters-details_files/figure-markdown/Plot-male-female-1.png)
 
-\*.CSV வடிவத்தில் தகவல்களை [வாக்காளர்கள் மற்றும் வாக்கு செலுத்தியவர்கள்](http://thedatatalks.in/datas/politics/tn-electors.csv) மற்றும் [ஆண் மற்றும் பெண் வாக்காளர்கள்](http://thedatatalks.in/datas/politics/tn-male-female-electors.csv) இலிருந்து பதிவிறக்கம் செய்யலாம்.
+\*.CSV வடிவத்தில் தகவல்களை [வாக்காளர்கள் மற்றும் வாக்கு செலுத்தியவர்கள்](https://thedatatalks.in/datas/politics/tn-electors.csv) மற்றும் [ஆண் மற்றும் பெண் வாக்காளர்கள்](https://thedatatalks.in/datas/politics/tn-male-female-electors.csv) இலிருந்து பதிவிறக்கம் செய்யலாம்.
 
 <style>
 

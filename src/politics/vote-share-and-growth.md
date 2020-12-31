@@ -103,7 +103,7 @@ JNP should be considered as BJP for better understanding.
 The E-YoY % change in voters for Indian National congress (INC) is
 stable compared to Bharatiya Janata Party (BJP).
 
-The data file in \*.CSV format can be downloaded from [Party Performance](http://thedatatalks.in/datas/politics/party_performance.csv)
+The data file in \*.CSV format can be downloaded from [Party Performance](https://thedatatalks.in/datas/politics/party_performance.csv)
 
 <style>
 

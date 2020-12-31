@@ -24,7 +24,7 @@ topic: politics
 
 ![](/img/politics/india-1998-parliamentary-election/india-1998-election-2.png)
 
-\*.CSV வடிவத்தில் தகவல்களை [இந்தியா 1998 நாடாளுமன்றத் தேர்தல்](http://thedatatalks.in/datas/politics/india-1998-parliamentary-election.csv) இலிருந்து பதிவிறக்கம் செய்யலாம்
+\*.CSV வடிவத்தில் தகவல்களை [இந்தியா 1998 நாடாளுமன்றத் தேர்தல்](https://thedatatalks.in/datas/politics/india-1998-parliamentary-election.csv) இலிருந்து பதிவிறக்கம் செய்யலாம்
 
 ஒவ்வொரு நாடாளுமன்றத் தொகுதியிலும் வென்ற வேட்பாளர் விவரங்களை கீழே உள்ள அட்டவணை காட்டுகிறது.
 **மதிப்புகள் முதலில் மாநிலங்களின் பெயர், பின்னர் தொகுதிகளின் பெயரால் வரிசைப்படுத்தப்படுகின்றன.**

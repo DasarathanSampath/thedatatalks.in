@@ -54,7 +54,7 @@ topic: politics
 
 ![](/img/politics/delhi-electors-voters-details/figure-markdown/img2.png)
 
-\*.CSV வடிவத்தில் தகவல்களை [வாக்காளர்கள் மற்றும் வாக்கு செலுத்தியவர்கள்](http://thedatatalks.in/datas/politics/delhi-electors.csv) மற்றும் [ஆண் மற்றும் பெண் வாக்காளர்கள்](http://thedatatalks.in/datas/politics/delhi-male-female-electors.csv) இலிருந்து பதிவிறக்கம் செய்யலாம்.
+\*.CSV வடிவத்தில் தகவல்களை [வாக்காளர்கள் மற்றும் வாக்கு செலுத்தியவர்கள்](https://thedatatalks.in/datas/politics/delhi-electors.csv) மற்றும் [ஆண் மற்றும் பெண் வாக்காளர்கள்](https://thedatatalks.in/datas/politics/delhi-male-female-electors.csv) இலிருந்து பதிவிறக்கம் செய்யலாம்.
 
 <style>
 

@@ -83,7 +83,7 @@ EPS -  ஈட்டம் (வருவாய்) / பங்கு
 
 </div>
 
-\*.CSV வடிவத்தில் தகவல்களை பதிவிறக்கம் செய்ய [Nifty50 ஈட்டம்](http://thedatatalks.in/datas/nifty50_yield.csv) மற்றும் [10-வருட பத்திர ஈட்டம்](http://thedatatalks.in/datas/bond_10year_yield.csv)
+\*.CSV வடிவத்தில் தகவல்களை பதிவிறக்கம் செய்ய [Nifty50 ஈட்டம்](https://thedatatalks.in/datas/nifty50_yield.csv) மற்றும் [10-வருட பத்திர ஈட்டம்](https://thedatatalks.in/datas/bond_10year_yield.csv)
 
 <style>
 

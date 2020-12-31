@@ -36,7 +36,7 @@ Jan-2009 to Dec-2009: President’s rule
 
 Out of 1.78 crore electors, the voter turns out was 1.01 crore, which is calculated to a polling percentage of 56.74%. 0.23 crore out of 1.01 crore voters have chosen BJP 0.12 crore voters have chosen INC 0.14 crore voters have chosen JMM.    
 
-The data file in \*.CSV format can be downloaded from [Jharkhand 2005 Legislative Election](http://thedatatalks.in/datas/politics/jharkhand-2005-legislative-election.csv)
+The data file in \*.CSV format can be downloaded from [Jharkhand 2005 Legislative Election](https://thedatatalks.in/datas/politics/jharkhand-2005-legislative-election.csv)
 
 The below table shows the won candidate details for each legislative constituency.
 **The values are first sorted by party name & then by constituency name.**

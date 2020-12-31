@@ -37,7 +37,7 @@ Data source for this analysis\
 
 The required values are in various sub-pages of the above-mentioned websites and
 we have manually copied the values of below said data variables into a
-\*.CSV file. This file can be downloaded from [Imports & Exports of India](http://thedatatalks.in/datas/economics/import_export.csv)
+\*.CSV file. This file can be downloaded from [Imports & Exports of India](https://thedatatalks.in/datas/economics/import_export.csv)
 
 ## Data Variables:
 

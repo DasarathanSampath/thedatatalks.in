@@ -36,7 +36,7 @@ As per the plot, on an average there is an increase of 13%
 (approximately) of electors for every election and the average polling
 percentage falls at 60%.
 
-The data file in \*.CSV format can be downloaded from [Electors & Voters](http://thedatatalks.in/datas/politics/electors.csv)
+The data file in \*.CSV format can be downloaded from [Electors & Voters](https://thedatatalks.in/datas/politics/electors.csv)
 
 <style>
 

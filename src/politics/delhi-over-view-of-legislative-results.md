@@ -71,7 +71,7 @@ date, end date, number of days in the post and party name.
 
 ![](/img/politics/over-view-of-delhi-legislative-results/figure-markdown/img2.png)
 
-The data file in \*.CSV format can be downloaded from [Chief ministers of Delhi](http://thedatatalks.in/datas/politics/delhi-chief-ministers.csv)
+The data file in \*.CSV format can be downloaded from [Chief ministers of Delhi](https://thedatatalks.in/datas/politics/delhi-chief-ministers.csv)
 
 <style>
 

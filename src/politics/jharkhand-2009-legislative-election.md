@@ -40,7 +40,7 @@ Prior to the election, INC had an alliance with JVM & CPI(M) & BJP had an allian
 0.17 crore voters have chosen INC, which is 36.09% more compared to the 2005 election.  
 0.17 crore voters have chosen JMM, which is 7.89% more compared to the 2005 election.  
 
-The data file in \*.CSV format can be downloaded from [Jharkhand 2009 Legislative Election](http://thedatatalks.in/datas/politics/jharkhand-2009-legislative-election.csv)
+The data file in \*.CSV format can be downloaded from [Jharkhand 2009 Legislative Election](https://thedatatalks.in/datas/politics/jharkhand-2009-legislative-election.csv)
 
 The below table shows the won candidate details for each legislative constituency.
 **The values are first sorted by party name & then by constituency name.**

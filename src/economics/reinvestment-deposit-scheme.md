@@ -16,8 +16,8 @@ topic: economics
 # {{ $frontmatter.title }}
 <i style="font-size: 0.75em;"> {{ $frontmatter.author }} {{ $frontmatter.date }} </i>
 
-Click here for [Compound Interest Calculator](http://thedatatalks.in/custom/economics/compound-interest)  
-Click here for [Recurring Deposit Calculator](http://thedatatalks.in/custom/economics/recurring-deposit)
+Click here for [Compound Interest Calculator](https://thedatatalks.in/custom/economics/compound-interest)  
+Click here for [Recurring Deposit Calculator](https://thedatatalks.in/custom/economics/recurring-deposit)
 
 ## Reinvestment - Explanation of the word
 

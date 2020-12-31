@@ -32,7 +32,7 @@ Out of 1.33 crore electors, the voter turns out was 0.9 crore, which is calculat
 0.29 crore voters have chosen BJP, which is 11% more compared to the 2013 election.  
 0.09 crore voters have chosen INC, which is 55.2% less compared to the 2013 election.  
 
-The data file in \*.CSV format can be downloaded from [Delhi 2015 Legislative Election](http://thedatatalks.in/datas/politics/delhi-2015-legislative-election.csv)
+The data file in \*.CSV format can be downloaded from [Delhi 2015 Legislative Election](https://thedatatalks.in/datas/politics/delhi-2015-legislative-election.csv)
 
 The below table shows the won candidate details for each legislative constituency.
 **The values are first sorted by party name & then by constituency name.**

@@ -66,7 +66,7 @@ for  **"Sukumar Sen"** (the first election commissioner of India) were
 
 ------------------------------------------------------------------------
 
-The data file in \*.CSV format can be downloaded from [Prime ministers of India](http://thedatatalks.in/datas/politics/primeministers.csv)
+The data file in \*.CSV format can be downloaded from [Prime ministers of India](https://thedatatalks.in/datas/politics/primeministers.csv)
 
 <style>
    

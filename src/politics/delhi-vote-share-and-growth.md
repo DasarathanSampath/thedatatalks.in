@@ -68,7 +68,7 @@ huge decline in further elections. Growth of AAAP is huge in short span.
 
 ![](/img/politics/delhi-vote-share-and-growth/figure-markdown/E-yoy-growth-1.png)
 
-The data file in \*.CSV format can be downloaded from [Party Performance](http://thedatatalks.in/datas/politics/delhi-party-performance.csv)
+The data file in \*.CSV format can be downloaded from [Party Performance](https://thedatatalks.in/datas/politics/delhi-party-performance.csv)
 
 <style>
 

@@ -69,7 +69,7 @@ calculated to **58.23%**, which is **1.77%** lower when compared to
 
 ![](/img/politics/delhi-electors-voters-details/figure-markdown/img2.png)
 
-The data file in \*.CSV format can be downloaded from [Electors & Voters of Delhi](http://thedatatalks.in/datas/politics/delhi-electors.csv) & [Male, Female Voters](http://thedatatalks.in/datas/politics/delhi-male-female-electors.csv)
+The data file in \*.CSV format can be downloaded from [Electors & Voters of Delhi](https://thedatatalks.in/datas/politics/delhi-electors.csv) & [Male, Female Voters](https://thedatatalks.in/datas/politics/delhi-male-female-electors.csv)
 
 <style>
 

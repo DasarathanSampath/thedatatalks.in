@@ -35,7 +35,7 @@ i.e., 95% of the time we correctly conclude that the coin is indeed fair.
 
 Suppose we get p-value just above 5%, then H<sub>0</sub> is accepted and observed data is a rare event.
 
-Please read this page for [p-values & binomial trials](http://thedatatalks.in/education/bernouli-distribution-binomial-trials).
+Please read this page for [p-values & binomial trials](https://thedatatalks.in/education/bernouli-distribution-binomial-trials).
 
 <style>
 </style>
