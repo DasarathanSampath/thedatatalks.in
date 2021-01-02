@@ -100,7 +100,9 @@
                 "collapsable": false,
                 "children": [
                   "",
+                  "air-handling-unit-performance-calculation",
                   "air-handling-unit-selection",
+                  "ahu-water-side-cooling-load-calculation",
                   "bernouli-distribution-binomial-trials",
                   "covid19-corona-virus-china-data",
                   "covid19-corona-virus-india-data",
