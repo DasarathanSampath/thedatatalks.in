@@ -4,7 +4,7 @@
         <title></title>
         <link>https://thedatatalks.in</link>
         <description></description>
-        <lastBuildDate>Thu, 31 Dec 2020 03:02:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Dec 2020 03:20:41 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <atom:link href="https://thedatatalks.in/feed.atom" rel="self" type="application/rss+xml"/>
@@ -17,16 +17,36 @@
             </enclosure>
         </item>
         <item>
+            <title><![CDATA[Economics]]></title>
+            <link>https://thedatatalks.in/economics/</link>
+            <guid>https://thedatatalks.in/economics/</guid>
+            <pubDate>Sat, 16 Feb 2019 18:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Recurring deposit]]></title>
+            <link>https://thedatatalks.in/economics/recurring-deposit/</link>
+            <guid>https://thedatatalks.in/economics/recurring-deposit/</guid>
+            <pubDate>Tue, 21 Apr 2020 18:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nifty50 yield & 10-Years Bond yield]]></title>
+            <link>https://thedatatalks.in/economics/nifty50-10year-bond-yield/</link>
+            <guid>https://thedatatalks.in/economics/nifty50-10year-bond-yield/</guid>
+            <pubDate>Fri, 13 Mar 2020 18:30:00 GMT</pubDate>
+            <enclosure url="https://thedatatalks.in/img/economics/nifty50-10year-bond-yield/figure-markdown/bond_Nifty_yield-1.png">
+            </enclosure>
+        </item>
+        <item>
             <title><![CDATA[Compound interest]]></title>
             <link>https://thedatatalks.in/economics/compound-interest/</link>
             <guid>https://thedatatalks.in/economics/compound-interest/</guid>
             <pubDate>Tue, 21 Apr 2020 18:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Economics]]></title>
-            <link>https://thedatatalks.in/economics/</link>
-            <guid>https://thedatatalks.in/economics/</guid>
-            <pubDate>Sat, 16 Feb 2019 18:30:00 GMT</pubDate>
+            <title><![CDATA[Reinvestment Deposit Scheme]]></title>
+            <link>https://thedatatalks.in/economics/reinvestment-deposit-scheme/</link>
+            <guid>https://thedatatalks.in/economics/reinvestment-deposit-scheme/</guid>
+            <pubDate>Wed, 29 Apr 2020 18:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Exports of India]]></title>
@@ -45,10 +65,10 @@
             </enclosure>
         </item>
         <item>
-            <title><![CDATA[Recurring deposit]]></title>
-            <link>https://thedatatalks.in/economics/recurring-deposit/</link>
-            <guid>https://thedatatalks.in/economics/recurring-deposit/</guid>
-            <pubDate>Tue, 21 Apr 2020 18:30:00 GMT</pubDate>
+            <title><![CDATA[Education]]></title>
+            <link>https://thedatatalks.in/education/</link>
+            <guid>https://thedatatalks.in/education/</guid>
+            <pubDate>Sat, 16 Feb 2019 18:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Air Handling Unit (AHU) Selection Guide]]></title>
@@ -56,34 +76,6 @@
             <guid>https://thedatatalks.in/education/air-handling-unit-selection/</guid>
             <pubDate>Mon, 07 Dec 2020 18:30:00 GMT</pubDate>
             <enclosure url="https://thedatatalks.in/img/education/air-handling-unit-selection/img1.png">
-            </enclosure>
-        </item>
-        <item>
-            <title><![CDATA[Nifty50 yield & 10-Years Bond yield]]></title>
-            <link>https://thedatatalks.in/economics/nifty50-10year-bond-yield/</link>
-            <guid>https://thedatatalks.in/economics/nifty50-10year-bond-yield/</guid>
-            <pubDate>Fri, 13 Mar 2020 18:30:00 GMT</pubDate>
-            <enclosure url="https://thedatatalks.in/img/economics/nifty50-10year-bond-yield/figure-markdown/bond_Nifty_yield-1.png">
-            </enclosure>
-        </item>
-        <item>
-            <title><![CDATA[Reinvestment Deposit Scheme]]></title>
-            <link>https://thedatatalks.in/economics/reinvestment-deposit-scheme/</link>
-            <guid>https://thedatatalks.in/economics/reinvestment-deposit-scheme/</guid>
-            <pubDate>Wed, 29 Apr 2020 18:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Education]]></title>
-            <link>https://thedatatalks.in/education/</link>
-            <guid>https://thedatatalks.in/education/</guid>
-            <pubDate>Sat, 16 Feb 2019 18:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bernouli distribution & binomial trials]]></title>
-            <link>https://thedatatalks.in/education/bernouli-distribution-binomial-trials/</link>
-            <guid>https://thedatatalks.in/education/bernouli-distribution-binomial-trials/</guid>
-            <pubDate>Sat, 25 Apr 2020 18:30:00 GMT</pubDate>
-            <enclosure url="https://thedatatalks.in/img/education/binomial-distribution/coinflip.png">
             </enclosure>
         </item>
         <item>
@@ -103,10 +95,12 @@
             </enclosure>
         </item>
         <item>
-            <title><![CDATA[Nginx with PM2 for NuxtJs]]></title>
-            <link>https://thedatatalks.in/education/nginx-pm2-nuxtjs/</link>
-            <guid>https://thedatatalks.in/education/nginx-pm2-nuxtjs/</guid>
-            <pubDate>Sat, 18 Apr 2020 18:30:00 GMT</pubDate>
+            <title><![CDATA[Bernouli distribution & binomial trials]]></title>
+            <link>https://thedatatalks.in/education/bernouli-distribution-binomial-trials/</link>
+            <guid>https://thedatatalks.in/education/bernouli-distribution-binomial-trials/</guid>
+            <pubDate>Sat, 25 Apr 2020 18:30:00 GMT</pubDate>
+            <enclosure url="https://thedatatalks.in/img/education/binomial-distribution/coinflip.png">
+            </enclosure>
         </item>
         <item>
             <title><![CDATA[World Covid-19 Corona virus data]]></title>
@@ -117,18 +111,18 @@
             </enclosure>
         </item>
         <item>
-            <title><![CDATA[p-value]]></title>
-            <link>https://thedatatalks.in/education/p-value/</link>
-            <guid>https://thedatatalks.in/education/p-value/</guid>
-            <pubDate>Sat, 25 Apr 2020 18:30:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Air Pollution data-Telangana, Sanathnagar, Hyderabad]]></title>
             <link>https://thedatatalks.in/education/pm25-tl-hyderabad-sanathnagar/</link>
             <guid>https://thedatatalks.in/education/pm25-tl-hyderabad-sanathnagar/</guid>
             <pubDate>Fri, 13 Mar 2020 18:30:00 GMT</pubDate>
             <enclosure url="https://thedatatalks.in/environment/pm25-tl-hyderabad-sanathnagar_files/figure-markdown/outlier-plots-1.png">
             </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Nginx with PM2 for NuxtJs]]></title>
+            <link>https://thedatatalks.in/education/nginx-pm2-nuxtjs/</link>
+            <guid>https://thedatatalks.in/education/nginx-pm2-nuxtjs/</guid>
+            <pubDate>Sat, 18 Apr 2020 18:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Air Pollution data - Tamil Nadu; Station: Alandur Bus Depot, Chennai - CPCB]]></title>
@@ -139,16 +133,22 @@
             </enclosure>
         </item>
         <item>
-            <title><![CDATA[Standard deviation and Standard error]]></title>
-            <link>https://thedatatalks.in/education/standard-deviation-and-error/</link>
-            <guid>https://thedatatalks.in/education/standard-deviation-and-error/</guid>
-            <pubDate>Sat, 18 Apr 2020 18:30:00 GMT</pubDate>
+            <title><![CDATA[p-value]]></title>
+            <link>https://thedatatalks.in/education/p-value/</link>
+            <guid>https://thedatatalks.in/education/p-value/</guid>
+            <pubDate>Sat, 25 Apr 2020 18:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Others]]></title>
             <link>https://thedatatalks.in/others/</link>
             <guid>https://thedatatalks.in/others/</guid>
             <pubDate>Sat, 16 Feb 2019 18:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Standard deviation and Standard error]]></title>
+            <link>https://thedatatalks.in/education/standard-deviation-and-error/</link>
+            <guid>https://thedatatalks.in/education/standard-deviation-and-error/</guid>
+            <pubDate>Sat, 18 Apr 2020 18:30:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
