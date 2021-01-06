@@ -1,6 +1,6 @@
 <template>
 <ClientOnly>
-  <div class="compoundForm">
+  <div class="calculatorForm">
     <h3>
         {{ $frontmatter.headA1 }}
         <h4>
@@ -78,47 +78,5 @@ export default {
 </script>
 
 <style lang="stylus" scoped>
-.compoundForm
-  width 50%
 
-@media screen and (max-width 640px) {
-    .compoundForm {
-      width 100%
-    }
-}
-
-.form-result
-  width 48%
-  background-color: #3A3A9C;
-  color: #FFFFFF
-  min-height: 36px;
-  border: 1px solid #888888;
-  border-radius: 5px;
-  box-sizing: border-box;
-  font: inherit;
-  padding: 5px 10px;
-  transition: all 0.3s ease;
-  font-weight 600
-  font-size 1.5rem
-
-.row-form:after
-  content ""
-  display table
-  clear both
-
-.column-form-left
-  text-align right
-  display inline-block
-  width 48%
-
-.column-form-right  
-  width 48%
-  background-color: #F2F2F2;
-  min-height: 36px;
-  border: 1px solid #888888;
-  border-radius: 5px;
-  box-sizing: border-box;
-  font: inherit;
-  padding: 5px 10px;
-  transition: all 0.3s ease;
 </style>

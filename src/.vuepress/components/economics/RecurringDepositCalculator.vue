@@ -1,6 +1,6 @@
 <template>
 <ClientOnly>
-  <div class="compoundForm">
+  <div class="calculatorForm">
     <h3>
         {{ $frontmatter.headA1 }}
         <h4>
@@ -9,7 +9,7 @@
     </h3>
     <div class="row-form">
       <label for="oneTimeDeposit" class="column-form-left">{{$frontmatter.headA3}}</label>
-      <input v-model="inputValues.monthlyDeposit" id="name" class="column-form-right">
+      <input v-model="inputValues.monthlyDeposit" id="oneTimeDeposit" class="column-form-right">
     </div>
     <div class="row-form">
       <label for="period" class="column-form-left">{{$frontmatter.headA4}}</label>
@@ -95,47 +95,5 @@ export default {
 </script>
 
 <style lang="stylus">
-.compoundForm
-  width 50%
 
-@media screen and (max-width 640px) {
-    .compoundForm {
-      width 100%
-    }
-}
-
-.form-result
-  width 48%
-  background-color: #3A3A9C;
-  color: #FFFFFF
-  min-height: 36px;
-  border: 1px solid #888888;
-  border-radius: 5px;
-  box-sizing: border-box;
-  font: inherit;
-  padding: 5px 10px;
-  transition: all 0.3s ease;
-  font-weight 600
-  font-size 1.5rem
-
-.row-form:after
-  content ""
-  display table
-  clear both
-
-.column-form-left
-  text-align right
-  display inline-block
-  width 48%
-
-.column-form-right  
-  width 48%
-  background-color: #F2F2F2;
-  min-height: 36px;
-  border: 1px solid #888888;
-  border-radius: 5px;
-  box-sizing: border-box;
-  font: inherit;
-  padding: 5px 10px;
-  transition: all 0.3s ease;
 </style>

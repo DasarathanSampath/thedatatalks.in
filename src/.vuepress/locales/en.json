@@ -99,10 +99,12 @@
                 "title": "Navigations",
                 "collapsable": false,
                 "children": [
-                  "",
-                  "air-handling-unit-performance-calculation",
+                  "",                  
                   "air-handling-unit-selection",
+                  "air-handling-unit-performance-calculation",
                   "ahu-water-side-cooling-load-calculation",
+                  "ahu-air-side-cooling-load-calculation",                  
+                  "adp-and-bf-calculation",
                   "bernouli-distribution-binomial-trials",
                   "covid19-corona-virus-china-data",
                   "covid19-corona-virus-india-data",
@@ -111,6 +113,7 @@
                   "pm25-tl-hyderabad-sanathnagar",
                   "pm25-tn-chennai-alandur",
                   "p-value",
+                  "psychrometric-chart-and-related-equations",
                   "standard-deviation-and-error",
                   "uniform-distribution"
                 ]

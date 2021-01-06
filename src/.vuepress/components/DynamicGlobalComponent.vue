@@ -17,7 +17,7 @@ export default {
   },
 
   mounted () {
-    import(`./${this.componentName}`).then(module => {
+    import(`./${this.$frontmatter.topic}/${this.componentName}`).then(module => {
       this.dynamicComponent = module.default
     })
   }

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0,0,600, 400" font-family="“Helvetica Neue, sans-serif" text-anchor="middle">
+
+  <g >  
+  <rect x1="0" y1="0" width="600" height="400" style="fill:pink;stroke:black;stroke-width:1;opacity:0.5" />
+  <line x1="50" y1="350" x2="550" y2="350" style="stroke:black;stroke-width:1;opacity:0.5" />
+  <line x1="50" y1="350" x2="50" y2="300" style="stroke:black;stroke-width:1;opacity:0.5" />
+  <line x1="550" y1="350" x2="550" y2="50" style="stroke:black;stroke-width:1;opacity:0.5" />
+  <line x1="575" y1="300" x2="575" y2="100" style="stroke:black;stroke-width:1;opacity:0.5" />
+  <line x1="550" y1="50" x2="350" y2="50" style="stroke:black;stroke-width:1;opacity:0.5" />
+  <path d="M50,300 C200,275 300,175 350,50" style="stroke:black;stroke-width:1;opacity:0.5" fill="none"/>
+  <circle cx="400" cy="200" r="2" fill="red" stroke="blue" stroke-width="1"/>
+  <line x1="400" y1="150" x2="400" y2="350" style="stroke:black;stroke-width:1;opacity:0.5" />
+  <text x="405" y="250" fill="black" style="stroke:rgb(64,64,64);stroke-width:0.8; font-size: 12px; writing-mode: tb;">DBT</text>
+  <line x1="250" y1="200" x2="550" y2="200" style="stroke:black;stroke-width:1;opacity:0.5" />
+  <text x="450" y="198" fill="black" style="stroke:rgb(64,64,64);stroke-width:0.8; font-size: 12px;">AH</text>
+  <text x="300" y="198" fill="black" style="stroke:rgb(64,64,64);stroke-width:0.8; font-size: 12px;">VP</text>
+  <line x1="550" y1="200" x2="575" y2="200" style="stroke:black;stroke-width:1;opacity:0.5" />
+  <text x="562" y="198" fill="black" style="stroke:rgb(64,64,64);stroke-width:0.8; font-size: 12px;">DP</text>
+  <line x1="450" y1="210" x2="275" y2="175" style="stroke:black;stroke-width:1;opacity:0.5" />
+  <text x="300" y="175" fill="black" style="stroke:rgb(64,64,64);stroke-width:0.8; font-size: 12px;">WBT</text>
+  <line x1="367" y1="150" x2="500" y2="350" style="stroke:black;stroke-width:1;opacity:0.5" />
+  <text x="460" y="275" fill="black" style="stroke:rgb(64,64,64);stroke-width:0.8; font-size: 12px;">SV</text>
+  <path d="M50,325 C250,325 410,275 475,50" style="stroke:black;stroke-width:1;opacity:0.5" fill="none"/>
+  <text x="125" y="320" fill="black" style="stroke:rgb(64,64,64);stroke-width:0.8; font-size: 12px;">RH</text>
+  <line x1="450" y1="225" x2="250" y2="125" style="stroke:black;stroke-width:1;opacity:0.5" />
+  <line x1="175" y1="200" x2="275" y2="100" style="stroke:black;stroke-width:1;opacity:0.5" />
+  <text x="280" y="135" fill="black" style="stroke:rgb(64,64,64);stroke-width:0.8; font-size: 12px;">SH</text>
+  </g>
+ 
+</svg>
