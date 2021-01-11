@@ -52,6 +52,8 @@ Btu/hr 	= 500 x gpm x Δt
 
 For simplicity consider there is no fresh air addition, AHU fan motor heat gain, and infiltration.
 
+Also a typical cooling and dehumidification process is considered in this example.
+
 Use “sling psychrometer” and take the below readings at the AHU inlet.
 
  - DBT = 75° F

@@ -5,13 +5,6 @@
     "feed_url": "https://thedatatalks.in/feed.json",
     "items": [
         {
-            "id": "https://thedatatalks.in/economics/imports-of-india/",
-            "url": "https://thedatatalks.in/economics/imports-of-india/",
-            "title": "Imports of India",
-            "image": "https://thedatatalks.in/img/economics/imports-of-india/figure-markdown/imports-of-india-1.png",
-            "date_modified": "2019-02-16T18:30:00.000Z"
-        },
-        {
             "id": "https://thedatatalks.in/economics/analysis-on-imports-and-exports-of-india/",
             "url": "https://thedatatalks.in/economics/analysis-on-imports-and-exports-of-india/",
             "title": "Analysis on Imports and Exports of India",
@@ -31,18 +24,18 @@
             "date_modified": "2020-04-21T18:30:00.000Z"
         },
         {
+            "id": "https://thedatatalks.in/economics/imports-of-india/",
+            "url": "https://thedatatalks.in/economics/imports-of-india/",
+            "title": "Imports of India",
+            "image": "https://thedatatalks.in/img/economics/imports-of-india/figure-markdown/imports-of-india-1.png",
+            "date_modified": "2019-02-16T18:30:00.000Z"
+        },
+        {
             "id": "https://thedatatalks.in/economics/exports-of-india/",
             "url": "https://thedatatalks.in/economics/exports-of-india/",
             "title": "Exports of India",
             "image": "https://thedatatalks.in/img/economics/exports-of-india_files/figure-markdown/exports-of-india-1.png",
             "date_modified": "2019-02-16T18:30:00.000Z"
-        },
-        {
-            "id": "https://thedatatalks.in/economics/nifty50-10year-bond-yield/",
-            "url": "https://thedatatalks.in/economics/nifty50-10year-bond-yield/",
-            "title": "Nifty50 yield & 10-Years Bond yield",
-            "image": "https://thedatatalks.in/img/economics/nifty50-10year-bond-yield/figure-markdown/bond_Nifty_yield-1.png",
-            "date_modified": "2020-03-13T18:30:00.000Z"
         },
         {
             "id": "https://thedatatalks.in/economics/reinvestment-deposit-scheme/",
@@ -57,16 +50,17 @@
             "date_modified": "2020-04-21T18:30:00.000Z"
         },
         {
+            "id": "https://thedatatalks.in/economics/nifty50-10year-bond-yield/",
+            "url": "https://thedatatalks.in/economics/nifty50-10year-bond-yield/",
+            "title": "Nifty50 yield & 10-Years Bond yield",
+            "image": "https://thedatatalks.in/img/economics/nifty50-10year-bond-yield/figure-markdown/bond_Nifty_yield-1.png",
+            "date_modified": "2020-03-13T18:30:00.000Z"
+        },
+        {
             "id": "https://thedatatalks.in/education/",
             "url": "https://thedatatalks.in/education/",
             "title": "Education",
             "date_modified": "2019-02-16T18:30:00.000Z"
-        },
-        {
-            "id": "https://thedatatalks.in/education/ahu-air-side-cooling-load-calculation/",
-            "url": "https://thedatatalks.in/education/ahu-air-side-cooling-load-calculation/",
-            "title": "AHU air side cooling load calculation",
-            "date_modified": "2020-12-07T18:30:00.000Z"
         },
         {
             "id": "https://thedatatalks.in/education/adp-and-bf-calculation/",
@@ -76,9 +70,9 @@
             "date_modified": "2020-12-07T18:30:00.000Z"
         },
         {
-            "id": "https://thedatatalks.in/education/ahu-water-side-cooling-load-calculation/",
-            "url": "https://thedatatalks.in/education/ahu-water-side-cooling-load-calculation/",
-            "title": "AHU water side cooling load calculation",
+            "id": "https://thedatatalks.in/education/ahu-air-side-cooling-load-calculation/",
+            "url": "https://thedatatalks.in/education/ahu-air-side-cooling-load-calculation/",
+            "title": "AHU air side cooling load calculation",
             "date_modified": "2020-12-07T18:30:00.000Z"
         },
         {
@@ -89,31 +83,10 @@
             "date_modified": "2020-04-25T18:30:00.000Z"
         },
         {
-            "id": "https://thedatatalks.in/education/covid19-corona-virus-china-data/",
-            "url": "https://thedatatalks.in/education/covid19-corona-virus-china-data/",
-            "title": "China Covid-19 Corona virus data",
-            "image": "https://thedatatalks.in/img/education/covid19-corona-virus-china-data_files/figure-markdown/world%20corona%20plot-1.png",
-            "date_modified": "2020-04-04T18:30:00.000Z"
-        },
-        {
-            "id": "https://thedatatalks.in/education/air-handling-unit-performance-calculation/",
-            "url": "https://thedatatalks.in/education/air-handling-unit-performance-calculation/",
-            "title": "Air Handling Unit (AHU) performance calculation",
+            "id": "https://thedatatalks.in/education/ahu-water-side-cooling-load-calculation/",
+            "url": "https://thedatatalks.in/education/ahu-water-side-cooling-load-calculation/",
+            "title": "AHU water side cooling load calculation",
             "date_modified": "2020-12-07T18:30:00.000Z"
-        },
-        {
-            "id": "https://thedatatalks.in/education/covid19-corona-virus-world-data/",
-            "url": "https://thedatatalks.in/education/covid19-corona-virus-world-data/",
-            "title": "World Covid-19 Corona virus data",
-            "image": "https://thedatatalks.in/img/education/covid19-corona-virus-world-data_files/figure-markdown/world%20corona%20plot-1.png",
-            "date_modified": "2020-04-04T18:30:00.000Z"
-        },
-        {
-            "id": "https://thedatatalks.in/education/covid19-corona-virus-india-data/",
-            "url": "https://thedatatalks.in/education/covid19-corona-virus-india-data/",
-            "title": "India Covid-19 Corona virus data",
-            "image": "https://thedatatalks.in/img/education/covid19-corona-virus-india-data_files/figure-markdown/world%20corona%20plot-1.png",
-            "date_modified": "2020-04-01T18:30:00.000Z"
         },
         {
             "id": "https://thedatatalks.in/education/air-handling-unit-selection/",
@@ -123,16 +96,43 @@
             "date_modified": "2020-12-07T18:30:00.000Z"
         },
         {
-            "id": "https://thedatatalks.in/education/nginx-pm2-nuxtjs/",
-            "url": "https://thedatatalks.in/education/nginx-pm2-nuxtjs/",
-            "title": "Nginx with PM2 for NuxtJs",
-            "date_modified": "2020-04-18T18:30:00.000Z"
+            "id": "https://thedatatalks.in/education/air-handling-unit-performance-calculation/",
+            "url": "https://thedatatalks.in/education/air-handling-unit-performance-calculation/",
+            "title": "Air Handling Unit (AHU) performance calculation",
+            "date_modified": "2020-12-07T18:30:00.000Z"
+        },
+        {
+            "id": "https://thedatatalks.in/education/covid19-corona-virus-india-data/",
+            "url": "https://thedatatalks.in/education/covid19-corona-virus-india-data/",
+            "title": "India Covid-19 Corona virus data",
+            "image": "https://thedatatalks.in/img/education/covid19-corona-virus-india-data_files/figure-markdown/world%20corona%20plot-1.png",
+            "date_modified": "2020-04-01T18:30:00.000Z"
+        },
+        {
+            "id": "https://thedatatalks.in/education/covid19-corona-virus-china-data/",
+            "url": "https://thedatatalks.in/education/covid19-corona-virus-china-data/",
+            "title": "China Covid-19 Corona virus data",
+            "image": "https://thedatatalks.in/img/education/covid19-corona-virus-china-data_files/figure-markdown/world%20corona%20plot-1.png",
+            "date_modified": "2020-04-04T18:30:00.000Z"
         },
         {
             "id": "https://thedatatalks.in/education/p-value/",
             "url": "https://thedatatalks.in/education/p-value/",
             "title": "p-value",
             "date_modified": "2020-04-25T18:30:00.000Z"
+        },
+        {
+            "id": "https://thedatatalks.in/education/nginx-pm2-nuxtjs/",
+            "url": "https://thedatatalks.in/education/nginx-pm2-nuxtjs/",
+            "title": "Nginx with PM2 for NuxtJs",
+            "date_modified": "2020-04-18T18:30:00.000Z"
+        },
+        {
+            "id": "https://thedatatalks.in/education/pm25-tn-chennai-alandur/",
+            "url": "https://thedatatalks.in/education/pm25-tn-chennai-alandur/",
+            "title": "Air Pollution data - Tamil Nadu; Station: Alandur Bus Depot, Chennai - CPCB",
+            "image": "https://thedatatalks.in/img/education/pm25-tn-chennai-alandaur_files/figure-markdown/outlier-plots-1.png",
+            "date_modified": "2020-03-13T18:30:00.000Z"
         }
     ]
 }

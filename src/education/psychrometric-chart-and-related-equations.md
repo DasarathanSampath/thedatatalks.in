@@ -20,6 +20,10 @@ topic: education
 
 Below are the list of air properties we generally use in air conditioning
 
+For simplicity consider there is no fresh air addition, AHU fan motor heat gain, and infiltration.
+
+Also a typical cooling and dehumidification process is considered in this example.
+
 ```
 DBT – Dry bulb temperature (°F)
     > It is the thermodynamic temperature of air measured using a thermometer freely exposed to 
