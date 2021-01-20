@@ -40,14 +40,19 @@ To get the sensible load in Btu/hr by entering the air flow rate in cfm (cubic f
 >Specific heat in Btu/lb-°F,
 >Temperature difference in °F
 
-$$
+<!-- $$
 \begin{aligned}
 Mass\enspace flow\enspace rate\enspace of\enspace air &= mass/volume  \\
 Density\enspace of\enspace air\enspace &= 0.075\enspace lb/ft^{3}\enspace at\enspace atmospheric\enspace pressure\enspace and\enspace 70^{o} F\\
 1\enspace cfm &= 60\enspace ft^3/hour\\
 Specific\enspace heat\enspace of\enspace air &= 0.24\enspace Btu/lb-^{o}F
 \end{aligned}
-$$
+$$ -->
+
+- Mass flow rate of air = mass/volume
+- Density of air = 0.075 $lb/ft^{3}$ at atmospheric pressure and $70^{o} F$
+- 1 cfm = 60 $ft^3/hour$
+- Specific heat of air = 0.24 $Btu/lb-^{o}F$
 
 Substitute the above values and we get
 
@@ -79,7 +84,7 @@ To get the sensible load in Btu/hr by entering the air flow rate in cfm (cubic f
 >mass flow rate in lb/ft3-hr,
 >Latent heat of water in Btu/lb
 
-$$
+<!-- $$
 \begin{aligned}
 Latent\enspace heat\enspace of\enspace water\enspace vapour &= 1094\enspace Btu/lb\enspace at\enspace atmospheric\enspace pressure\enspace and\enspace 75^{o} F\\
 Latent\enspace heat\enspace of\enspace condensed\enspace water &= 18\enspace Btu/lb\enspace at\enspace atmospheric\enspace pressure\enspace and\enspace 75^{o} F\\
@@ -88,7 +93,15 @@ Density\enspace of\enspace air\enspace &= 0.075\enspace lb/ft^{3} at\enspace atm
 1\enspace cfm &= 60\enspace ft^3/hour\\
 Specific\enspace heat\enspace of\enspace air &= 0.24\enspace Btu/lb-^{o}F
 \end{aligned}
-$$
+$$ -->
+
+- Latent heat of water vapour = 1094 Btu/lb at atmospheric pressure and $75^{o} F$
+- Latent heat of condensed water = 18 Btu/lb at atmospheric pressure and $75^{o} F$
+- Latent heat of vapourizing water = 1094-18 = 1076 Btu/lb at atmospheric pressure and $75^{o} F$
+- Density of air = 0.075 $lb/ft^{3}$ at atmospheric pressure and $70^{o} F$
+- 1 cfm = 60 $ft^3/hour$
+- Specific heat of air = 0.24 $Btu/lb-^{o}F$
+
 
 Substitute the above values and we get
 

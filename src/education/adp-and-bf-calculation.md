@@ -34,11 +34,15 @@ When we know the room sensible load & room latent load from building heat/coolin
 
 We have to iterate the room sensible heat factor to solve ADP.
 
-$ERSH = 1.08 * cfm * (T_{rm} - T_{adp}) * (1-BF)$
-$ERLH = 4842 * CFM * (W_{rm} - W_{adp}) * (1-BF)$
-$ERSHF = \dfrac {(1.08 * cfm * (T_{rm} - T_{adp}) * (1-BF))} {(1.08 * cfm * (T_{rm} - T_{adp}) * (1-BF)) + (4842 * CFM * (W_{rm} - W_{adp}) * (1-BF))}$
+$ERSH = 1.08 * cfm$ * $(T_{rm} - T_{adp}) * (1-BF)$
+$ERLH = 4842 * CFM$ * $(W_{rm} - W_{adp}) * (1-BF)$
+<!-- $ERSHF = \dfrac {(1.08 * cfm * (T_{rm} - T_{adp}) * (1-BF))} {(1.08 * cfm * (T_{rm} - T_{adp}) * (1-BF)) + (4842 * CFM * (W_{rm} - W_{adp}) * (1-BF))}$ -->
 
-$= \dfrac {(1.08 * cfm * (T_{rm} - T_{adp}))} {(1.08 * cfm * (T_{rm} - T_{adp})) + (4842 * cfm * (W_{rm} - W_{adp}))}$
+$ERSHF =$ ${$ $(1.08 * cfm * (T_{rm} - T_{adp})$ * $(1-BF))$ $}$ 
+÷ ${$ $(1.08 * cfm * (T_{rm} - T_{adp})$ * $(1-BF))$ + $(4842 * CFM * (W_{rm} - W_{adp})$ * $(1-BF))$ $}$
+
+<!-- $= \dfrac {(1.08 * cfm * (T_{rm} - T_{adp}))} {(1.08 * cfm * (T_{rm} - T_{adp})) + (4842 * cfm * (W_{rm} - W_{adp}))}$ -->
+= ${$ $(1.08 * cfm * (T_{rm} - T_{adp}))$ $}$ ÷ ${$ $(1.08 * cfm * (T_{rm} - T_{adp}))$ + $(4842 * cfm * (W_{rm} - W_{adp}))$ $}$
 
 >Where,
 >ERSH - Room sensible heat

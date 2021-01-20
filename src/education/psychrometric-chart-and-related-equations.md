@@ -79,7 +79,7 @@ Assume the known properties are DBT, WBT & altitude(Sea-level)
 
 ### Standard pressue & temperature at the given altitude
 
-$p = 14.696*(1 - 6.8754 * 10^{-6} * Z)^{5.2559}$
+$p =$ $14.696*(1 - 6.8754 * 10^{-6} * Z)^{5.2559}$
 $t = 59-0.00356620 * z$
 
 > Where,
@@ -95,11 +95,11 @@ $^{o}R = ^{o}F + 459.67$
 
 When the given DBT or WBT is between -148° F to 32° F
 
-$\ln(p_{t}) = \dfrac{C_{1}}{t} + C_{2} + C_{3}*t + C_{4}*t^2 + C_{5}*t^3 + C_{6}*t^4 + C_{7}*\ln(t)$
+$\ln(p_{t}) = \dfrac{C_{1}}{t} + C_{2} + C_{3}*t$ $+$ $C_{4}*t^2 + C_{5}*t^3 + C_{6}*t^4$ $+$ $C_{7}*\ln(t)$
 
 When the given DBT or WBT is between 32° F to 392° F
 
-$\ln(p_{t}) = \dfrac{C_{8}}{t} + C_{9} + C_{10}*t + C_{11}*t^2 + C_{12}*t^3 + C_{13}*\ln(t)$
+$\ln(p_{t}) = \dfrac{C_{8}}{t} + C_{9}$ $+$ $C_{10}*t + C_{11}*t^2 + C_{12}*t^3$ $+$ $C_{13}*\ln(t)$
 
 > Where,
 > $p_{t}$ - Saturated pressure at the given temperature in psia
@@ -126,11 +126,13 @@ Humidity ratio for the given DBT & WBT
 
 Below freezing 
 
-$W = \dfrac{(1220-0.04*WBT)*W_{wbt}-0.240*(DBT-WBT)} {1220 + 0.444*DBT-0.48*WBT}$
+<!-- $W = \dfrac{(1220-0.04*WBT)*W_{wbt}-0.240*(DBT-WBT)} {1220 + 0.444*DBT-0.48*WBT}$ -->
+$W =$ ${$ $(1220-0.04*WBT)$ * $W_{wbt}-0.240*(DBT-WBT)$ $}$ ÷ ${$ $1220 + 0.444*DBT-0.48*WBT$ $}$
 
 Above freezing
 
-$W = \dfrac{(1093-0.556*WBT)*W_{wbt}-0.240*(DBT-WBT)} {1093 + 0.444*DBT-WBT}$
+<!-- $W = \dfrac{(1093-0.556*WBT)*W_{wbt}-0.240*(DBT-WBT)} {1093 + 0.444*DBT-WBT}$ -->
+$W =$ ${$ $(1093-0.556*WBT)$ * $W_{wbt}-0.240*(DBT-WBT)$ $}$ ÷ ${$ $1093 + 0.444*DBT-WBT$ $}$
 
 >Where,
 >$W$ - Humidity ratio in lb/lb
@@ -162,7 +164,7 @@ $\alpha = \ln(p_{w})$
 
 For above 32° F
 
-$t_{dp} = C_{14} + C_{15}*\alpha + C_{16}*\alpha^2 + C_{17} * \alpha^3 + C_{18}*p_{w}^{0.1984}$
+$t_{dp} = C_{14}$ $+$ $C_{15}*\alpha + C_{16}*\alpha^2$ $+$ $C_{17} * \alpha^3 + C_{18}*p_{w}^{0.1984}$
 
 For below 32° F
 
@@ -177,7 +179,7 @@ $t_{dp} = 90.12 + 26.142 * \alpha + 0.8927 * \alpha^2$
 
 ### Specific enthalpy (SH)
 
-$h = 0.240 * DBT + W * (1061 + 0.444 * DBT)$
+$h = 0.240$ * DBT$ $+$ $W * (1061 + 0.444 * DBT)$
 
 >Where,
 >$h$ - Specific enthalpy (SH) in Btu/hr
@@ -186,7 +188,7 @@ $h = 0.240 * DBT + W * (1061 + 0.444 * DBT)$
 
 ### Specific volume (SV)
 
-$v = \dfrac{0.370486 * DBT * (1+1.607858*W)} {p}$
+$v =$ $\dfrac{0.370486 * DBT * (1+1.607858*W)} {p}$
 
 >Where,
 >$v$ - Specific volume (SV) in $ft^3/lb$

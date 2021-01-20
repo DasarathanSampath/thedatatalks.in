@@ -41,14 +41,18 @@ We want to get the total enthalpy in Btu/hr by entering the water flow rate in g
 > Specific heat in Btu / lb-°F,
 > Temperature difference in °F
 
-$$
+<!-- $$
 \begin{aligned}
 Mass\enspace flow\enspace rate\enspace of\enspace water &= mass/volume  \\
 1\enspace gallon\enspace of\enspace water &= 8.33\enspace lb  \\
 1\enspace gpm &= 60\enspace gallons/hour\\
 Specific\enspace heat\enspace of\enspace water &= 1.0 Btu/lb-^{o}F
 \end{aligned}
-$$
+$$ -->
+- Mass flow rate of water = mass/volume
+- 1 gallon of water = 8.33 lb
+- 1 gpm = 60 gallons/hour
+- Specific heat of water = 1.0 $Btu/lb-^{o}F$
 
 Substitute the above values and we get
 
