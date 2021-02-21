@@ -2,23 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thedatatalks.in</id>
     <title></title>
-    <updated>2021-01-17T14:37:28.373Z</updated>
+    <updated>2021-02-02T13:55:34.046Z</updated>
     <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
     <link rel="alternate" href="https://thedatatalks.in"/>
     <link rel="self" href="https://thedatatalks.in/feed.atom"/>
-    <entry>
-        <title type="html"><![CDATA[Analysis on Imports and Exports of India]]></title>
-        <id>https://thedatatalks.in/economics/analysis-on-imports-and-exports-of-india/</id>
-        <link href="https://thedatatalks.in/economics/analysis-on-imports-and-exports-of-india/">
-        </link>
-        <updated>2019-02-16T18:30:00.000Z</updated>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Compound interest]]></title>
         <id>https://thedatatalks.in/economics/compound-interest/</id>
         <link href="https://thedatatalks.in/economics/compound-interest/">
         </link>
         <updated>2020-04-21T18:30:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Analysis on Imports and Exports of India]]></title>
+        <id>https://thedatatalks.in/economics/analysis-on-imports-and-exports-of-india/</id>
+        <link href="https://thedatatalks.in/economics/analysis-on-imports-and-exports-of-india/">
+        </link>
+        <updated>2019-02-16T18:30:00.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Economics]]></title>
@@ -35,18 +35,18 @@
         <updated>2019-02-16T18:30:00.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nifty50 yield & 10-Years Bond yield]]></title>
-        <id>https://thedatatalks.in/economics/nifty50-10year-bond-yield/</id>
-        <link href="https://thedatatalks.in/economics/nifty50-10year-bond-yield/">
-        </link>
-        <updated>2020-03-13T18:30:00.000Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Imports of India]]></title>
         <id>https://thedatatalks.in/economics/imports-of-india/</id>
         <link href="https://thedatatalks.in/economics/imports-of-india/">
         </link>
         <updated>2019-02-16T18:30:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nifty50 yield & 10-Years Bond yield]]></title>
+        <id>https://thedatatalks.in/economics/nifty50-10year-bond-yield/</id>
+        <link href="https://thedatatalks.in/economics/nifty50-10year-bond-yield/">
+        </link>
+        <updated>2020-03-13T18:30:00.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Recurring deposit]]></title>
@@ -56,13 +56,6 @@
         <updated>2020-04-21T18:30:00.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Education]]></title>
-        <id>https://thedatatalks.in/education/</id>
-        <link href="https://thedatatalks.in/education/">
-        </link>
-        <updated>2019-02-16T18:30:00.000Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Reinvestment Deposit Scheme]]></title>
         <id>https://thedatatalks.in/economics/reinvestment-deposit-scheme/</id>
         <link href="https://thedatatalks.in/economics/reinvestment-deposit-scheme/">
@@ -70,16 +63,23 @@
         <updated>2020-04-29T18:30:00.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AHU water side cooling load calculation]]></title>
-        <id>https://thedatatalks.in/education/ahu-water-side-cooling-load-calculation/</id>
-        <link href="https://thedatatalks.in/education/ahu-water-side-cooling-load-calculation/">
+        <title type="html"><![CDATA[ADP & BF calculation]]></title>
+        <id>https://thedatatalks.in/education/adp-and-bf-calculation/</id>
+        <link href="https://thedatatalks.in/education/adp-and-bf-calculation/">
         </link>
         <updated>2020-12-07T18:30:00.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ADP & BF calculation]]></title>
-        <id>https://thedatatalks.in/education/adp-and-bf-calculation/</id>
-        <link href="https://thedatatalks.in/education/adp-and-bf-calculation/">
+        <title type="html"><![CDATA[Education]]></title>
+        <id>https://thedatatalks.in/education/</id>
+        <link href="https://thedatatalks.in/education/">
+        </link>
+        <updated>2019-02-16T18:30:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AHU water side cooling load calculation]]></title>
+        <id>https://thedatatalks.in/education/ahu-water-side-cooling-load-calculation/</id>
+        <link href="https://thedatatalks.in/education/ahu-water-side-cooling-load-calculation/">
         </link>
         <updated>2020-12-07T18:30:00.000Z</updated>
     </entry>
@@ -91,13 +91,6 @@
         <updated>2020-12-07T18:30:00.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Air Handling Unit (AHU) performance calculation]]></title>
-        <id>https://thedatatalks.in/education/air-handling-unit-performance-calculation/</id>
-        <link href="https://thedatatalks.in/education/air-handling-unit-performance-calculation/">
-        </link>
-        <updated>2020-12-07T18:30:00.000Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Air Handling Unit (AHU) Selection Guide]]></title>
         <id>https://thedatatalks.in/education/air-handling-unit-selection/</id>
         <link href="https://thedatatalks.in/education/air-handling-unit-selection/">
@@ -105,11 +98,18 @@
         <updated>2020-12-07T18:30:00.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[India Covid-19 Corona virus data]]></title>
-        <id>https://thedatatalks.in/education/covid19-corona-virus-india-data/</id>
-        <link href="https://thedatatalks.in/education/covid19-corona-virus-india-data/">
+        <title type="html"><![CDATA[Air Handling Unit (AHU) performance calculation]]></title>
+        <id>https://thedatatalks.in/education/air-handling-unit-performance-calculation/</id>
+        <link href="https://thedatatalks.in/education/air-handling-unit-performance-calculation/">
         </link>
-        <updated>2020-04-01T18:30:00.000Z</updated>
+        <updated>2020-12-07T18:30:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World Covid-19 Corona virus data]]></title>
+        <id>https://thedatatalks.in/education/covid19-corona-virus-world-data/</id>
+        <link href="https://thedatatalks.in/education/covid19-corona-virus-world-data/">
+        </link>
+        <updated>2020-04-04T18:30:00.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[China Covid-19 Corona virus data]]></title>
@@ -126,13 +126,6 @@
         <updated>2020-04-25T18:30:00.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[World Covid-19 Corona virus data]]></title>
-        <id>https://thedatatalks.in/education/covid19-corona-virus-world-data/</id>
-        <link href="https://thedatatalks.in/education/covid19-corona-virus-world-data/">
-        </link>
-        <updated>2020-04-04T18:30:00.000Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Nginx with PM2 for NuxtJs]]></title>
         <id>https://thedatatalks.in/education/nginx-pm2-nuxtjs/</id>
         <link href="https://thedatatalks.in/education/nginx-pm2-nuxtjs/">
@@ -140,10 +133,17 @@
         <updated>2020-04-18T18:30:00.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Air Pollution data-Telangana, Sanathnagar, Hyderabad]]></title>
-        <id>https://thedatatalks.in/education/pm25-tl-hyderabad-sanathnagar/</id>
-        <link href="https://thedatatalks.in/education/pm25-tl-hyderabad-sanathnagar/">
+        <title type="html"><![CDATA[India Covid-19 Corona virus data]]></title>
+        <id>https://thedatatalks.in/education/covid19-corona-virus-india-data/</id>
+        <link href="https://thedatatalks.in/education/covid19-corona-virus-india-data/">
         </link>
-        <updated>2020-03-13T18:30:00.000Z</updated>
+        <updated>2020-04-01T18:30:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[p-value]]></title>
+        <id>https://thedatatalks.in/education/p-value/</id>
+        <link href="https://thedatatalks.in/education/p-value/">
+        </link>
+        <updated>2020-04-25T18:30:00.000Z</updated>
     </entry>
 </feed>

@@ -20,6 +20,7 @@ measurementId: "G-NH1N38E537"
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
+firebase.analytics();
 
 
 export default {
