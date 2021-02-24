@@ -2,148 +2,171 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thedatatalks.in</id>
     <title></title>
-    <updated>2021-02-02T13:55:34.046Z</updated>
+    <updated>2021-02-24T11:54:32.720Z</updated>
     <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
     <link rel="alternate" href="https://thedatatalks.in"/>
     <link rel="self" href="https://thedatatalks.in/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Compound interest]]></title>
-        <id>https://thedatatalks.in/economics/compound-interest/</id>
-        <link href="https://thedatatalks.in/economics/compound-interest/">
+        <title type="html"><![CDATA[Economics]]></title>
+        <id>https://thedatatalks.in/economics/</id>
+        <link href="https://thedatatalks.in/economics/">
         </link>
-        <updated>2020-04-21T18:30:00.000Z</updated>
+        <updated>2019-02-17T00:00:00.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Analysis on Imports and Exports of India]]></title>
         <id>https://thedatatalks.in/economics/analysis-on-imports-and-exports-of-india/</id>
         <link href="https://thedatatalks.in/economics/analysis-on-imports-and-exports-of-india/">
         </link>
-        <updated>2019-02-16T18:30:00.000Z</updated>
+        <updated>2019-02-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ {{ $frontmatter.author }} {{ $frontmatter.date }}]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Economics]]></title>
-        <id>https://thedatatalks.in/economics/</id>
-        <link href="https://thedatatalks.in/economics/">
+        <title type="html"><![CDATA[Compound interest]]></title>
+        <id>https://thedatatalks.in/economics/compound-interest/</id>
+        <link href="https://thedatatalks.in/economics/compound-interest/">
         </link>
-        <updated>2019-02-16T18:30:00.000Z</updated>
+        <updated>2020-04-22T00:00:00.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Exports of India]]></title>
         <id>https://thedatatalks.in/economics/exports-of-india/</id>
         <link href="https://thedatatalks.in/economics/exports-of-india/">
         </link>
-        <updated>2019-02-16T18:30:00.000Z</updated>
+        <updated>2019-02-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[each years.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Imports of India]]></title>
         <id>https://thedatatalks.in/economics/imports-of-india/</id>
         <link href="https://thedatatalks.in/economics/imports-of-india/">
         </link>
-        <updated>2019-02-16T18:30:00.000Z</updated>
+        <updated>2019-02-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The smoothed conditional mean line of INR shows a stead growth from 2013
+to 2019 but for the same, USD shows a complete stagnation.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Nifty50 yield & 10-Years Bond yield]]></title>
         <id>https://thedatatalks.in/economics/nifty50-10year-bond-yield/</id>
         <link href="https://thedatatalks.in/economics/nifty50-10year-bond-yield/">
         </link>
-        <updated>2020-03-13T18:30:00.000Z</updated>
+        <updated>2020-03-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[market value should change based on bond yield and stock yield for both
+defensive investor and enterprising investor, which would justify an
+all-bond policy.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Recurring deposit]]></title>
         <id>https://thedatatalks.in/economics/recurring-deposit/</id>
         <link href="https://thedatatalks.in/economics/recurring-deposit/">
         </link>
-        <updated>2020-04-21T18:30:00.000Z</updated>
+        <updated>2020-04-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[where,
+i - Rate of Interest(%)
+t - Total number of periods(months)
+p - Monthly recurring amount(currency)]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Reinvestment Deposit Scheme]]></title>
         <id>https://thedatatalks.in/economics/reinvestment-deposit-scheme/</id>
         <link href="https://thedatatalks.in/economics/reinvestment-deposit-scheme/">
         </link>
-        <updated>2020-04-29T18:30:00.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ADP & BF calculation]]></title>
-        <id>https://thedatatalks.in/education/adp-and-bf-calculation/</id>
-        <link href="https://thedatatalks.in/education/adp-and-bf-calculation/">
-        </link>
-        <updated>2020-12-07T18:30:00.000Z</updated>
+        <updated>2020-04-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As stated above interest on interest has to be gained, this method is called as reinvestment.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Education]]></title>
         <id>https://thedatatalks.in/education/</id>
         <link href="https://thedatatalks.in/education/">
         </link>
-        <updated>2019-02-16T18:30:00.000Z</updated>
+        <updated>2019-02-17T00:00:00.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AHU water side cooling load calculation]]></title>
-        <id>https://thedatatalks.in/education/ahu-water-side-cooling-load-calculation/</id>
-        <link href="https://thedatatalks.in/education/ahu-water-side-cooling-load-calculation/">
+        <title type="html"><![CDATA[ADP & BF calculation]]></title>
+        <id>https://thedatatalks.in/education/adp-and-bf-calculation/</id>
+        <link href="https://thedatatalks.in/education/adp-and-bf-calculation/">
         </link>
-        <updated>2020-12-07T18:30:00.000Z</updated>
+        <updated>2020-12-08T00:00:00.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[AHU air side cooling load calculation]]></title>
         <id>https://thedatatalks.in/education/ahu-air-side-cooling-load-calculation/</id>
         <link href="https://thedatatalks.in/education/ahu-air-side-cooling-load-calculation/">
         </link>
-        <updated>2020-12-07T18:30:00.000Z</updated>
+        <updated>2020-12-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ {{ $frontmatter.author }} {{ $frontmatter.date }}]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Air Handling Unit (AHU) Selection Guide]]></title>
-        <id>https://thedatatalks.in/education/air-handling-unit-selection/</id>
-        <link href="https://thedatatalks.in/education/air-handling-unit-selection/">
+        <title type="html"><![CDATA[AHU water side cooling load calculation]]></title>
+        <id>https://thedatatalks.in/education/ahu-water-side-cooling-load-calculation/</id>
+        <link href="https://thedatatalks.in/education/ahu-water-side-cooling-load-calculation/">
         </link>
-        <updated>2020-12-07T18:30:00.000Z</updated>
+        <updated>2020-12-08T00:00:00.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Air Handling Unit (AHU) performance calculation]]></title>
         <id>https://thedatatalks.in/education/air-handling-unit-performance-calculation/</id>
         <link href="https://thedatatalks.in/education/air-handling-unit-performance-calculation/">
         </link>
-        <updated>2020-12-07T18:30:00.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Covid-19 Corona virus data]]></title>
-        <id>https://thedatatalks.in/education/covid19-corona-virus-world-data/</id>
-        <link href="https://thedatatalks.in/education/covid19-corona-virus-world-data/">
-        </link>
-        <updated>2020-04-04T18:30:00.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China Covid-19 Corona virus data]]></title>
-        <id>https://thedatatalks.in/education/covid19-corona-virus-china-data/</id>
-        <link href="https://thedatatalks.in/education/covid19-corona-virus-china-data/">
-        </link>
-        <updated>2020-04-04T18:30:00.000Z</updated>
+        <updated>2020-12-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Typical values are]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bernouli distribution & binomial trials]]></title>
         <id>https://thedatatalks.in/education/bernouli-distribution-binomial-trials/</id>
         <link href="https://thedatatalks.in/education/bernouli-distribution-binomial-trials/">
         </link>
-        <updated>2020-04-25T18:30:00.000Z</updated>
+        <updated>2020-04-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With a bernouli random variable, we will have only one trial.]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nginx with PM2 for NuxtJs]]></title>
-        <id>https://thedatatalks.in/education/nginx-pm2-nuxtjs/</id>
-        <link href="https://thedatatalks.in/education/nginx-pm2-nuxtjs/">
+        <title type="html"><![CDATA[China Covid-19 Corona virus data]]></title>
+        <id>https://thedatatalks.in/education/covid19-corona-virus-china-data/</id>
+        <link href="https://thedatatalks.in/education/covid19-corona-virus-china-data/">
         </link>
-        <updated>2020-04-18T18:30:00.000Z</updated>
+        <updated>2020-04-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[China daily average new deaths: 40 (World-756) - Current values are far less than the average.
+Exponential Growth constant 'k' for total cases: 0.17/day (World-0.18/day) - Current values are far less than the average.
+Exponential Growth constant 'k' for total deaths: 0.03/day (World-0.04/day) - Current values are less than the average.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[India Covid-19 Corona virus data]]></title>
         <id>https://thedatatalks.in/education/covid19-corona-virus-india-data/</id>
         <link href="https://thedatatalks.in/education/covid19-corona-virus-india-data/">
         </link>
-        <updated>2020-04-01T18:30:00.000Z</updated>
+        <updated>2020-04-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The below graph clearly shows that the Covid-19 spread is exponential.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World Covid-19 Corona virus data]]></title>
+        <id>https://thedatatalks.in/education/covid19-corona-virus-world-data/</id>
+        <link href="https://thedatatalks.in/education/covid19-corona-virus-world-data/">
+        </link>
+        <updated>2020-04-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The below graph clearly shows that the Covid-19 daily new spread
+is exponential.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nginx with PM2 for NuxtJs]]></title>
+        <id>https://thedatatalks.in/education/nginx-pm2-nuxtjs/</id>
+        <link href="https://thedatatalks.in/education/nginx-pm2-nuxtjs/">
+        </link>
+        <updated>2020-04-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA["example2.com www.example2.com"
+& "http://127.0.0.1:4000" respectively]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[p-value]]></title>
         <id>https://thedatatalks.in/education/p-value/</id>
         <link href="https://thedatatalks.in/education/p-value/">
         </link>
-        <updated>2020-04-25T18:30:00.000Z</updated>
+        <updated>2020-04-26T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Psychrometric chart and related equations]]></title>
+        <id>https://thedatatalks.in/education/psychrometric-chart-and-related-equations/</id>
+        <link href="https://thedatatalks.in/education/psychrometric-chart-and-related-equations/">
+        </link>
+        <updated>2020-12-08T00:00:00.000Z</updated>
     </entry>
 </feed>

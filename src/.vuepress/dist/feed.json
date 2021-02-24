@@ -5,134 +5,147 @@
     "feed_url": "https://thedatatalks.in/feed.json",
     "items": [
         {
-            "id": "https://thedatatalks.in/economics/compound-interest/",
-            "url": "https://thedatatalks.in/economics/compound-interest/",
-            "title": "Compound interest",
-            "date_modified": "2020-04-21T18:30:00.000Z"
+            "id": "https://thedatatalks.in/economics/",
+            "url": "https://thedatatalks.in/economics/",
+            "title": "Economics",
+            "date_modified": "2019-02-17T00:00:00.000Z"
         },
         {
             "id": "https://thedatatalks.in/economics/analysis-on-imports-and-exports-of-india/",
             "url": "https://thedatatalks.in/economics/analysis-on-imports-and-exports-of-india/",
             "title": "Analysis on Imports and Exports of India",
+            "summary": " {{ $frontmatter.author }} {{ $frontmatter.date }}",
             "image": "https://thedatatalks.in/img/economics/import-export-analysis/figure-markdown/img1.png",
-            "date_modified": "2019-02-16T18:30:00.000Z"
+            "date_modified": "2019-02-17T00:00:00.000Z"
         },
         {
-            "id": "https://thedatatalks.in/economics/",
-            "url": "https://thedatatalks.in/economics/",
-            "title": "Economics",
-            "date_modified": "2019-02-16T18:30:00.000Z"
+            "id": "https://thedatatalks.in/economics/compound-interest/",
+            "url": "https://thedatatalks.in/economics/compound-interest/",
+            "title": "Compound interest",
+            "date_modified": "2020-04-22T00:00:00.000Z"
         },
         {
             "id": "https://thedatatalks.in/economics/exports-of-india/",
             "url": "https://thedatatalks.in/economics/exports-of-india/",
             "title": "Exports of India",
+            "summary": "each years.",
             "image": "https://thedatatalks.in/img/economics/exports-of-india_files/figure-markdown/exports-of-india-1.png",
-            "date_modified": "2019-02-16T18:30:00.000Z"
+            "date_modified": "2019-02-17T00:00:00.000Z"
         },
         {
             "id": "https://thedatatalks.in/economics/imports-of-india/",
             "url": "https://thedatatalks.in/economics/imports-of-india/",
             "title": "Imports of India",
+            "summary": "The smoothed conditional mean line of INR shows a stead growth from 2013\nto 2019 but for the same, USD shows a complete stagnation.",
             "image": "https://thedatatalks.in/img/economics/imports-of-india/figure-markdown/imports-of-india-1.png",
-            "date_modified": "2019-02-16T18:30:00.000Z"
+            "date_modified": "2019-02-17T00:00:00.000Z"
         },
         {
             "id": "https://thedatatalks.in/economics/nifty50-10year-bond-yield/",
             "url": "https://thedatatalks.in/economics/nifty50-10year-bond-yield/",
             "title": "Nifty50 yield & 10-Years Bond yield",
+            "summary": "market value should change based on bond yield and stock yield for both\ndefensive investor and enterprising investor, which would justify an\nall-bond policy.",
             "image": "https://thedatatalks.in/img/economics/nifty50-10year-bond-yield/figure-markdown/bond_Nifty_yield-1.png",
-            "date_modified": "2020-03-13T18:30:00.000Z"
+            "date_modified": "2020-03-14T00:00:00.000Z"
         },
         {
             "id": "https://thedatatalks.in/economics/recurring-deposit/",
             "url": "https://thedatatalks.in/economics/recurring-deposit/",
             "title": "Recurring deposit",
-            "date_modified": "2020-04-21T18:30:00.000Z"
+            "summary": "where,\ni - Rate of Interest(%)\nt - Total number of periods(months)\np - Monthly recurring amount(currency)",
+            "date_modified": "2020-04-22T00:00:00.000Z"
         },
         {
             "id": "https://thedatatalks.in/economics/reinvestment-deposit-scheme/",
             "url": "https://thedatatalks.in/economics/reinvestment-deposit-scheme/",
             "title": "Reinvestment Deposit Scheme",
-            "date_modified": "2020-04-29T18:30:00.000Z"
+            "summary": "As stated above interest on interest has to be gained, this method is called as reinvestment.",
+            "date_modified": "2020-04-30T00:00:00.000Z"
+        },
+        {
+            "id": "https://thedatatalks.in/education/",
+            "url": "https://thedatatalks.in/education/",
+            "title": "Education",
+            "date_modified": "2019-02-17T00:00:00.000Z"
         },
         {
             "id": "https://thedatatalks.in/education/adp-and-bf-calculation/",
             "url": "https://thedatatalks.in/education/adp-and-bf-calculation/",
             "title": "ADP & BF calculation",
             "image": "https://thedatatalks.in/img/education/adp-and-bf-calculation/adp-chart.svg",
-            "date_modified": "2020-12-07T18:30:00.000Z"
-        },
-        {
-            "id": "https://thedatatalks.in/education/",
-            "url": "https://thedatatalks.in/education/",
-            "title": "Education",
-            "date_modified": "2019-02-16T18:30:00.000Z"
-        },
-        {
-            "id": "https://thedatatalks.in/education/ahu-water-side-cooling-load-calculation/",
-            "url": "https://thedatatalks.in/education/ahu-water-side-cooling-load-calculation/",
-            "title": "AHU water side cooling load calculation",
-            "date_modified": "2020-12-07T18:30:00.000Z"
+            "date_modified": "2020-12-08T00:00:00.000Z"
         },
         {
             "id": "https://thedatatalks.in/education/ahu-air-side-cooling-load-calculation/",
             "url": "https://thedatatalks.in/education/ahu-air-side-cooling-load-calculation/",
             "title": "AHU air side cooling load calculation",
-            "date_modified": "2020-12-07T18:30:00.000Z"
+            "summary": " {{ $frontmatter.author }} {{ $frontmatter.date }}",
+            "date_modified": "2020-12-08T00:00:00.000Z"
         },
         {
-            "id": "https://thedatatalks.in/education/air-handling-unit-selection/",
-            "url": "https://thedatatalks.in/education/air-handling-unit-selection/",
-            "title": "Air Handling Unit (AHU) Selection Guide",
-            "image": "https://thedatatalks.in/img/education/air-handling-unit-selection/img1.png",
-            "date_modified": "2020-12-07T18:30:00.000Z"
+            "id": "https://thedatatalks.in/education/ahu-water-side-cooling-load-calculation/",
+            "url": "https://thedatatalks.in/education/ahu-water-side-cooling-load-calculation/",
+            "title": "AHU water side cooling load calculation",
+            "date_modified": "2020-12-08T00:00:00.000Z"
         },
         {
             "id": "https://thedatatalks.in/education/air-handling-unit-performance-calculation/",
             "url": "https://thedatatalks.in/education/air-handling-unit-performance-calculation/",
             "title": "Air Handling Unit (AHU) performance calculation",
-            "date_modified": "2020-12-07T18:30:00.000Z"
-        },
-        {
-            "id": "https://thedatatalks.in/education/covid19-corona-virus-world-data/",
-            "url": "https://thedatatalks.in/education/covid19-corona-virus-world-data/",
-            "title": "World Covid-19 Corona virus data",
-            "image": "https://thedatatalks.in/img/education/covid19-corona-virus-world-data_files/figure-markdown/world%20corona%20plot-1.png",
-            "date_modified": "2020-04-04T18:30:00.000Z"
-        },
-        {
-            "id": "https://thedatatalks.in/education/covid19-corona-virus-china-data/",
-            "url": "https://thedatatalks.in/education/covid19-corona-virus-china-data/",
-            "title": "China Covid-19 Corona virus data",
-            "image": "https://thedatatalks.in/img/education/covid19-corona-virus-china-data_files/figure-markdown/world%20corona%20plot-1.png",
-            "date_modified": "2020-04-04T18:30:00.000Z"
+            "summary": "Typical values are",
+            "date_modified": "2020-12-08T00:00:00.000Z"
         },
         {
             "id": "https://thedatatalks.in/education/bernouli-distribution-binomial-trials/",
             "url": "https://thedatatalks.in/education/bernouli-distribution-binomial-trials/",
             "title": "Bernouli distribution & binomial trials",
+            "summary": "With a bernouli random variable, we will have only one trial.",
             "image": "https://thedatatalks.in/img/education/binomial-distribution/coinflip.png",
-            "date_modified": "2020-04-25T18:30:00.000Z"
+            "date_modified": "2020-04-26T00:00:00.000Z"
         },
         {
-            "id": "https://thedatatalks.in/education/nginx-pm2-nuxtjs/",
-            "url": "https://thedatatalks.in/education/nginx-pm2-nuxtjs/",
-            "title": "Nginx with PM2 for NuxtJs",
-            "date_modified": "2020-04-18T18:30:00.000Z"
+            "id": "https://thedatatalks.in/education/covid19-corona-virus-china-data/",
+            "url": "https://thedatatalks.in/education/covid19-corona-virus-china-data/",
+            "title": "China Covid-19 Corona virus data",
+            "summary": "China daily average new deaths: 40 (World-756) - Current values are far less than the average.\nExponential Growth constant 'k' for total cases: 0.17/day (World-0.18/day) - Current values are far less than the average.\nExponential Growth constant 'k' for total deaths: 0.03/day (World-0.04/day) - Current values are less than the average.",
+            "image": "https://thedatatalks.in/img/education/covid19-corona-virus-china-data_files/figure-markdown/world%20corona%20plot-1.png",
+            "date_modified": "2020-04-05T00:00:00.000Z"
         },
         {
             "id": "https://thedatatalks.in/education/covid19-corona-virus-india-data/",
             "url": "https://thedatatalks.in/education/covid19-corona-virus-india-data/",
             "title": "India Covid-19 Corona virus data",
+            "summary": "The below graph clearly shows that the Covid-19 spread is exponential.",
             "image": "https://thedatatalks.in/img/education/covid19-corona-virus-india-data_files/figure-markdown/world%20corona%20plot-1.png",
-            "date_modified": "2020-04-01T18:30:00.000Z"
+            "date_modified": "2020-04-02T00:00:00.000Z"
+        },
+        {
+            "id": "https://thedatatalks.in/education/covid19-corona-virus-world-data/",
+            "url": "https://thedatatalks.in/education/covid19-corona-virus-world-data/",
+            "title": "World Covid-19 Corona virus data",
+            "summary": "The below graph clearly shows that the Covid-19 daily new spread\nis exponential.",
+            "image": "https://thedatatalks.in/img/education/covid19-corona-virus-world-data_files/figure-markdown/world%20corona%20plot-1.png",
+            "date_modified": "2020-04-05T00:00:00.000Z"
+        },
+        {
+            "id": "https://thedatatalks.in/education/nginx-pm2-nuxtjs/",
+            "url": "https://thedatatalks.in/education/nginx-pm2-nuxtjs/",
+            "title": "Nginx with PM2 for NuxtJs",
+            "summary": "\"example2.com www.example2.com\"\n& \"http://127.0.0.1:4000\" respectively",
+            "date_modified": "2020-04-19T00:00:00.000Z"
         },
         {
             "id": "https://thedatatalks.in/education/p-value/",
             "url": "https://thedatatalks.in/education/p-value/",
             "title": "p-value",
-            "date_modified": "2020-04-25T18:30:00.000Z"
+            "date_modified": "2020-04-26T00:00:00.000Z"
+        },
+        {
+            "id": "https://thedatatalks.in/education/psychrometric-chart-and-related-equations/",
+            "url": "https://thedatatalks.in/education/psychrometric-chart-and-related-equations/",
+            "title": "Psychrometric chart and related equations",
+            "image": "https://thedatatalks.in/img/education/psychrometric-chart-and-related-equations/ph-chart.svg",
+            "date_modified": "2020-12-08T00:00:00.000Z"
         }
     ]
 }
