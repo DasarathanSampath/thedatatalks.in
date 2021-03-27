@@ -27,14 +27,13 @@
     "vuepress-plugin-google-adsense": "^0.1.1"
   },
   "dependencies": {
-    "@vssue/vuepress-plugin-vssue": "^1.4.6",
     "@vuepress/plugin-blog": "^1.9.3",
     "@vuepress/shared-utils": "^1.7.1",
     "firebase": "^8.2.9",
     "firebase-tools": "^8.20.0",
     "markdown-it-katex": "^2.0.3",
+    "mermaid": "^8.9.2",
     "moment": "^2.29.1",
-    "vssue": "^1.4.6",
     "vue-disqus": "^4.0.1",
     "vue-toasted": "^1.1.28",
     "vuelidate": "^0.7.6",

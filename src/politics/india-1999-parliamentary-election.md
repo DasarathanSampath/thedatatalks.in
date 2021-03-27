@@ -16,6 +16,8 @@ topic: politics
 # {{ $frontmatter.title }}
 <i style="font-size: 0.75em;"> {{ $frontmatter.author }} {{ $frontmatter.date }} </i>
 
+Visit <https://indiaelectiondata.in/> for detailed results.
+
 The below pie chart shows the number of wons for each political party.  
 
 ![](/img/politics/india-1999-parliamentary-election/india-1999-election-1.png)

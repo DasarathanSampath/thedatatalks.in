@@ -16,6 +16,8 @@ topic: politics
 # {{ $frontmatter.title }}
 <i style="font-size: 0.75em;"> {{ $frontmatter.author }} {{ $frontmatter.date }} </i>
 
+Visit <https://indiaelectiondata.in/legislative-election/> for detailed results.
+
 The below pie chart shows the number of wons for each political party.  
 
 ![](/img/politics/tamil-nadu-2011-legislative-election/tn-2011-election-1.png)

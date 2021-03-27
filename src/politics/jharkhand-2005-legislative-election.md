@@ -17,6 +17,8 @@ topic: politics
 # {{ $frontmatter.title }}
 <i style="font-size: 0.75em;"> {{ $frontmatter.author }} {{ $frontmatter.date }} </i>
 
+Visit <https://indiaelectiondata.in/legislative-election/> for detailed results.
+
 The below pie chart shows the number of wons for each political party.  
 
 ![](/img/politics/jharkhand-2005-legislative-election/jh-2005-election-1.png)

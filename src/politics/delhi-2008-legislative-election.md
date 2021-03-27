@@ -17,6 +17,8 @@ topic: politics
 # {{ $frontmatter.title }}
 <i style="font-size: 0.75em;"> {{ $frontmatter.author }} {{ $frontmatter.date }} </i>
 
+Visit <https://indiaelectiondata.in/legislative-election/> for detailed results.
+
 The below pie chart shows the number of wons for each political party.  
 
 ![](/img/politics/delhi-2008-legislative-election/dl-2008-election-1.png)

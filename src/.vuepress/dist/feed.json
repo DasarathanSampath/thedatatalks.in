@@ -11,10 +11,18 @@
             "date_modified": "2019-02-17T00:00:00.000Z"
         },
         {
+            "id": "https://thedatatalks.in/economics/exports-of-india/",
+            "url": "https://thedatatalks.in/economics/exports-of-india/",
+            "title": "Exports of India",
+            "summary": " {{ $frontmatter.author }} {{ $frontmatter.date }}",
+            "image": "https://thedatatalks.in/img/economics/exports-of-india_files/figure-markdown/exports-of-india-1.png",
+            "date_modified": "2019-02-17T00:00:00.000Z"
+        },
+        {
             "id": "https://thedatatalks.in/economics/analysis-on-imports-and-exports-of-india/",
             "url": "https://thedatatalks.in/economics/analysis-on-imports-and-exports-of-india/",
             "title": "Analysis on Imports and Exports of India",
-            "summary": " {{ $frontmatter.author }} {{ $frontmatter.date }}",
+            "summary": "The objective of this analysis is to measure the impact on Import/Export\nvalue due to change in various factors like GDP, Exchange rate (currency\ninflation), inflation, trade policies, foreign currency reserves,\ndemand, trade deficit, countries current account, quality, productivity\n& labor cost.",
             "image": "https://thedatatalks.in/img/economics/import-export-analysis/figure-markdown/img1.png",
             "date_modified": "2019-02-17T00:00:00.000Z"
         },
@@ -22,15 +30,8 @@
             "id": "https://thedatatalks.in/economics/compound-interest/",
             "url": "https://thedatatalks.in/economics/compound-interest/",
             "title": "Compound interest",
+            "summary": "where,",
             "date_modified": "2020-04-22T00:00:00.000Z"
-        },
-        {
-            "id": "https://thedatatalks.in/economics/exports-of-india/",
-            "url": "https://thedatatalks.in/economics/exports-of-india/",
-            "title": "Exports of India",
-            "summary": "each years.",
-            "image": "https://thedatatalks.in/img/economics/exports-of-india_files/figure-markdown/exports-of-india-1.png",
-            "date_modified": "2019-02-17T00:00:00.000Z"
         },
         {
             "id": "https://thedatatalks.in/economics/imports-of-india/",
@@ -112,6 +113,14 @@
             "date_modified": "2020-04-05T00:00:00.000Z"
         },
         {
+            "id": "https://thedatatalks.in/education/covid19-corona-virus-world-data/",
+            "url": "https://thedatatalks.in/education/covid19-corona-virus-world-data/",
+            "title": "World Covid-19 Corona virus data",
+            "summary": "The below chart has",
+            "image": "https://thedatatalks.in/img/education/covid19-corona-virus-world-data_files/figure-markdown/world%20corona%20plot-1.png",
+            "date_modified": "2020-04-05T00:00:00.000Z"
+        },
+        {
             "id": "https://thedatatalks.in/education/covid19-corona-virus-india-data/",
             "url": "https://thedatatalks.in/education/covid19-corona-virus-india-data/",
             "title": "India Covid-19 Corona virus data",
@@ -120,18 +129,9 @@
             "date_modified": "2020-04-02T00:00:00.000Z"
         },
         {
-            "id": "https://thedatatalks.in/education/covid19-corona-virus-world-data/",
-            "url": "https://thedatatalks.in/education/covid19-corona-virus-world-data/",
-            "title": "World Covid-19 Corona virus data",
-            "summary": "The below graph clearly shows that the Covid-19 daily new spread\nis exponential.",
-            "image": "https://thedatatalks.in/img/education/covid19-corona-virus-world-data_files/figure-markdown/world%20corona%20plot-1.png",
-            "date_modified": "2020-04-05T00:00:00.000Z"
-        },
-        {
             "id": "https://thedatatalks.in/education/nginx-pm2-nuxtjs/",
             "url": "https://thedatatalks.in/education/nginx-pm2-nuxtjs/",
             "title": "Nginx with PM2 for NuxtJs",
-            "summary": "\"example2.com www.example2.com\"\n& \"http://127.0.0.1:4000\" respectively",
             "date_modified": "2020-04-19T00:00:00.000Z"
         },
         {
