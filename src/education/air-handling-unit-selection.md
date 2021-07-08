@@ -20,6 +20,8 @@ topic: education
 
 Selection of AHU includes the type of AHU, filters, coils, panels, fans, and a few other components. Any change in specification of these items directly affects the performance, quality, capacity, and cost of the air handling units. This document explains various terminology and standards used in the industries at the macro level. The readers are advised to refer to the latest standards & manufacturer data to get specified accurate information.
 
+Click here for [Air Handling Unit (AHU) performance calculation](https://thedatatalks.in/education/air-handling-unit-performance-calculation).
+
 ## Types of AHU
 - **Horizontal floor mount** - All major components are aligned to the base tray and it makes maintenance-friendly.
 - **Vertical floor mount** – Designed to occupy less space

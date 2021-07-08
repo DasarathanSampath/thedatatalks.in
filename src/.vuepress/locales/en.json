@@ -100,7 +100,11 @@
                 "title": "Navigations",
                 "collapsable": false,
                 "children": [
-                  "",                  
+                  "",
+                  "hvac-duct-air-pressure-loss",
+                  "chilled-water-flow-measurement",    
+                  "psychrometric-calculator",
+                  "psychrometric-chart-and-related-equations",
                   "air-handling-unit-selection",
                   "air-handling-unit-performance-calculation",
                   "ahu-water-side-cooling-load-calculation",
@@ -110,11 +114,12 @@
                   "covid19-corona-virus-china-data",
                   "covid19-corona-virus-india-data",
                   "covid19-corona-virus-world-data",
+                  "divisibility-rule",
                   "nginx-pm2-nuxtjs",
+                  "ozone-layer",
                   "pm25-tl-hyderabad-sanathnagar",
                   "pm25-tn-chennai-alandur",
-                  "p-value",
-                  "psychrometric-chart-and-related-equations",
+                  "p-value",                  
                   "standard-deviation-and-error",
                   "uniform-distribution"
                 ]
@@ -126,6 +131,7 @@
               "collapsable": false,
               "children": [
                 "",
+                "art-gallery",
                 "garlic-sauteed-vegetables",
                 "murgh-cheese-kebab",
                 "gun-powder-chicken",

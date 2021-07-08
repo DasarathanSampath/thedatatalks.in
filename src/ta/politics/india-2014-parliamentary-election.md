@@ -16,6 +16,8 @@ topic: politics
 # {{ $frontmatter.title }}
 <i style="font-size: 0.75em;"> {{ $frontmatter.author }} {{ $frontmatter.date }} </i>
 
+விரிவான முடிவுகளை பார்க்க <https://indiaelectiondata.in/>.
+
 ஒவ்வொரு அரசியல் கட்சிக்கும் கிடைத்த வெற்றிகளின் எண்ணிக்கையை கீழே உள்ள பை விளக்கப்படம் காட்டுகிறது.  
 
 ![](/img/politics/india-2014-parliamentary-election/india-2014-election-1.png)

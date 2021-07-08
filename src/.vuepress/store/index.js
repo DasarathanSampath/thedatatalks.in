@@ -188,17 +188,19 @@ export default new Vuex.Store({
                 })
         },
         updatePost({commit, state, rootState}, {id, text, lncode}){
+            // console.log("from update post", id, text, lncode)
             return new Promise((resolve, reject) => {
-                const post = state[lncode].items[id]
+                const post = state['posts'][lncode][id]
+                // console.log("from update post", post)
                 const edited = {
                     at: Math.floor(Date.now() / 1000),
-                    by: rootState.auth.authId
+                    by: state.authId
                 }
-    
+                // console.log("from update post", edited)
                 const updates = {text, edited}
                 firebase.database().ref(`posts/${lncode}`).child(id).update(updates)
                     .then(() => {
-                        commit('setPost', {postId: id, post: {...post, text, edited}})
+                        commit('setItem', {resource: 'posts', id, item: {...post, text, edited}})
                         resolve(post)
                     })            
             })

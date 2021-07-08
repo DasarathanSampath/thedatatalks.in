@@ -1,0 +1,21 @@
+To Push a JSON file to specific location in real time database
+firebase database:update /legislative/Puducherry src/json/py/years.json
+
+
+To push a record to specific location in real time data base
+
+firebase database:update /articles/ta-IN addrecord.json
+The JSON structure is
+        {
+            "thirumandhiram-koorum-aindhu-siva-thathuvangal": {
+                "lncode": "ta-IN"
+            }
+        }
+
+firebase database:update /articles/en-US addrecord.json      
+The JSON structure is
+        {
+            "air-handling-unit-selection": {
+                "lncode": "en-US"
+            }
+        }         

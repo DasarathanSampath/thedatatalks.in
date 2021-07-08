@@ -16,6 +16,9 @@ topic: others
 # {{ $frontmatter.title }}
 <i style="font-size: 0.75em;"> {{ $frontmatter.author }} {{ $frontmatter.date }} </i>
 
+<h1 style="padding-top: 2rem;">(Kavi Kalamega Pulavar)<br>
+(Kavi kāḷamēkap pulavar)</h1>
+
 ## முன்னுரை:
 
 சங்ககாலப் புலவர்களின் பாடல்களை பதினெண்மேற் கணக்கு எனும் எட்டுத்தொகை மற்றும் பத்துப்பாட்டு தொகைநூல்களில் காணலாம்.

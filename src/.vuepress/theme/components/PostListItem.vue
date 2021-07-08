@@ -2,10 +2,12 @@
     <div v-if="post && user" class="post">
         <div class="row">
             <div class="user-info">
+
                 <p style="text-align: center; padding-bottom: 1rem; font-weight: 600;">{{user.username}}</p>    
                 <img v-if="user.photoURL" :src="user.photoURL" class="profile-image">        
                 <img v-else src="/default-profile.svg" class="profile-image">
                 <p style="text-align: center;"> {{userPostsCount}} posts </p>
+                
             </div>
             <div class="post-content">
                 <template v-if="!editing">            

@@ -16,6 +16,9 @@ topic: others
 # {{ $frontmatter.title }}
 <i style="font-size: 0.75em;"> {{ $frontmatter.author }} {{ $frontmatter.date }} </i>
 
+<h1 style="padding-top: 2rem;">(Irattai Pulavargal)<br>
+(Iraṭṭaip  pulavarkaḷ)</h1>
+
 ## முன்னுரை: 
 
 சங்ககாலப் புலவர்களின் பாடல்களை **எட்டுத்தொகை, பத்துப்பாட்டு** ஆகிய தொகை நூல்களில் காண்கிறோம். 

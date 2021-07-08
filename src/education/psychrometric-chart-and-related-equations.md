@@ -16,6 +16,8 @@ topic: education
 # {{ $frontmatter.title }}
 <i style="font-size: 0.75em;"> {{ $frontmatter.author }} {{ $frontmatter.date }} </i>
 
+Click here for [Psychrometric calculator](https://thedatatalks.in/education/psychrometric-calculator), computes psychrometric properties without chart and equations.
+
 ## Resolve with Psychrometric chart
 
 Below are the list of air properties we generally use in air conditioning
@@ -195,7 +197,3 @@ $v =$ $\dfrac{0.370486 * DBT * (1+1.607858*W)} {p}$
 >DBT - Dry bulb temperature in °R
 >$W$ - Humidity ratio in lb/lb
 >$p$ - Standard atmospheric pressure at given altitude(sea-level) in psia
-
-## Psychrometric properties calculator
-
-<DynamicGlobalComponent componentName="PsychrometricProperties" />

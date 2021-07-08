@@ -16,6 +16,9 @@ topic: others
 # {{ $frontmatter.title }}
 <i style="font-size: 0.75em;"> {{ $frontmatter.author }} {{ $frontmatter.date }} </i>
 
+<h1 style="padding-top: 2rem;">(Cirupanjamoolam - Sanga Ilakiya Padhinenkeezhkanakku nool)<br>
+(Ciṟupañcamūlam - caṅka ilakkiya patiṉeṇkīḻkkaṇakku nūl)</h1>
+
 இதன் ஆசிரியர் காரியாசன்
 
 * காரி என்பதே இவரின் இயற்பெயர். ஆசான் என்பது தொழில்பற்றிவந்த பெயராக இருக்கலாம் எனக்கருதப்படுகிறது. 

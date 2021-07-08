@@ -34,20 +34,21 @@ topic: others
 
 ## First, let's make the batter:
 
-Put the biscuits in the mixy.   
+Put the biscuits in a mixer.   
 In a bowl put the powdered biscuits, powdered sugar, baking soda and mix well.  
-Add the milk gradually.  
+Add the milk gradually and mix well until you get a smooth batter with out chunks.
 
 ## Now let's bake:
 
-Put Salt in the cooker  
-Place a stand  
-Grease a bowl with ghee and apply riceflour  
+Fill 1/4 of the coocker with salt.  
+Place a stand.  
+Grease a bowl with ghee and dust with riceflour.  
 Pour the batter into the greased bowl and place it in the cooker.  
-You can take it out after 25-30min  
+You can take it out after 25-30min.  
+Use a tooth pick and push it through the cake. The tooth pick should come out clean, if not, place the cacke again and coock it for 5 more minutes.
 
-## You want cream in your cake:
+## Cream (optional):
 
-Put the peanuts in the mixy, put it in a bowl and add honey, salt add water until you get cream.  
-Now you can frost the cake and add topping with biscuit pieces.
+Put the peanuts in a mixer, put it in a bowl and add honey, salt, add water gradually until you get cream.  
+Now you can frost the cake and add toppings.
 

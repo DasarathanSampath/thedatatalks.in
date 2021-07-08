@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thedatatalks.in</id>
     <title></title>
-    <updated>2021-03-09T10:42:27.324Z</updated>
+    <updated>2021-06-04T04:26:49.673Z</updated>
     <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
     <link rel="alternate" href="https://thedatatalks.in"/>
     <link rel="self" href="https://thedatatalks.in/feed.atom"/>
@@ -14,11 +14,11 @@
         <updated>2019-02-17T00:00:00.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Exports of India]]></title>
-        <id>https://thedatatalks.in/economics/exports-of-india/</id>
-        <link href="https://thedatatalks.in/economics/exports-of-india/">
+        <title type="html"><![CDATA[Compound interest]]></title>
+        <id>https://thedatatalks.in/economics/compound-interest/</id>
+        <link href="https://thedatatalks.in/economics/compound-interest/">
         </link>
-        <updated>2019-02-17T00:00:00.000Z</updated>
+        <updated>2020-04-22T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[ {{ $frontmatter.author }} {{ $frontmatter.date }}]]></summary>
     </entry>
     <entry>
@@ -34,12 +34,12 @@ demand, trade deficit, countries current account, quality, productivity
 & labor cost.]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Compound interest]]></title>
-        <id>https://thedatatalks.in/economics/compound-interest/</id>
-        <link href="https://thedatatalks.in/economics/compound-interest/">
+        <title type="html"><![CDATA[Exports of India]]></title>
+        <id>https://thedatatalks.in/economics/exports-of-india/</id>
+        <link href="https://thedatatalks.in/economics/exports-of-india/">
         </link>
-        <updated>2020-04-22T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[where,]]></summary>
+        <updated>2019-02-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[financial year of 1997-98]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Imports of India]]></title>
@@ -87,7 +87,7 @@ p - Monthly recurring amount(currency)]]></summary>
         <updated>2019-02-17T00:00:00.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ADP & BF calculation]]></title>
+        <title type="html"><![CDATA[Apparatus dew point temperature (ADP) & By-pass factor (BF) calculation]]></title>
         <id>https://thedatatalks.in/education/adp-and-bf-calculation/</id>
         <link href="https://thedatatalks.in/education/adp-and-bf-calculation/">
         </link>
@@ -114,7 +114,15 @@ p - Monthly recurring amount(currency)]]></summary>
         <link href="https://thedatatalks.in/education/air-handling-unit-performance-calculation/">
         </link>
         <updated>2020-12-08T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Typical values are]]></summary>
+        <summary type="html"><![CDATA[BTU of the coil side(High side) should match the BTU of the air side(Low side).]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Air Handling Unit (AHU) Selection Guide]]></title>
+        <id>https://thedatatalks.in/education/air-handling-unit-selection/</id>
+        <link href="https://thedatatalks.in/education/air-handling-unit-selection/">
+        </link>
+        <updated>2020-12-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Click here for Air Handling Unit (AHU) performance calculation.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bernouli distribution & binomial trials]]></title>
@@ -122,22 +130,20 @@ p - Monthly recurring amount(currency)]]></summary>
         <link href="https://thedatatalks.in/education/bernouli-distribution-binomial-trials/">
         </link>
         <updated>2020-04-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[With a bernouli random variable, we will have only one trial.]]></summary>
+        <summary type="html"><![CDATA[= p(1-P) = pq]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chilled water flows measurement using Orifice plate, Balancing valves, Manometers & Pitot tubes.]]></title>
+        <id>https://thedatatalks.in/education/chilled-water-flow-measurement/</id>
+        <link href="https://thedatatalks.in/education/chilled-water-flow-measurement/">
+        </link>
+        <updated>2019-02-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[For the liquid line, install the orifice plate so that the differential ports are at the bottom of the water pipe to avoid air.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[China Covid-19 Corona virus data]]></title>
         <id>https://thedatatalks.in/education/covid19-corona-virus-china-data/</id>
         <link href="https://thedatatalks.in/education/covid19-corona-virus-china-data/">
-        </link>
-        <updated>2020-04-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[China daily average new deaths: 40 (World-756) - Current values are far less than the average.
-Exponential Growth constant 'k' for total cases: 0.17/day (World-0.18/day) - Current values are far less than the average.
-Exponential Growth constant 'k' for total deaths: 0.03/day (World-0.04/day) - Current values are less than the average.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Covid-19 Corona virus data]]></title>
-        <id>https://thedatatalks.in/education/covid19-corona-virus-world-data/</id>
-        <link href="https://thedatatalks.in/education/covid19-corona-virus-world-data/">
         </link>
         <updated>2020-04-05T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[The below chart has]]></summary>
@@ -148,27 +154,23 @@ Exponential Growth constant 'k' for total deaths: 0.03/day (World-0.04/day) - Cu
         <link href="https://thedatatalks.in/education/covid19-corona-virus-india-data/">
         </link>
         <updated>2020-04-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The below graph clearly shows that the Covid-19 spread is exponential.]]></summary>
+        <summary type="html"><![CDATA[The below graph clearly shows that the Covid-19 daily new spread
+was initially stable and floating around a constant value. Now it is increasing exponentially.]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nginx with PM2 for NuxtJs]]></title>
-        <id>https://thedatatalks.in/education/nginx-pm2-nuxtjs/</id>
-        <link href="https://thedatatalks.in/education/nginx-pm2-nuxtjs/">
+        <title type="html"><![CDATA[World Covid-19 Corona virus data]]></title>
+        <id>https://thedatatalks.in/education/covid19-corona-virus-world-data/</id>
+        <link href="https://thedatatalks.in/education/covid19-corona-virus-world-data/">
         </link>
-        <updated>2020-04-19T00:00:00.000Z</updated>
+        <updated>2020-04-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[formula]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[p-value]]></title>
-        <id>https://thedatatalks.in/education/p-value/</id>
-        <link href="https://thedatatalks.in/education/p-value/">
+        <title type="html"><![CDATA[Divisibility Rule]]></title>
+        <id>https://thedatatalks.in/education/divisibility-rule/</id>
+        <link href="https://thedatatalks.in/education/divisibility-rule/">
         </link>
         <updated>2020-04-26T00:00:00.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Psychrometric chart and related equations]]></title>
-        <id>https://thedatatalks.in/education/psychrometric-chart-and-related-equations/</id>
-        <link href="https://thedatatalks.in/education/psychrometric-chart-and-related-equations/">
-        </link>
-        <updated>2020-12-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[457660, the last digit of 457660 is 0 so the number is also divisible by 5.]]></summary>
     </entry>
 </feed>

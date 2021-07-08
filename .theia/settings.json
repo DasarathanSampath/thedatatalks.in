@@ -1,0 +1,10 @@
+{
+    "java.dependency.packagePresentation": "hierarchical",
+    "java.dependency.syncWithFolderExplorer": false,
+    "html.customData": [],
+    "html.format.contentUnformatted": "pre,code,textarea",
+    "javascript.preferences.importModuleSpecifier": "auto",
+    "markdown.preview.openMarkdownLinks": "inEditor",
+    "markdown.preview.linkify": false,
+    "markdown.preview.markEditorSelection": true
+}

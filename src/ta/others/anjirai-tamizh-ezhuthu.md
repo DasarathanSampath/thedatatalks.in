@@ -14,7 +14,11 @@ topic: others
 <altLang />
 
 # {{ $frontmatter.title }}
+
 <i style="font-size: 0.75em;"> {{ $frontmatter.author }} {{ $frontmatter.date }} </i>
+
+<h1 style="padding-top: 2rem;">(Anjirai Pazhamperum Tamizh chol)<br>
+(Añciṟai-paḻamperum tamiḻ col)</h1>
 
 ## முன்னுரை:
 

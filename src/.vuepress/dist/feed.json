@@ -11,12 +11,11 @@
             "date_modified": "2019-02-17T00:00:00.000Z"
         },
         {
-            "id": "https://thedatatalks.in/economics/exports-of-india/",
-            "url": "https://thedatatalks.in/economics/exports-of-india/",
-            "title": "Exports of India",
+            "id": "https://thedatatalks.in/economics/compound-interest/",
+            "url": "https://thedatatalks.in/economics/compound-interest/",
+            "title": "Compound interest",
             "summary": " {{ $frontmatter.author }} {{ $frontmatter.date }}",
-            "image": "https://thedatatalks.in/img/economics/exports-of-india_files/figure-markdown/exports-of-india-1.png",
-            "date_modified": "2019-02-17T00:00:00.000Z"
+            "date_modified": "2020-04-22T00:00:00.000Z"
         },
         {
             "id": "https://thedatatalks.in/economics/analysis-on-imports-and-exports-of-india/",
@@ -27,11 +26,12 @@
             "date_modified": "2019-02-17T00:00:00.000Z"
         },
         {
-            "id": "https://thedatatalks.in/economics/compound-interest/",
-            "url": "https://thedatatalks.in/economics/compound-interest/",
-            "title": "Compound interest",
-            "summary": "where,",
-            "date_modified": "2020-04-22T00:00:00.000Z"
+            "id": "https://thedatatalks.in/economics/exports-of-india/",
+            "url": "https://thedatatalks.in/economics/exports-of-india/",
+            "title": "Exports of India",
+            "summary": "financial year of 1997-98",
+            "image": "https://thedatatalks.in/img/economics/exports-of-india_files/figure-markdown/exports-of-india-1.png",
+            "date_modified": "2019-02-17T00:00:00.000Z"
         },
         {
             "id": "https://thedatatalks.in/economics/imports-of-india/",
@@ -72,7 +72,7 @@
         {
             "id": "https://thedatatalks.in/education/adp-and-bf-calculation/",
             "url": "https://thedatatalks.in/education/adp-and-bf-calculation/",
-            "title": "ADP & BF calculation",
+            "title": "Apparatus dew point temperature (ADP) & By-pass factor (BF) calculation",
             "image": "https://thedatatalks.in/img/education/adp-and-bf-calculation/adp-chart.svg",
             "date_modified": "2020-12-08T00:00:00.000Z"
         },
@@ -93,59 +93,64 @@
             "id": "https://thedatatalks.in/education/air-handling-unit-performance-calculation/",
             "url": "https://thedatatalks.in/education/air-handling-unit-performance-calculation/",
             "title": "Air Handling Unit (AHU) performance calculation",
-            "summary": "Typical values are",
+            "summary": "BTU of the coil side(High side) should match the BTU of the air side(Low side).",
+            "date_modified": "2020-12-08T00:00:00.000Z"
+        },
+        {
+            "id": "https://thedatatalks.in/education/air-handling-unit-selection/",
+            "url": "https://thedatatalks.in/education/air-handling-unit-selection/",
+            "title": "Air Handling Unit (AHU) Selection Guide",
+            "summary": "Click here for Air Handling Unit (AHU) performance calculation.",
+            "image": "https://thedatatalks.in/img/education/air-handling-unit-selection/img1.png",
             "date_modified": "2020-12-08T00:00:00.000Z"
         },
         {
             "id": "https://thedatatalks.in/education/bernouli-distribution-binomial-trials/",
             "url": "https://thedatatalks.in/education/bernouli-distribution-binomial-trials/",
             "title": "Bernouli distribution & binomial trials",
-            "summary": "With a bernouli random variable, we will have only one trial.",
+            "summary": "= p(1-P) = pq",
             "image": "https://thedatatalks.in/img/education/binomial-distribution/coinflip.png",
             "date_modified": "2020-04-26T00:00:00.000Z"
+        },
+        {
+            "id": "https://thedatatalks.in/education/chilled-water-flow-measurement/",
+            "url": "https://thedatatalks.in/education/chilled-water-flow-measurement/",
+            "title": "Chilled water flows measurement using Orifice plate, Balancing valves, Manometers & Pitot tubes.",
+            "summary": "For the liquid line, install the orifice plate so that the differential ports are at the bottom of the water pipe to avoid air.",
+            "image": "https://thedatatalks.in/@assets/images/education/chilled-water-flow-measurement/orifice-plate.png",
+            "date_modified": "2019-02-17T00:00:00.000Z"
         },
         {
             "id": "https://thedatatalks.in/education/covid19-corona-virus-china-data/",
             "url": "https://thedatatalks.in/education/covid19-corona-virus-china-data/",
             "title": "China Covid-19 Corona virus data",
-            "summary": "China daily average new deaths: 40 (World-756) - Current values are far less than the average.\nExponential Growth constant 'k' for total cases: 0.17/day (World-0.18/day) - Current values are far less than the average.\nExponential Growth constant 'k' for total deaths: 0.03/day (World-0.04/day) - Current values are less than the average.",
-            "image": "https://thedatatalks.in/img/education/covid19-corona-virus-china-data_files/figure-markdown/world%20corona%20plot-1.png",
-            "date_modified": "2020-04-05T00:00:00.000Z"
-        },
-        {
-            "id": "https://thedatatalks.in/education/covid19-corona-virus-world-data/",
-            "url": "https://thedatatalks.in/education/covid19-corona-virus-world-data/",
-            "title": "World Covid-19 Corona virus data",
             "summary": "The below chart has",
-            "image": "https://thedatatalks.in/img/education/covid19-corona-virus-world-data_files/figure-markdown/world%20corona%20plot-1.png",
+            "image": "https://thedatatalks.in/img/education/covid19-corona-virus-china-data_files/figure-markdown/world%20corona%20plot-1.png",
             "date_modified": "2020-04-05T00:00:00.000Z"
         },
         {
             "id": "https://thedatatalks.in/education/covid19-corona-virus-india-data/",
             "url": "https://thedatatalks.in/education/covid19-corona-virus-india-data/",
             "title": "India Covid-19 Corona virus data",
-            "summary": "The below graph clearly shows that the Covid-19 spread is exponential.",
+            "summary": "The below graph clearly shows that the Covid-19 daily new spread\nwas initially stable and floating around a constant value. Now it is increasing exponentially.",
             "image": "https://thedatatalks.in/img/education/covid19-corona-virus-india-data_files/figure-markdown/world%20corona%20plot-1.png",
             "date_modified": "2020-04-02T00:00:00.000Z"
         },
         {
-            "id": "https://thedatatalks.in/education/nginx-pm2-nuxtjs/",
-            "url": "https://thedatatalks.in/education/nginx-pm2-nuxtjs/",
-            "title": "Nginx with PM2 for NuxtJs",
-            "date_modified": "2020-04-19T00:00:00.000Z"
+            "id": "https://thedatatalks.in/education/covid19-corona-virus-world-data/",
+            "url": "https://thedatatalks.in/education/covid19-corona-virus-world-data/",
+            "title": "World Covid-19 Corona virus data",
+            "summary": "formula",
+            "image": "https://thedatatalks.in/img/education/covid19-corona-virus-world-data_files/figure-markdown/world%20corona%20plot-1.png",
+            "date_modified": "2020-04-05T00:00:00.000Z"
         },
         {
-            "id": "https://thedatatalks.in/education/p-value/",
-            "url": "https://thedatatalks.in/education/p-value/",
-            "title": "p-value",
+            "id": "https://thedatatalks.in/education/divisibility-rule/",
+            "url": "https://thedatatalks.in/education/divisibility-rule/",
+            "title": "Divisibility Rule",
+            "summary": "457660, the last digit of 457660 is 0 so the number is also divisible by 5.",
+            "image": "https://thedatatalks.in/img/education/divisibility-rule/_thumbnail.png",
             "date_modified": "2020-04-26T00:00:00.000Z"
-        },
-        {
-            "id": "https://thedatatalks.in/education/psychrometric-chart-and-related-equations/",
-            "url": "https://thedatatalks.in/education/psychrometric-chart-and-related-equations/",
-            "title": "Psychrometric chart and related equations",
-            "image": "https://thedatatalks.in/img/education/psychrometric-chart-and-related-equations/ph-chart.svg",
-            "date_modified": "2020-12-08T00:00:00.000Z"
         }
     ]
 }

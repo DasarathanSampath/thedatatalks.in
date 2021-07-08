@@ -28,7 +28,8 @@ module.exports = {
     ['@vuepress/google-analytics', {'ga': 'UA-144761111-2'}],
     // ['vuepress-plugin-google-adsense', {ad_client: "ca-pub-3042269102042405"}],
     ['autometa', autometa_options],
-    ['sitemap', {hostname: 'https://thedatatalks.in'}]
+    ['sitemap', {hostname: 'https://thedatatalks.in'}],
+    [ 'mermaidjs', { er: { width: 100, height: 100 }, sequence: { width: 100, height: 100 }, flowchart: { width: 100, height: 100 }}]
   ],
   head: [
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],

@@ -16,6 +16,9 @@ topic: others
 # {{ $frontmatter.title }}
 <i style="font-size: 0.75em;"> {{ $frontmatter.author }} {{ $frontmatter.date }} </i>
 
+<h1 style="padding-top: 2rem;">(Nanmani kadigai - Sanga Ilakiya Padhinenkeezhkanakku nool)<br>
+(Nāṉmaṇik kaṭikai - caṅka ilakkiya patiṉeṇkīḻkkaṇakku nūl)</h1>
+
 சங்க இலக்கியம், பதினெண்மேற் கணக்கு, பதினெண்கீழ்க் கணக்கு எனும் இரு பிரிவுகளைக் கொண்டது.
 எட்டுத்தொகை, பத்துப்பாட்டு ஆகிய பதினெட்டு நூல்கள் மேற்கணக்கில் அடங்கும்.  
 

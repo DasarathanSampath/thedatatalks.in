@@ -16,6 +16,9 @@ topic: others
 # {{ $frontmatter.title }}
 <i style="font-size: 0.75em;"> {{ $frontmatter.author }} {{ $frontmatter.date }} </i>
 
+<h1 style="padding-top: 2rem;">(Naladiyaar - Sanga Ilakiya Padhinenkeezhkanakku nool)<br>
+(Nālaṭiyār - caṅka ilakkiya patiṉeṇkīḻkkaṇakku nūl)</h1>
+
 பதினெண்கீழ்க்கணக்கு நூல் தொகுப்பைச் சேர்ந்த ஒரு நீதிநூல். 
 
 **பதினெட்டு நூல்களையும் குறிக்கும் வெண்பா:**  

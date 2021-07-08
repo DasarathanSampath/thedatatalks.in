@@ -1,7 +1,7 @@
 ---
 date:  08 Dec 2020
 id: 'adp-and-bf-calculation'
-title: "ADP & BF calculation"
+title: "Apparatus dew point temperature (ADP) & By-pass factor (BF) calculation"
 desc: Formulae for the apparatus dew point temperature and by-pass factor. 
 imgDesc: 'Image shows the derivations for iterating ADP value from cooling load calculations'
 author: 'by Dasa'
@@ -15,6 +15,8 @@ topic: education
 
 # {{ $frontmatter.title }}
 <i style="font-size: 0.75em;"> {{ $frontmatter.author }} {{ $frontmatter.date }} </i>
+
+<DynamicGlobalComponent componentName="AdpCalculation" />
 
 ## ADP - Apparatus dew point temperature
 
@@ -54,8 +56,6 @@ $ERSHF =$ ${$ $(1.08 * cfm * (T_{rm} - T_{adp})$ * $(1-BF))$ $}$
 >$W_{rm}$ - Humidity ratio at room dry bulb temperature
 >$W_{adp}$ - Humidity ratio at apparatus dew point temperature
 
-<DynamicGlobalComponent componentName="AdpCalculation" />
-
 ### Calculate ADP using mass transfer equations
 
 The surface temperature of a heat exchanger coil can be found using the below heat and mass transfer equations 
@@ -66,6 +66,8 @@ $LMTD = \dfrac {\Delta T1 - \Delta T2} {\ln(\dfrac{\Delta T1}{\Delta T2})}$
 
 ## BF - By-pass factor
 
+<DynamicGlobalComponent componentName="ByPassFactor" />
+
 Ideally the air leaving temperature should be equal to the surface temperature of the coil.  But it is never possible since few amounts of air through the coil never touch the surface and pass through it. This process is defined as by-pass factor.
 
 $BF = \dfrac {Tdbt_{outlet} - ADP} {Tdbt_{inlet} - ADP}$
@@ -74,5 +76,3 @@ $BF = \dfrac {Tdbt_{outlet} - ADP} {Tdbt_{inlet} - ADP}$
 >ADP - Apparatus dew point temperature in °F
 >$Tdbt_{outlet}$ - Dry bulb temperature leaving coil in °F
 >$Tdbt_{inlet}$ - Dry bulb temperature entering coil in °F
-
-<DynamicGlobalComponent componentName="ByPassFactor" />

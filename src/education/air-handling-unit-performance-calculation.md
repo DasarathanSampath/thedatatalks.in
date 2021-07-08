@@ -16,6 +16,8 @@ topic: education
 # {{ $frontmatter.title }}
 <i style="font-size: 0.75em;"> {{ $frontmatter.author }} {{ $frontmatter.date }} </i>
 
+Click here for [Air Handling Unit (AHU) Component Selection Guide](https://thedatatalks.in/education/air-handling-unit-performance-calculation).
+
 BTU of the coil side(High side) should match the BTU of the air side(Low side).
 
 ## Water side / High side:
@@ -32,6 +34,8 @@ Typical values are
 A typical chilled water system gives water at 44° F to an AHU at the inlet.
 
 Measure the water flow rate at the inlet of the AHU. We can measure the flow rate using an analog/digital manometer OR an ultrasonic flowmeter installed on the chilled water pipe. 
+
+Click here for [Chilled water flows measurement using Orifice plate, Balancing valves, Manometers & Pitot tubes](https://thedatatalks.in/education/chilled-water-flow-measurement).
 
 Typical AHU requires a flow rate of 2.4 gallons/ton. So, the flow rate should be 24 gpm for the AHU capacity of 10 TR.
 
