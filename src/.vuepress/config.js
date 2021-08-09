@@ -41,6 +41,7 @@ module.exports = {
     ['script', { src: "https://www.gstatic.com/firebasejs/8.2.0/firebase-app.js" }],
     ['script', { src: "https://www.gstatic.com/firebasejs/8.2.0/firebase-auth.js" }],
     ['script', { src: "https://www.gstatic.com/firebasejs/8.2.0/firebase-database.js" }],
+    ['script', { src: "https://www.gstatic.com/firebasejs/8.2.0/firebase-firestore.js" }],
     ['script', { src: "https://www.gstatic.com/firebasejs/8.2.0/firebase-analytics.js" }],
     ['script', { src: "https://www.googletagmanager.com/gtag/js?id=UA-144761111-2",async: true}],
     ['script', {},

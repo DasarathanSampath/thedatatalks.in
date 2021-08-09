@@ -101,6 +101,7 @@
                 "collapsable": false,
                 "children": [
                   "",
+                  "maths-number-system",
                   "hvac-duct-air-pressure-loss",
                   "chilled-water-flow-measurement",    
                   "psychrometric-calculator",

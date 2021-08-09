@@ -89,6 +89,7 @@ export default {
   position: relative;
   transition: 0.25s opacity;
   cursor: zoom-in;
+  
 }
 body > .expandable-image.expanded {
   position: fixed;

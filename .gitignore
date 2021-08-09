@@ -17,6 +17,8 @@ firebase.json
 
 
 # Firebase config
+serviceAccount.json
+firebaseConfig.js
 
 .env
 

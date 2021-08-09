@@ -5,8 +5,10 @@ import {makeAppendChildToParent} from './assetHelpers'
 
 Vue.use(Vuex)
 
-export default new Vuex.Store({
-
+export default new Vuex.Store({    
+    /////////////////////////////////
+    ////State values
+    ////////////////////////////////
     state:{
         authUser: null,
         authId: null,
@@ -19,8 +21,13 @@ export default new Vuex.Store({
         posts:{
             'en-US': {},
             'ta-IN': {}
-        }
+        },
+        questions:{},
+        currentQuestion: null
     },
+    /////////////////////////////////
+    ////Getters
+    ////////////////////////////////
     getters:{
         authUser(state) {
             return state.authUser ? state.authUser : null
@@ -39,10 +46,21 @@ export default new Vuex.Store({
                     .filter(post => post.userId === id)
             }
             return []
+        },
+        questions(state) {
+            return state.questions[state.currentQuestion]
+        },
+        currentQuestion(state) {
+            return state.currentQuestion
         }
     },
+    /////////////////////////////////
+    ////Actions
+    ////////////////////////////////
     actions:{
-
+        /////////////////////////////////
+        ////Action Authentication, signIn, sign out
+        ////////////////////////////////
         signInWithEmailAndPassword(context, {email, password}) {
             firebase.auth().signInWithEmailAndPassword(email, password)
                 .catch(error => alert(error.message))
@@ -63,7 +81,6 @@ export default new Vuex.Store({
                   commit('unsubscribeAuthObserver', unsubscribe)
             })
         },
-
         fetchAuthUser({dispatch, commit, state}){
             const userId = firebase.auth().currentUser.uid
             const user = firebase.auth().currentUser
@@ -82,7 +99,6 @@ export default new Vuex.Store({
                 })
             })       
         },
-
         fetchUser({state, commit}, {userId}) {
             return new Promise((resolve, reject) => {
                 firebase.database().ref("users").child(userId).once('value', snapshot => {
@@ -91,7 +107,6 @@ export default new Vuex.Store({
                 })
             })
         },
-
         signOut({commit}){
             return firebase.auth().signOut()
                 .then(() => {
@@ -99,7 +114,6 @@ export default new Vuex.Store({
                     commit('setAuthUser', null)
                 })
         },
-
         signInWithGoogle({dispatch}) {
             const provider = new firebase.auth.GoogleAuthProvider()
             return firebase.auth().signInWithPopup(provider)
@@ -120,7 +134,6 @@ export default new Vuex.Store({
                     })
                 })
         },
-
         registerUserWithEmailAndPassword({dispatch}, {email, password, username}) {
             firebase.auth().createUserWithEmailAndPassword(email, password)
                 .catch(error => alert(error.message))
@@ -133,7 +146,6 @@ export default new Vuex.Store({
                         .then(() => dispatch('fetchAuthUser'))
                 })
         },
-
         updateProfile({ state, commit }, {username, photoURL}){
             const updates = {
                 username: username.toLowerCase(),
@@ -148,7 +160,6 @@ export default new Vuex.Store({
                     })
             })
         },
-
         updateEmail({ state, commit }, {email}){
             const updates = {
                 email: email,
@@ -163,8 +174,9 @@ export default new Vuex.Store({
             })
         },
 
-
+        ////////////////////////
         //// Articles & posts
+        ///////////////////////
         createPost({commit, state}, post) {
             const postId = firebase.database().ref(`posts/${post.lncode}`).push().key
             
@@ -188,15 +200,12 @@ export default new Vuex.Store({
                 })
         },
         updatePost({commit, state, rootState}, {id, text, lncode}){
-            // console.log("from update post", id, text, lncode)
             return new Promise((resolve, reject) => {
                 const post = state['posts'][lncode][id]
-                // console.log("from update post", post)
                 const edited = {
                     at: Math.floor(Date.now() / 1000),
                     by: state.authId
                 }
-                // console.log("from update post", edited)
                 const updates = {text, edited}
                 firebase.database().ref(`posts/${lncode}`).child(id).update(updates)
                     .then(() => {
@@ -211,7 +220,6 @@ export default new Vuex.Store({
         fetchPosts({dispatch}, {ids, lnCode}){
             return dispatch('fetchItems', {resource: 'posts', ids, lnCode: lnCode})
         },
-
         /// common 
         fetchItem({state, commit}, {id, lnCode, resource}) {
             return new Promise((resolve, reject) => {
@@ -223,12 +231,45 @@ export default new Vuex.Store({
                     resolve(null)                
                 })
             })
-        },
-        
+        },        
         fetchItems({dispatch}, {ids, resource, lnCode}) {
             return Promise.all(ids.map(id => dispatch('fetchItem', {id, resource, lnCode})))
+        },
+        //////////////////////////////
+        ///Questions
+        //////////////////////////////
+        fetchQuestion({state, commit}, {topic, qstNumber}) {            
+            return new Promise((resolve, reject) => {
+                firebase.firestore().collection(topic).doc(qstNumber).onSnapshot((doc) => {                    
+                    const question = {...doc.data(), id: doc.id}                    
+                    question.isAnswered = false
+                    question.selectedAnswer = null
+                    question.result = null
+                    commit('setQuestion', {id: question.id, question})
+                    resolve(question)
+                })
+            })
+        },
+        setCurrentQuestion({state, commit}, qstNumber) {
+            return new Promise((resolve, reject) => {
+                commit('setQuestionNumber', qstNumber)
+                resolve(state.questions)
+            })
+        },
+        updateCurrentQuestion({state, commit}, {currentQuestion: currentQuestion, picked: picked, result: result}) {
+            return new Promise((resolve, reject) => {
+                commit('updateQuestion', {currentQuestion: currentQuestion, picked: picked, result: result})
+                resolve(state.questions)
+            })
+        },
+        setQuestionsNull({state, commit}) {
+            commit('questionsNull')
         }
     },
+
+    //////////////////////////////
+    ///Mutations
+    //////////////////////////////
     mutations:{
         setAuthId (state, userId) {
             state.authId = userId
@@ -255,6 +296,22 @@ export default new Vuex.Store({
                 Vue.set(resource, lnCode, {})
             }
             Vue.set(resource[lnCode], childId, childId)
+        },
+        setQuestion(state, {id, question}) {
+            question['.key'] = id
+            Vue.set(state.questions, id, question)
+        },
+        setQuestionNumber(state, qstNumber) {
+            state.currentQuestion = qstNumber
+        },
+        updateQuestion(state, {currentQuestion: currentQuestion, picked: picked, result: result}) {
+            state.questions[currentQuestion].isAnswered = true
+            state.questions[currentQuestion].selectedAnswer = picked
+            state.questions[currentQuestion].result = result
+        },
+        questionsNull(state){
+            state.questions = {}
+            state.currentQuestion = null
         }
     }
 })

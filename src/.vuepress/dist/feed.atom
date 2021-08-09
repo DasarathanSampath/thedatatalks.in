@@ -2,10 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thedatatalks.in</id>
     <title></title>
-    <updated>2021-06-04T04:26:49.673Z</updated>
+    <updated>2021-08-09T16:54:08.540Z</updated>
     <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
     <link rel="alternate" href="https://thedatatalks.in"/>
     <link rel="self" href="https://thedatatalks.in/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Analysis on Imports and Exports of India]]></title>
+        <id>https://thedatatalks.in/economics/analysis-on-imports-and-exports-of-india/</id>
+        <link href="https://thedatatalks.in/economics/analysis-on-imports-and-exports-of-india/">
+        </link>
+        <updated>2019-02-17T00:00:00.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Economics]]></title>
         <id>https://thedatatalks.in/economics/</id>
@@ -14,32 +21,11 @@
         <updated>2019-02-17T00:00:00.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Compound interest]]></title>
-        <id>https://thedatatalks.in/economics/compound-interest/</id>
-        <link href="https://thedatatalks.in/economics/compound-interest/">
-        </link>
-        <updated>2020-04-22T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ {{ $frontmatter.author }} {{ $frontmatter.date }}]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Analysis on Imports and Exports of India]]></title>
-        <id>https://thedatatalks.in/economics/analysis-on-imports-and-exports-of-india/</id>
-        <link href="https://thedatatalks.in/economics/analysis-on-imports-and-exports-of-india/">
-        </link>
-        <updated>2019-02-17T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The objective of this analysis is to measure the impact on Import/Export
-value due to change in various factors like GDP, Exchange rate (currency
-inflation), inflation, trade policies, foreign currency reserves,
-demand, trade deficit, countries current account, quality, productivity
-& labor cost.]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Exports of India]]></title>
         <id>https://thedatatalks.in/economics/exports-of-india/</id>
         <link href="https://thedatatalks.in/economics/exports-of-india/">
         </link>
         <updated>2019-02-17T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[financial year of 1997-98]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Imports of India]]></title>
@@ -47,8 +33,7 @@ demand, trade deficit, countries current account, quality, productivity
         <link href="https://thedatatalks.in/economics/imports-of-india/">
         </link>
         <updated>2019-02-17T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The smoothed conditional mean line of INR shows a stead growth from 2013
-to 2019 but for the same, USD shows a complete stagnation.]]></summary>
+        <summary type="html"><![CDATA[ {{ $frontmatter.author }} {{ $frontmatter.date }}]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Nifty50 yield & 10-Years Bond yield]]></title>
@@ -56,9 +41,7 @@ to 2019 but for the same, USD shows a complete stagnation.]]></summary>
         <link href="https://thedatatalks.in/economics/nifty50-10year-bond-yield/">
         </link>
         <updated>2020-03-14T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[market value should change based on bond yield and stock yield for both
-defensive investor and enterprising investor, which would justify an
-all-bond policy.]]></summary>
+        <summary type="html"><![CDATA[The below line chart consist of]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Recurring deposit]]></title>
@@ -66,10 +49,14 @@ all-bond policy.]]></summary>
         <link href="https://thedatatalks.in/economics/recurring-deposit/">
         </link>
         <updated>2020-04-22T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[where,
-i - Rate of Interest(%)
-t - Total number of periods(months)
-p - Monthly recurring amount(currency)]]></summary>
+        <summary type="html"><![CDATA[Quarterly has 4 times compounding in a year,
+        we have to compound the interest for every 3 months
+    HalfYearly has 2 times compounding in a year,
+        we have to compound the interest for every 6 months
+    Monthly has 12 times compounding in a year,
+        we have to compound the interest for every 12 months
+    Yearly has 1 time compounding in a year,
+        we have to compound the interest for every 1 month]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Reinvestment Deposit Scheme]]></title>
@@ -77,7 +64,7 @@ p - Monthly recurring amount(currency)]]></summary>
         <link href="https://thedatatalks.in/economics/reinvestment-deposit-scheme/">
         </link>
         <updated>2020-04-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As stated above interest on interest has to be gained, this method is called as reinvestment.]]></summary>
+        <summary type="html"><![CDATA[Example,]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Education]]></title>
@@ -149,13 +136,11 @@ p - Monthly recurring amount(currency)]]></summary>
         <summary type="html"><![CDATA[The below chart has]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[India Covid-19 Corona virus data]]></title>
-        <id>https://thedatatalks.in/education/covid19-corona-virus-india-data/</id>
-        <link href="https://thedatatalks.in/education/covid19-corona-virus-india-data/">
+        <title type="html"><![CDATA[Compound interest]]></title>
+        <id>https://thedatatalks.in/economics/compound-interest/</id>
+        <link href="https://thedatatalks.in/economics/compound-interest/">
         </link>
-        <updated>2020-04-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The below graph clearly shows that the Covid-19 daily new spread
-was initially stable and floating around a constant value. Now it is increasing exponentially.]]></summary>
+        <updated>2020-04-22T00:00:00.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[World Covid-19 Corona virus data]]></title>
@@ -163,7 +148,14 @@ was initially stable and floating around a constant value. Now it is increasing 
         <link href="https://thedatatalks.in/education/covid19-corona-virus-world-data/">
         </link>
         <updated>2020-04-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[formula]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[India Covid-19 Corona virus data]]></title>
+        <id>https://thedatatalks.in/education/covid19-corona-virus-india-data/</id>
+        <link href="https://thedatatalks.in/education/covid19-corona-virus-india-data/">
+        </link>
+        <updated>2020-04-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ {{ $frontmatter.author }} {{ $frontmatter.date }}]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Divisibility Rule]]></title>
@@ -171,6 +163,6 @@ was initially stable and floating around a constant value. Now it is increasing 
         <link href="https://thedatatalks.in/education/divisibility-rule/">
         </link>
         <updated>2020-04-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[457660, the last digit of 457660 is 0 so the number is also divisible by 5.]]></summary>
+        <summary type="html"><![CDATA[Can you tell whether 3247 is divisible by 2, 3, 4, …, 9 without dividing?]]></summary>
     </entry>
 </feed>

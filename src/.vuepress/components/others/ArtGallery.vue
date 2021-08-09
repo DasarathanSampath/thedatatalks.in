@@ -11,8 +11,8 @@
             <h1 class="card-txt__title"> {{ListofFiles[imageName].createdBy}} </h1>
             <p class="card-txt__imgDesc">{{ListofFiles[imageName].imageDescription}}</p>  
             <div>
-                  <span class="card-txt__dateTime">{{ListofFiles[imageName].qualification}}</span> • 
-                  <span class="card-txt__dateTime">{{ListofFiles[imageName].date}}</span> •   
+                  <span class="card-txt__dateTime">{{ListofFiles[imageName].qualification}}</span> <br>
+                  <span class="card-txt__dateTime">{{ListofFiles[imageName].date}}</span>
             </div>
         </div>
     </div>
@@ -55,6 +55,7 @@ export default {
   display: flex;
   justify-content: center;
   align-items: center;
+   
 }
 .artGalleryImage {
   width: 100%;
@@ -70,8 +71,9 @@ export default {
 /* Create three equal columns that floats next to each other */
 .artGalleryColumn {
   float: left;
-  width: 30%;
+  width: 31.1%;
   padding: 1%;
+  min-height: 450px;
 }
 
 </style>

@@ -386,11 +386,9 @@ export default {
             this.$emit('ready')
         }
     },
-
     mounted() {        
         this.$store.dispatch('initAuthentication')
-            .then(() => this.asyncDataStatus_fetched() )
-        
+            .then(() => this.asyncDataStatus_fetched() )        
     }
 }
 </script>

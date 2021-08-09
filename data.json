@@ -1,0 +1,86 @@
+{
+    "7thMaths": [
+        {
+            "id": "numberSystem",
+            "data": [
+                {  "id": 1,
+                    "question": "What are whole numbers?",
+                    "A": "1,2,3,4,...",
+                    "B": "0,1,2,3,4,...",
+                    "C": "...,-3,-2,-1,0,1,2,3,...",
+                    "D": "1/4,1/2,3/4,1,1 1/4,...",
+                    "ans": "option B",
+                    "detail": "Zero & all natural number"
+                },
+                {   "id": 2,
+                    "question": "What are Integers?",
+                    "A": "1,2,3,4,...",
+                    "B": "0,1,2,3,4,...",
+                    "C": "...,-3,-2,-1,0,1,2,3,...",
+                    "D": "1/4,1/2,3/4,1,1 1/4,...",
+                    "ans": "option C",
+                    "detail": "All numbers are called Integers"
+                },
+                {   "id": 3,
+                    "question": "What are natural numbers?",
+                    "A": "1,2,3,4,...",
+                    "B": "0,1,2,3,4,...",
+                    "C": "...,-3,-2,-1,0,1,2,3,...",
+                    "D": "1/4,1/2,3/4,1,1 1/4,...",
+                    "ans": "option A",
+                    "detail": "All counting numbers are natural numbers"
+                },
+                {   "id": 4,
+                    "question": "When a, b and c are natural numbers and ab = c, then a and b are ______ of c.",
+                    "A": "Multiples",
+                    "B": "Factors",
+                    "C": "Quotients",
+                    "D": "Reminders",
+                    "ans": "option B",
+                    "detail": "c is multiple of ‘a’ as well as ‘b’. Example: 2 x 3 = 6 then 2 and 3 are factors of 6. 6 is multiple of ‘2’ as well as ‘3’."
+                }
+            ]
+        },
+        {
+            "id": "dataHandling",
+            "data": [
+                {  "id": 1,
+                    "question": "What are whole numbers?",
+                    "A": "1,2,3,4,...",
+                    "B": "0,1,2,3,4,...",
+                    "C": "...,-3,-2,-1,0,1,2,3,...",
+                    "D": "1/4,1/2,3/4,1,1 1/4,...",
+                    "ans": "option B",
+                    "detail": "Zero & all natural number"
+                },
+                {   "id": 2,
+                    "question": "What are Integers?",
+                    "A": "1,2,3,4,...",
+                    "B": "0,1,2,3,4,...",
+                    "C": "...,-3,-2,-1,0,1,2,3,...",
+                    "D": "1/4,1/2,3/4,1,1 1/4,...",
+                    "ans": "option C",
+                    "detail": "All numbers are called Integers"
+                },
+                {   "id": 3,
+                    "question": "What are natural numbers?",
+                    "A": "1,2,3,4,...",
+                    "B": "0,1,2,3,4,...",
+                    "C": "...,-3,-2,-1,0,1,2,3,...",
+                    "D": "1/4,1/2,3/4,1,1 1/4,...",
+                    "ans": "option A",
+                    "detail": "All counting numbers are natural numbers"
+                },
+                {   "id": 4,
+                    "question": "When a, b and c are natural numbers and ab = c, then a and b are ______ of c.",
+                    "A": "Multiples",
+                    "B": "Factors",
+                    "C": "Quotients",
+                    "D": "Reminders",
+                    "ans": "option B",
+                    "detail": "c is multiple of ‘a’ as well as ‘b’. Example: 2 x 3 = 6 then 2 and 3 are factors of 6. 6 is multiple of ‘2’ as well as ‘3’."
+                }
+            ]
+        }
+    ]
+}
