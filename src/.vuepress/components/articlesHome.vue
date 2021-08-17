@@ -62,10 +62,10 @@
 </template>
 
 <script>
-import CallAdSense from './callAdSense'
+// import CallAdSense from './callAdSense'
 export default {
   components:{
-    CallAdSense
+    //CallAdSense
     
   },
   computed: {

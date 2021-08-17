@@ -1,7 +1,7 @@
 ---
 date:  08 Dec 2020
 id: 'adp-and-bf-calculation'
-title: "Apparatus dew point temperature (ADP) & By-pass factor (BF) calculation"
+title: "Apparatus dew point temperature (ADP) & By-pass factor (BF)"
 desc: Formulae for the apparatus dew point temperature and by-pass factor. 
 imgDesc: 'Image shows the derivations for iterating ADP value from cooling load calculations'
 author: 'by Dasa'

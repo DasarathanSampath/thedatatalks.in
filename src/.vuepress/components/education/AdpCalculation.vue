@@ -24,7 +24,9 @@
             <p class="column-form-left">Saturated Pressure @ WBT in psia (P<sub>wbt</sub>)</p>  <button class="form-result">{{ saturatedPressureWetBulbTemp.toFixed(2) }} </button>
             <p class="column-form-left">humidity Ratio @ Saturation (W<sub>wbt</sub>)</p>  <button class="form-result">{{ humidityRatioAtSaturation.toFixed(4) }} </button>
             <p class="column-form-left">humidity Ratio AH / HR in lb/lb (W)</p>  <button class="form-result">{{ HumidityRatio.toFixed(4) }} </button>
-            <button class="form-result" @click="AdpCalculation">Iterate for ADP</button> 
+            <div lass="column-form-left"> 
+                <button class="button-submit" @click="AdpCalculation">Click here to Iterate and get ADP</button> 
+            </div>
             <button v-if="inputValues.errorMessage==0" class="form-result">{{inputValues.adpTemperature}}</button>
             <button v-else class="form-result">enter ERSHF>{{inputValues.minSHF}} < 1</button>
             <!-- <button class="form-result" @click="AdpCalculation" :adpTemperature="inputValues.adpTemperature">Iterate for ADP</button> <button class="form-result">{{adpTemperature}}</button> -->
