@@ -112,7 +112,7 @@
                   "ahu-water-side-cooling-load-calculation",
                   "ahu-air-side-cooling-load-calculation",                  
                   "adp-and-bf-calculation",
-                  "bernouli-distribution-binomial-trials",
+                  "bernoulli-distribution-binomial-trials",
                   "covid19-corona-virus-china-data",
                   "covid19-corona-virus-india-data",
                   "covid19-corona-virus-world-data",

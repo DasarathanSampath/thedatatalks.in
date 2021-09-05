@@ -104,9 +104,9 @@
             "date_modified": "2020-12-08T00:00:00.000Z"
         },
         {
-            "id": "https://thedatatalks.in/education/bernouli-distribution-binomial-trials/",
-            "url": "https://thedatatalks.in/education/bernouli-distribution-binomial-trials/",
-            "title": "Bernouli distribution & binomial trials",
+            "id": "https://thedatatalks.in/education/bernoulli-distribution-binomial-trials/",
+            "url": "https://thedatatalks.in/education/bernoulli-distribution-binomial-trials/",
+            "title": "Bernoulli distribution & binomial trials",
             "summary": "= p(1-P) = pq",
             "image": "https://thedatatalks.in/img/education/binomial-distribution/coinflip.png",
             "date_modified": "2020-04-26T00:00:00.000Z"
@@ -147,7 +147,7 @@
             "id": "https://thedatatalks.in/education/design-for-manufacturing-and-assembly-for-sheet-metals/",
             "url": "https://thedatatalks.in/education/design-for-manufacturing-and-assembly-for-sheet-metals/",
             "title": "Design For Manufacturing and Assembly(DFMA) principles of Sheet Metal Work",
-            "summary": "Bending & its limitations\nAssembly of components\nMaterial Handling",
+            "summary": "Compare the price between cut-off dies, part-off dies, and blanking dies.\nCompare the percentage of scrap material between cut-off dies, part-off dies, and blanking dies.\nCompare the cost of Individual dies & Progressive dies for piercing, forming, and shearing operations.\nEstimate the cost of Individual dies for bending operations.\nEstimate the pressing force and selection of Mechanical press.\nCompare the cycle time and processing cost between Individual dies and Progressive dies.\nStudy the advantages and disadvantages of using a Turret press.\nStudy the requirement of Laser cutting.\nSelection of Press Brake and tools for various part lengths. And estimate the cost of press brake operation.\nStudy of types of equipment involved in the assembly of components.\nMaterial Handling.",
             "date_modified": "2020-12-15T00:00:00.000Z"
         }
     ]

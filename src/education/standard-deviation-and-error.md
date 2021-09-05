@@ -75,23 +75,25 @@ The deviation between the sample mean and the population mean is called Standard
 As described above the Mean of all sample is taken as unbiased population mean estimator. And this is the best we can estimate. 
 Since the variance is dependent on mean, 
 
-Variance of samples = True Varience = $\sigma^2$
+Variance of samples {$(var(\overline{X_1}) + var(\overline{X_2}) + var(\overline{X_3}) .... var(\overline{X_n}) \over n$ } = True Varience = $\sigma^2$
 
 Let X_1, X_2, X_3, ....... X_n are independent samples from a population, whos expected value is µ and variance σ². Then  
 
+$\overline{X_1}$, $\overline{X_2}$, $\overline{X_3}$, ... $\overline{X_n}$ be the mean of each samples
+
 $$\begin{array}{c}
 
-\text{Sample-mean } \overline{X} = {X_1 + X_2 + X_3 .... X_n \over n} \\\\
-\text{Variance-of-all-samples } = var(\overline{X})   \\\\
-= var \left( X_1 + X_2 + X_3 .... X_n \over n \right)  \\\\
-= {1 \over n^2} var(X_1 + X_2 + X_3 .... X_n)   \\\\
-= {1 \over n^2} (var(X_1) + var(X_2) + var(X_3) .... var(X_n))  \\\\
+\text{Mean-of-Sample-means} \overline{X} = {\overline{X_1} + \overline{X_2} + \overline{X_3} .... \overline{X_n} \over n} \\\\
+\text{Variance-of-all-Sample-Means } = var(\overline{X})   \\\\
+= var \left( \overline{X_1} + \overline{X_2} + \overline{X_3} .... \overline{X_n} \over n \right)  \\\\
+= {1 \over n^2} var(\overline{X_1} + \overline{X_2} + \overline{X_3} .... \overline{X_n})   \\\\
+= {1 \over n^2} (var(\overline{X_1}) + var(\overline{X_2}) + var(\overline{X_3}) .... var(\overline{X_n}))  \\\\
 = {1 \over n^2} (n \sigma^2)  \\\\
 = {\sigma^2 \over n}  \\\\
 
 \end{array}$$
 
-Standard deviation of Statistics = Standard Error(SE)
+Standard deviation of all Sample Means = Standard deviation of Statistics = Standard Error(SE)
 
 $SE = \sqrt{(\sigma)^2 \over n} = {\sigma \over \sqrt{n}}$
 

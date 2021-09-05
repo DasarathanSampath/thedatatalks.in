@@ -4,7 +4,7 @@
         <title></title>
         <link>https://thedatatalks.in</link>
         <description></description>
-        <lastBuildDate>Tue, 17 Aug 2021 07:48:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Sep 2021 07:54:36 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <atom:link href="https://thedatatalks.in/feed.atom" rel="self" type="application/rss+xml"/>
@@ -120,9 +120,9 @@ p - Monthly recurring amount(currency)]]></description>
             </enclosure>
         </item>
         <item>
-            <title><![CDATA[Bernouli distribution & binomial trials]]></title>
-            <link>https://thedatatalks.in/education/bernouli-distribution-binomial-trials/</link>
-            <guid>https://thedatatalks.in/education/bernouli-distribution-binomial-trials/</guid>
+            <title><![CDATA[Bernoulli distribution & binomial trials]]></title>
+            <link>https://thedatatalks.in/education/bernoulli-distribution-binomial-trials/</link>
+            <guid>https://thedatatalks.in/education/bernoulli-distribution-binomial-trials/</guid>
             <pubDate>Sun, 26 Apr 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[= p(1-P) = pq]]></description>
             <enclosure url="https://thedatatalks.in/img/education/binomial-distribution/coinflip.png">
@@ -170,9 +170,17 @@ was initially stable and floating around a constant value. Now it is increasing 
             <link>https://thedatatalks.in/education/design-for-manufacturing-and-assembly-for-sheet-metals/</link>
             <guid>https://thedatatalks.in/education/design-for-manufacturing-and-assembly-for-sheet-metals/</guid>
             <pubDate>Tue, 15 Dec 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[Bending & its limitations
-Assembly of components
-Material Handling]]></description>
+            <description><![CDATA[Compare the price between cut-off dies, part-off dies, and blanking dies.
+Compare the percentage of scrap material between cut-off dies, part-off dies, and blanking dies.
+Compare the cost of Individual dies & Progressive dies for piercing, forming, and shearing operations.
+Estimate the cost of Individual dies for bending operations.
+Estimate the pressing force and selection of Mechanical press.
+Compare the cycle time and processing cost between Individual dies and Progressive dies.
+Study the advantages and disadvantages of using a Turret press.
+Study the requirement of Laser cutting.
+Selection of Press Brake and tools for various part lengths. And estimate the cost of press brake operation.
+Study of types of equipment involved in the assembly of components.
+Material Handling.]]></description>
         </item>
     </channel>
 </rss>

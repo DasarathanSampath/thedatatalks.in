@@ -77,7 +77,7 @@ export default {
             test2TotalQuestions: 25,
             test3TotalQuestions: 25,
             test4TotalQuestions: 25,
-            test5TotalQuestions: 10,
+            test5TotalQuestions: 18,
             NumberSystem: "NumberSystem",
             test1StartingQuestion: 1,
             test2StartingQuestion: 26,

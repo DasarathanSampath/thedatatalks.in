@@ -16,8 +16,8 @@ export default ({
 }) => {
 
   Vue.use(Vuex),
-  Vue.mixin({store: store}),
-  router.addRoutes([
+  Vue.mixin({store: store})
+  //router.addRoute([
     // { path: '/register/', component: PageRegister, name: 'Register', meta: {requiresGuest: true} }
-  ]);
+  //]);
 }

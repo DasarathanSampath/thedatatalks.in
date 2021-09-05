@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thedatatalks.in</id>
     <title></title>
-    <updated>2021-08-17T07:48:46.455Z</updated>
+    <updated>2021-09-05T07:54:36.167Z</updated>
     <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
     <link rel="alternate" href="https://thedatatalks.in"/>
     <link rel="self" href="https://thedatatalks.in/feed.atom"/>
@@ -120,9 +120,9 @@ p - Monthly recurring amount(currency)]]></summary>
         <summary type="html"><![CDATA[Click here for Air Handling Unit (AHU) performance calculation.]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bernouli distribution & binomial trials]]></title>
-        <id>https://thedatatalks.in/education/bernouli-distribution-binomial-trials/</id>
-        <link href="https://thedatatalks.in/education/bernouli-distribution-binomial-trials/">
+        <title type="html"><![CDATA[Bernoulli distribution & binomial trials]]></title>
+        <id>https://thedatatalks.in/education/bernoulli-distribution-binomial-trials/</id>
+        <link href="https://thedatatalks.in/education/bernoulli-distribution-binomial-trials/">
         </link>
         <updated>2020-04-26T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[= p(1-P) = pq]]></summary>
@@ -166,8 +166,16 @@ was initially stable and floating around a constant value. Now it is increasing 
         <link href="https://thedatatalks.in/education/design-for-manufacturing-and-assembly-for-sheet-metals/">
         </link>
         <updated>2020-12-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Bending & its limitations
-Assembly of components
-Material Handling]]></summary>
+        <summary type="html"><![CDATA[Compare the price between cut-off dies, part-off dies, and blanking dies.
+Compare the percentage of scrap material between cut-off dies, part-off dies, and blanking dies.
+Compare the cost of Individual dies & Progressive dies for piercing, forming, and shearing operations.
+Estimate the cost of Individual dies for bending operations.
+Estimate the pressing force and selection of Mechanical press.
+Compare the cycle time and processing cost between Individual dies and Progressive dies.
+Study the advantages and disadvantages of using a Turret press.
+Study the requirement of Laser cutting.
+Selection of Press Brake and tools for various part lengths. And estimate the cost of press brake operation.
+Study of types of equipment involved in the assembly of components.
+Material Handling.]]></summary>
     </entry>
 </feed>
