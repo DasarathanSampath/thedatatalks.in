@@ -12,6 +12,12 @@ isHome: false
 
 <altLang />
 
+<div style="display: none">
+
+![](/img/education/chilled-water-flow-measurement/_thumbnail.png)
+
+</div>
+
 # {{ $frontmatter.title }}
 
 ## Using Orifice plate & Manometers

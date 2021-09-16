@@ -4,7 +4,7 @@
         <title></title>
         <link>https://thedatatalks.in</link>
         <description></description>
-        <lastBuildDate>Sun, 05 Sep 2021 07:54:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Sep 2021 15:59:54 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <atom:link href="https://thedatatalks.in/feed.atom" rel="self" type="application/rss+xml"/>
@@ -28,13 +28,16 @@
             <link>https://thedatatalks.in/economics/compound-interest/</link>
             <guid>https://thedatatalks.in/economics/compound-interest/</guid>
             <pubDate>Wed, 22 Apr 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[ {{ $frontmatter.author }} {{ $frontmatter.date }}]]></description>
+            <enclosure url="https://thedatatalks.in/img/economics/compound-interest/_thumbnail.png">
+            </enclosure>
         </item>
         <item>
             <title><![CDATA[Exports of India]]></title>
             <link>https://thedatatalks.in/economics/exports-of-india/</link>
             <guid>https://thedatatalks.in/economics/exports-of-india/</guid>
             <pubDate>Sun, 17 Feb 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[each years.]]></description>
+            <description><![CDATA[financial year of 1997-98]]></description>
             <enclosure url="https://thedatatalks.in/img/economics/exports-of-india_files/figure-markdown/exports-of-india-1.png">
             </enclosure>
         </item>
@@ -68,6 +71,8 @@ all-bond policy.]]></description>
 i - Rate of Interest(%)
 t - Total number of periods(months)
 p - Monthly recurring amount(currency)]]></description>
+            <enclosure url="https://thedatatalks.in/img/economics/recurring-deposit/_thumbnail.png">
+            </enclosure>
         </item>
         <item>
             <title><![CDATA[Reinvestment Deposit Scheme]]></title>
@@ -75,6 +80,8 @@ p - Monthly recurring amount(currency)]]></description>
             <guid>https://thedatatalks.in/economics/reinvestment-deposit-scheme/</guid>
             <pubDate>Thu, 30 Apr 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[As stated above interest on interest has to be gained, this method is called as reinvestment.]]></description>
+            <enclosure url="https://thedatatalks.in/img/economics/reinvestment-deposit-scheme/_thumbnail.png">
+            </enclosure>
         </item>
         <item>
             <title><![CDATA[Education]]></title>
@@ -95,28 +102,33 @@ p - Monthly recurring amount(currency)]]></description>
             <link>https://thedatatalks.in/education/ahu-air-side-cooling-load-calculation/</link>
             <guid>https://thedatatalks.in/education/ahu-air-side-cooling-load-calculation/</guid>
             <pubDate>Tue, 08 Dec 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[ {{ $frontmatter.author }} {{ $frontmatter.date }}]]></description>
+            <enclosure url="https://thedatatalks.in/img/education/ahu-air-side-cooling-load-calculation/_thumbnail.png">
+            </enclosure>
         </item>
         <item>
             <title><![CDATA[AHU water side cooling load calculation]]></title>
             <link>https://thedatatalks.in/education/ahu-water-side-cooling-load-calculation/</link>
             <guid>https://thedatatalks.in/education/ahu-water-side-cooling-load-calculation/</guid>
             <pubDate>Tue, 08 Dec 2020 00:00:00 GMT</pubDate>
+            <enclosure url="https://thedatatalks.in/img/education/ahu-water-side-cooling-load-calculation/_thumbnail.png">
+            </enclosure>
         </item>
         <item>
             <title><![CDATA[Air Handling Unit (AHU) performance calculation]]></title>
             <link>https://thedatatalks.in/education/air-handling-unit-performance-calculation/</link>
             <guid>https://thedatatalks.in/education/air-handling-unit-performance-calculation/</guid>
             <pubDate>Tue, 08 Dec 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[BTU of the coil side(High side) should match the BTU of the air side(Low side).]]></description>
+            <description><![CDATA[ {{ $frontmatter.author }} {{ $frontmatter.date }}]]></description>
+            <enclosure url="https://thedatatalks.in/img/education/air-handling-unit-performance-calculation/_thumbnail.png">
+            </enclosure>
         </item>
         <item>
             <title><![CDATA[Air Handling Unit (AHU) Selection Guide]]></title>
             <link>https://thedatatalks.in/education/air-handling-unit-selection/</link>
             <guid>https://thedatatalks.in/education/air-handling-unit-selection/</guid>
             <pubDate>Tue, 08 Dec 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[Click here for Air Handling Unit (AHU) performance calculation.]]></description>
-            <enclosure url="https://thedatatalks.in/img/education/air-handling-unit-selection/img1.png">
+            <description><![CDATA[Selection of AHU includes the type of AHU, filters, coils, panels, fans, and a few other components. Any change in specification of these items directly affects the performance, quality, capacity, and cost of the air handling units. This document explains various terminology and standards used in the industries at the macro level. The readers are advised to refer to the latest standards & manufacturer data to get specified accurate information.]]></description>
+            <enclosure url="https://thedatatalks.in/img/education/air-handling-unit-selection/_thumbnail.png">
             </enclosure>
         </item>
         <item>
@@ -124,8 +136,8 @@ p - Monthly recurring amount(currency)]]></description>
             <link>https://thedatatalks.in/education/bernoulli-distribution-binomial-trials/</link>
             <guid>https://thedatatalks.in/education/bernoulli-distribution-binomial-trials/</guid>
             <pubDate>Sun, 26 Apr 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[= p(1-P) = pq]]></description>
-            <enclosure url="https://thedatatalks.in/img/education/binomial-distribution/coinflip.png">
+            <description><![CDATA[If the probability of success is p, then the likelihood of failure will be q = (1-p)]]></description>
+            <enclosure url="https://thedatatalks.in/img/education/bernoulli-distribution-binomial-trials/_thumbnail.png">
             </enclosure>
         </item>
         <item>
@@ -133,8 +145,8 @@ p - Monthly recurring amount(currency)]]></description>
             <link>https://thedatatalks.in/education/chilled-water-flow-measurement/</link>
             <guid>https://thedatatalks.in/education/chilled-water-flow-measurement/</guid>
             <pubDate>Sun, 17 Feb 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[For the liquid line, install the orifice plate so that the differential ports are at the bottom of the water pipe to avoid air.]]></description>
-            <enclosure url="https://thedatatalks.in/@assets/images/education/chilled-water-flow-measurement/orifice-plate.png">
+            <description><![CDATA[Refer manufacturer datasheet for more information.]]></description>
+            <enclosure url="https://thedatatalks.in/img/education/chilled-water-flow-measurement/_thumbnail.png">
             </enclosure>
         </item>
         <item>
@@ -142,7 +154,8 @@ p - Monthly recurring amount(currency)]]></description>
             <link>https://thedatatalks.in/education/covid19-corona-virus-china-data/</link>
             <guid>https://thedatatalks.in/education/covid19-corona-virus-china-data/</guid>
             <pubDate>Sun, 05 Apr 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[The below chart has]]></description>
+            <description><![CDATA[The below graph clearly shows that the Covid-19 spread was initially
+exponential and later it started following logarithmic.]]></description>
             <enclosure url="https://thedatatalks.in/img/education/covid19-corona-virus-china-data_files/figure-markdown/world%20corona%20plot-1.png">
             </enclosure>
         </item>
@@ -151,8 +164,7 @@ p - Monthly recurring amount(currency)]]></description>
             <link>https://thedatatalks.in/education/covid19-corona-virus-india-data/</link>
             <guid>https://thedatatalks.in/education/covid19-corona-virus-india-data/</guid>
             <pubDate>Thu, 02 Apr 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[The below graph clearly shows that the Covid-19 daily new spread
-was initially stable and floating around a constant value. Now it is increasing exponentially.]]></description>
+            <description><![CDATA[The below chart has]]></description>
             <enclosure url="https://thedatatalks.in/img/education/covid19-corona-virus-india-data_files/figure-markdown/world%20corona%20plot-1.png">
             </enclosure>
         </item>
@@ -161,7 +173,7 @@ was initially stable and floating around a constant value. Now it is increasing 
             <link>https://thedatatalks.in/education/covid19-corona-virus-world-data/</link>
             <guid>https://thedatatalks.in/education/covid19-corona-virus-world-data/</guid>
             <pubDate>Sun, 05 Apr 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[formula]]></description>
+            <description><![CDATA[The below chart has]]></description>
             <enclosure url="https://thedatatalks.in/img/education/covid19-corona-virus-world-data_files/figure-markdown/world%20corona%20plot-1.png">
             </enclosure>
         </item>
@@ -170,17 +182,11 @@ was initially stable and floating around a constant value. Now it is increasing 
             <link>https://thedatatalks.in/education/design-for-manufacturing-and-assembly-for-sheet-metals/</link>
             <guid>https://thedatatalks.in/education/design-for-manufacturing-and-assembly-for-sheet-metals/</guid>
             <pubDate>Tue, 15 Dec 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[Compare the price between cut-off dies, part-off dies, and blanking dies.
-Compare the percentage of scrap material between cut-off dies, part-off dies, and blanking dies.
-Compare the cost of Individual dies & Progressive dies for piercing, forming, and shearing operations.
-Estimate the cost of Individual dies for bending operations.
-Estimate the pressing force and selection of Mechanical press.
-Compare the cycle time and processing cost between Individual dies and Progressive dies.
-Study the advantages and disadvantages of using a Turret press.
-Study the requirement of Laser cutting.
-Selection of Press Brake and tools for various part lengths. And estimate the cost of press brake operation.
-Study of types of equipment involved in the assembly of components.
-Material Handling.]]></description>
+            <description><![CDATA[a. Low capital (Cost of tooling & machining)
+    b. Low-cost machining operations
+    c. Understand the existing machinery and available tools on the shop floor.]]></description>
+            <enclosure url="https://thedatatalks.in/img/education/design-for-manufacturing-and-assembly-for-sheet-metals/_thumbnail.png">
+            </enclosure>
         </item>
     </channel>
 </rss>

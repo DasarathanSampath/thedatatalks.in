@@ -13,6 +13,12 @@ topic: others
 
 <altLang />
 
+<div style="display: none">
+
+![](/img/others/thirumandhiram-koorum-thathuvangal-thathuvigangal/_thumbnail.png)
+
+</div>
+
 # {{ $frontmatter.title }}
 <i style="font-size: 0.75em;"> {{ $frontmatter.author }} {{ $frontmatter.date }} </i>
 
@@ -161,6 +167,7 @@ topic: others
 
 [ஐந்து சிவதத்துவங்கள் பற்றி படிக்க](https://thedatatalks.in/ta/others/thirumandhiram-koorum-aindhu-siva-thathuvangal/) இங்கே சொடுக்கவும்.
 [ஐம்பூதங்கள், தன்மாத்திரைகள் & ஞானேந்திரியம் பற்றி திருமந்திரம் கூறும் கோட்பாடுகளைப் படிக்க](https://thedatatalks.in/ta/others/thirumandhiram-koorum-boodhangal-thanmathiraigal-nanendhriyangal/) இங்கே சொடுக்கவும்.
+[ஏழு வித்யா தத்துவங்கள் பற்றி படிக்க](https://thedatatalks.in/ta/others/thirumandhiram-koorum-ezhu-vidhya-thathuvangal/) இங்கே சொடுக்கவும்.
 
 ## 60 தாத்துவிகங்கள்:
 

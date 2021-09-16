@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thedatatalks.in</id>
     <title></title>
-    <updated>2021-09-05T07:54:36.167Z</updated>
+    <updated>2021-09-16T15:59:54.685Z</updated>
     <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
     <link rel="alternate" href="https://thedatatalks.in"/>
     <link rel="self" href="https://thedatatalks.in/feed.atom"/>
@@ -27,6 +27,7 @@
         <link href="https://thedatatalks.in/economics/compound-interest/">
         </link>
         <updated>2020-04-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ {{ $frontmatter.author }} {{ $frontmatter.date }}]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Exports of India]]></title>
@@ -34,7 +35,7 @@
         <link href="https://thedatatalks.in/economics/exports-of-india/">
         </link>
         <updated>2019-02-17T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[each years.]]></summary>
+        <summary type="html"><![CDATA[financial year of 1997-98]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Imports of India]]></title>
@@ -94,7 +95,6 @@ p - Monthly recurring amount(currency)]]></summary>
         <link href="https://thedatatalks.in/education/ahu-air-side-cooling-load-calculation/">
         </link>
         <updated>2020-12-08T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ {{ $frontmatter.author }} {{ $frontmatter.date }}]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[AHU water side cooling load calculation]]></title>
@@ -109,7 +109,7 @@ p - Monthly recurring amount(currency)]]></summary>
         <link href="https://thedatatalks.in/education/air-handling-unit-performance-calculation/">
         </link>
         <updated>2020-12-08T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[BTU of the coil side(High side) should match the BTU of the air side(Low side).]]></summary>
+        <summary type="html"><![CDATA[ {{ $frontmatter.author }} {{ $frontmatter.date }}]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Air Handling Unit (AHU) Selection Guide]]></title>
@@ -117,7 +117,7 @@ p - Monthly recurring amount(currency)]]></summary>
         <link href="https://thedatatalks.in/education/air-handling-unit-selection/">
         </link>
         <updated>2020-12-08T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Click here for Air Handling Unit (AHU) performance calculation.]]></summary>
+        <summary type="html"><![CDATA[Selection of AHU includes the type of AHU, filters, coils, panels, fans, and a few other components. Any change in specification of these items directly affects the performance, quality, capacity, and cost of the air handling units. This document explains various terminology and standards used in the industries at the macro level. The readers are advised to refer to the latest standards & manufacturer data to get specified accurate information.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bernoulli distribution & binomial trials]]></title>
@@ -125,7 +125,7 @@ p - Monthly recurring amount(currency)]]></summary>
         <link href="https://thedatatalks.in/education/bernoulli-distribution-binomial-trials/">
         </link>
         <updated>2020-04-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[= p(1-P) = pq]]></summary>
+        <summary type="html"><![CDATA[If the probability of success is p, then the likelihood of failure will be q = (1-p)]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Chilled water flows measurement using Orifice plate, Balancing valves, Manometers & Pitot tubes.]]></title>
@@ -133,7 +133,7 @@ p - Monthly recurring amount(currency)]]></summary>
         <link href="https://thedatatalks.in/education/chilled-water-flow-measurement/">
         </link>
         <updated>2019-02-17T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[For the liquid line, install the orifice plate so that the differential ports are at the bottom of the water pipe to avoid air.]]></summary>
+        <summary type="html"><![CDATA[Refer manufacturer datasheet for more information.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[China Covid-19 Corona virus data]]></title>
@@ -141,7 +141,8 @@ p - Monthly recurring amount(currency)]]></summary>
         <link href="https://thedatatalks.in/education/covid19-corona-virus-china-data/">
         </link>
         <updated>2020-04-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The below chart has]]></summary>
+        <summary type="html"><![CDATA[The below graph clearly shows that the Covid-19 spread was initially
+exponential and later it started following logarithmic.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[India Covid-19 Corona virus data]]></title>
@@ -149,8 +150,7 @@ p - Monthly recurring amount(currency)]]></summary>
         <link href="https://thedatatalks.in/education/covid19-corona-virus-india-data/">
         </link>
         <updated>2020-04-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The below graph clearly shows that the Covid-19 daily new spread
-was initially stable and floating around a constant value. Now it is increasing exponentially.]]></summary>
+        <summary type="html"><![CDATA[The below chart has]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[World Covid-19 Corona virus data]]></title>
@@ -158,7 +158,7 @@ was initially stable and floating around a constant value. Now it is increasing 
         <link href="https://thedatatalks.in/education/covid19-corona-virus-world-data/">
         </link>
         <updated>2020-04-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[formula]]></summary>
+        <summary type="html"><![CDATA[The below chart has]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Design For Manufacturing and Assembly(DFMA) principles of Sheet Metal Work]]></title>
@@ -166,16 +166,8 @@ was initially stable and floating around a constant value. Now it is increasing 
         <link href="https://thedatatalks.in/education/design-for-manufacturing-and-assembly-for-sheet-metals/">
         </link>
         <updated>2020-12-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Compare the price between cut-off dies, part-off dies, and blanking dies.
-Compare the percentage of scrap material between cut-off dies, part-off dies, and blanking dies.
-Compare the cost of Individual dies & Progressive dies for piercing, forming, and shearing operations.
-Estimate the cost of Individual dies for bending operations.
-Estimate the pressing force and selection of Mechanical press.
-Compare the cycle time and processing cost between Individual dies and Progressive dies.
-Study the advantages and disadvantages of using a Turret press.
-Study the requirement of Laser cutting.
-Selection of Press Brake and tools for various part lengths. And estimate the cost of press brake operation.
-Study of types of equipment involved in the assembly of components.
-Material Handling.]]></summary>
+        <summary type="html"><![CDATA[a. Low capital (Cost of tooling & machining)
+    b. Low-cost machining operations
+    c. Understand the existing machinery and available tools on the shop floor.]]></summary>
     </entry>
 </feed>

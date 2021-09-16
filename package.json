@@ -30,6 +30,7 @@
   "dependencies": {
     "@vuepress/plugin-blog": "^1.9.3",
     "@vuepress/shared-utils": "^1.7.1",
+    "caniuse-lite": "^1.0.30001257",
     "firebase": "^8.2.9",
     "firebase-tools": "^8.20.0",
     "firestore-export-import": "^0.15.0",

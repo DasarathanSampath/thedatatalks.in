@@ -13,6 +13,12 @@ topic: others
 
 <altLang />
 
+<div style="display: none">
+
+![](/img/others/thirumandhiram-koorum-boodhangal-thanmathiraigal-nanendhriyangal/_thumbnail.png)
+
+</div>
+
 # {{ $frontmatter.title }}
 <i style="font-size: 0.75em;"> {{ $frontmatter.author }} {{ $frontmatter.date }} </i>
 
@@ -87,6 +93,8 @@ topic: others
 </mermaid>
 </div>
 </div>
+
+[தத்துவ தாத்துவிகங்கள் பற்றி படிக்க](https://thedatatalks.in/ta/others/thirumandhiram-koorum-thathuvangal-thathuvigangal/) இங்கே சொடுக்கவும்.
 
 ## ஐம்பூதத்  தோற்றம்
 ```
