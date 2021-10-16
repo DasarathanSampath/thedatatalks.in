@@ -15,7 +15,7 @@ topic: education
 
 <div style="display: none">
 
-![](/img/education/psychrometric-chart-and-related-equations/_thumbnail.png)
+![](/img/education/psychrometric-chart-and-related-equations/_thumbnail.svg)
 
 </div>
 

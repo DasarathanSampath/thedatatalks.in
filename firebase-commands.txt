@@ -19,3 +19,7 @@ The JSON structure is
                 "lncode": "en-US"
             }
         }         
+
+
+To push "data_copy.json file" to firebase database, run
+node ./firestoreImport.js
